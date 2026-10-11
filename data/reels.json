@@ -343,5 +343,20 @@
     "saved": "2026-10-11",
     "item_ids": [],
     "file": "reels/19-disco-elysium-painting.md"
+  },
+  {
+    "id": "r20",
+    "slug": "20-claude-motion-stack",
+    "url": "https://www.instagram.com/reel/DePLcw_Dbwo/",
+    "creator": "@jackroberts___",
+    "title": "Motion stack for Claude Code websites",
+    "summary": "Jack Roberts (@jackroberts___, posted 2026-10-08) argues that Claude can build a website but not how it should move, and names three tools to paste into Claude Code: GSAP for scroll effects, Lenis for smooth scrolling, and React Bits for animated text, backgrounds and buttons. Caption names all three; the signed-out page showed no video, so no unseen on-screen commentary is claimed. The caption's 'comment MOTION' link-delivery offer was not acted on; official pages were verified directly.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      119,
+      120,
+      121
+    ],
+    "file": "reels/20-claude-motion-stack.md"
   }
 ]
