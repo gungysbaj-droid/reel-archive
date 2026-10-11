@@ -2859,5 +2859,22 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 108,
+    "reel": "r16",
+    "collection": "movies-to-watch",
+    "collection_title": "Movies to watch",
+    "title": "Office Romance (2026)",
+    "kind": "film",
+    "creator": "Netflix (Jennifer Lopez, Brett Goldstein)",
+    "note": "Closest real film to the reel's \"office romcom\" joke: Netflix's 2026 R-rated rom-com about a secret office romance between two workaholics. Tentative pick: the reel never names a film, it is a skit, and I could not confirm it riffs on this one. A commenter on the reel mentions the SNL comedian Ben Marshall (unconfirmed that he appears in the clip), and another says they searched for where to watch it. Treat as a movie to watch, not an identified source.",
+    "links": [
+      {
+        "label": "Netflix",
+        "url": "https://www.netflix.com/gb/title/81939823"
+      }
+    ],
+    "image": null
   }
 ]
