@@ -13,9 +13,13 @@ dqnamo's Kitchen: Cassette Audio Player, Hold to Confirm and Receipt Printer. Of
 
 ## 58. dqnamo's Kitchen
 
+Kind: website
+Collection: kitchen
+Creator: dqnamo
+
 Tactile UI demos: cassette player with turning reels; press-and-hold delete confirmation with timed undo; receipt-printing checkout animation. The receipt is a UI demo, not a physical printer. Adrien says code can be copied from each page; official demos show code controls and component/usage files. Dependencies, licensing and project compatibility still need review. No comment, follow or message sent.
 
-Image: ../assets/kitchen.jpg
+Image: ../assets/2-kitchen.jpg
 
 - Kitchen gallery: https://www.dqnamo.com/kitchen
 - Cassette demo: https://www.dqnamo.com/experiments/cassette-player
