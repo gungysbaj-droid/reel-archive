@@ -24,3 +24,4 @@
 | r20 | @jackroberts___ | Motion stack for Claude Code websites | 119-121 | [reels/20-claude-motion-stack.md](reels/20-claude-motion-stack.md) |
 | r21 | @designteamofone | Internet/www culture reading list | 122-125 | [reels/21-internet-culture-reading-list.md](reels/21-internet-culture-reading-list.md) |
 | r22 | @design4me__ | Free Figma shaders | 126-132 | [reels/22-figma-shaders.md](reels/22-figma-shaders.md) |
+| r23 | @melissa_danilov | Neuroscience topics to explore (part 7) | 133-137 | [reels/23-neuroscience-topics.md](reels/23-neuroscience-topics.md) |
