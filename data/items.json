@@ -3208,5 +3208,124 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 126,
+    "reel": "r22",
+    "collection": "figma-shaders",
+    "collection_title": "Free Figma shaders",
+    "title": "Lens distortion",
+    "kind": "website",
+    "creator": "Figma (built by the Figma team)",
+    "note": "Figma shader effect that creates realistic lens distortion and chromatic aberration with an adjustable center point (fisheye-style bulge plus colour fringing). Shown first in the reel on a close-up portrait.",
+    "links": [
+      {
+        "label": "Figma Community page",
+        "url": "https://www.figma.com/community/shader/1650660511777647690/lens-distortion"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 127,
+    "reel": "r22",
+    "collection": "figma-shaders",
+    "collection_title": "Free Figma shaders",
+    "title": "Moving blobs",
+    "kind": "website",
+    "creator": "Figma Community profile",
+    "note": "Animated, looping low-frequency noise mapped to a choice of refraction, displacement, bulge/pinch, hue shift or invert. The reel shows it warping a floral image into drifting blobs. Listed under the Figma Community profile.",
+    "links": [
+      {
+        "label": "Figma Community page",
+        "url": "https://www.figma.com/community/shader/1676361487169314995/moving-blobs"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 128,
+    "reel": "r22",
+    "collection": "figma-shaders",
+    "collection_title": "Free Figma shaders",
+    "title": "Slice shift",
+    "kind": "website",
+    "creator": "Figma (built by the Figma team)",
+    "note": "Slices an image into angled bands and shifts them apart, with adjustable angle, spread and randomness. The reel shows it splitting a face into offset strips.",
+    "links": [
+      {
+        "label": "Figma Community page",
+        "url": "https://www.figma.com/community/shader/1650668252069936227/slice-shift"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 129,
+    "reel": "r22",
+    "collection": "figma-shaders",
+    "collection_title": "Free Figma shaders",
+    "title": "Pixel stretch",
+    "kind": "website",
+    "creator": "Figma (built by the Figma team)",
+    "note": "Creates stretch and motion-inspired distortion effects, edited visually with on-canvas controls. The reel drags a circular control over an illustration to smear it. Page says it was built with the Figma agent.",
+    "links": [
+      {
+        "label": "Figma Community page",
+        "url": "https://www.figma.com/community/shader/1650660519331906639/pixel-stretch"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 130,
+    "reel": "r22",
+    "collection": "figma-shaders",
+    "collection_title": "Free Figma shaders",
+    "title": "Halftone",
+    "kind": "website",
+    "creator": "Figma (built by the Figma team)",
+    "note": "Simulates vintage print and comic-book halftones, with controls for colour separation, softness, scale and placement. The reel applies it to an illustrated landscape.",
+    "links": [
+      {
+        "label": "Figma Community page",
+        "url": "https://www.figma.com/community/shader/1650660527370397779/halftone"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 131,
+    "reel": "r22",
+    "collection": "figma-shaders",
+    "collection_title": "Free Figma shaders",
+    "title": "Warp",
+    "kind": "website",
+    "creator": "Figma (built by the Figma team)",
+    "note": "Creates organic distortions like ripples, swirls, twists and bulges (description from Figma's help centre). The reel shows it bending a red and black graphic.",
+    "links": [
+      {
+        "label": "Figma Community page",
+        "url": "https://www.figma.com/community/shader/1650660506105824327/warp"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 132,
+    "reel": "r22",
+    "collection": "figma-shaders",
+    "collection_title": "Free Figma shaders",
+    "title": "Pixelate",
+    "kind": "website",
+    "creator": "Figma (built by the Figma team)",
+    "note": "Pixelates and scatters an image into tiled shapes, with adjustable size, colour reduction and dissolve. The reel ends on it breaking a photo into blocks. Page says it was built with the Figma agent.",
+    "links": [
+      {
+        "label": "Figma Community page",
+        "url": "https://www.figma.com/community/shader/1650660504217386054/pixelate"
+      }
+    ],
+    "image": null
   }
     ]
