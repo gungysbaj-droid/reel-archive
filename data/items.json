@@ -3061,5 +3061,68 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 119,
+    "reel": "r20",
+    "collection": "claude-motion-stack",
+    "collection_title": "Motion tools for Claude Code sites",
+    "title": "GSAP (GreenSock Animation Platform)",
+    "kind": "website",
+    "creator": "GreenSock (Webflow)",
+    "note": "JavaScript animation library; the reel's pick for scroll effects. The official site says GSAP is now free for everyone, with Webflow's support, and covers scroll, SVG, text and UI interaction animation. Licence is GreenSock's standard no-charge licence, not MIT.",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://gsap.com"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/greensock/GSAP"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 120,
+    "reel": "r20",
+    "collection": "claude-motion-stack",
+    "collection_title": "Motion tools for Claude Code sites",
+    "title": "Lenis",
+    "kind": "website",
+    "creator": "darkroom.engineering",
+    "note": "Open-source smooth-scroll library; the reel says it makes scrolling feel smooth. The official site describes it as the smooth scroll library by darkroom.engineering. MIT licence.",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://lenis.darkroom.engineering"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/darkroomengineering/lenis"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 121,
+    "reel": "r20",
+    "collection": "claude-motion-stack",
+    "collection_title": "Motion tools for Claude Code sites",
+    "title": "React Bits",
+    "kind": "website",
+    "creator": "David Haz (DavidHDev)",
+    "note": "Collection of animated React components and backgrounds; the reel says it adds the moving pieces: text, backgrounds and buttons. Components install as source you own, via copy or CLI. The GitHub repo lists MIT + Commons Clause.",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://reactbits.dev"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/DavidHDev/react-bits"
+      }
+    ],
+    "image": null
   }
     ]
