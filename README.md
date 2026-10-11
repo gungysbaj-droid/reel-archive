@@ -1,27 +1,30 @@
-reel-archive
+# reel-archive
 
-Saved Instagram reel recommendations, extracted into a structure meant for LLM reading. Owner: Shotaro. Source of truth for the human version: a private hosted page ("The late-night archive gallery").
+Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro. Human version: https://files.instinct.com/psb3uy828v0d-the-late-night-archive-gallery
 
-Layout
-INDEX.md - one-table overview of every reel.
-data/reels.json - one record per reel: id, url, creator, title, summary, saved date, item_ids, file.
-data/items.json - flat list of every item (id, reel, collection, title, kind, creator, note, links[], image).
-reels/NN-slug.md - one file per reel, with front matter and every item written out.
-assets/ - cover/poster/preview images referenced by image fields.
-Conventions
-Item ids are global and increase by one (currently 1-58). Reel ids are rNN.
-kind is one of: archive-item, film, website, book, lesson.
-creator on an item is the director/author; the reel creator is on the reel record.
-Notes mark what was checked and what was not. Treat unchecked claims as unverified.
-Links are reference pages, not availability or rights claims.
-Adding a reel
-Add a record to data/reels.json (next rNN, slug NN-short-name).
-Append its items to data/items.json with the next ids.
-Create reels/NN-slug.md in the same shape as the others and add images to assets/.
-Add a row to INDEX.md.
+## Layout
 
-## Storage notes
+- `INDEX.md`: one-table overview of every reel.
+- `data/reels.json`: one record per reel, with id, slug, url, creator, title, summary, saved date, item_ids and file.
+- `data/items.json`: flat list of every item, with id, reel, collection, collection_title, title, kind, creator, note, links and image.
+- `reels/NN-slug.md`: one file per reel, with front matter and every item written out.
+- `assets/`: cover, poster and preview images referenced by image fields.
 
-The archive page: https://files.instinct.com/psb3uy828v0d-the-late-night-archive-gallery
+## Conventions
 
-Legacy image uploads carry numeric filename prefixes. The image fields and reel markdown refer to their actual names; preserve those references when appending. The two latest records are r08 and r09, saved 2026-10-11.
+- Item ids are global and increase by one, currently 1-58. Reel ids are `rNN`, currently r01-r09.
+- `kind` is one of archive-item, film, website, book or lesson.
+- Item creator is the director/author; reel creator is on the reel record.
+- Notes distinguish checked facts from unverified creator claims.
+- Links are reference pages, not availability or rights claims.
+- Image uploads carry numeric filename prefixes. Use their exact stored names, as the JSON and markdown do.
+
+## Adding a reel
+
+1. Add a record to `data/reels.json` with the next rNN and NN-short-name slug.
+2. Append items to `data/items.json` with the next ids.
+3. Create `reels/NN-slug.md` and upload any images to `assets/`.
+4. Check the actual stored filenames and use them in every image/file reference.
+5. Add a row to `INDEX.md` and read back the saved JSON to check counts and links.
+
+The two latest reels are r08 and r09, saved 2026-10-11. The repository and archive page are private.
