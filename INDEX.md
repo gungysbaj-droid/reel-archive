@@ -21,3 +21,4 @@
 | r17 | Cindy Zhu (@cindiezhu) | Four GitHub repos for advanced design effects | 109-112 | [reels/17-design-effects-repos.md](reels/17-design-effects-repos.md) |
 | r18 | @jasperjmutimer | Six books that shaped a designer's taste | 113-118 | [reels/18-design-philosophy-books.md](reels/18-design-philosophy-books.md) |
 | r19 | @kinsekyeong | Disco Elysium-style digital painting process | none (process reference) | [reels/19-disco-elysium-painting.md](reels/19-disco-elysium-painting.md) |
+| r20 | @jackroberts___ | Motion stack for Claude Code websites | 119-121 | [reels/20-claude-motion-stack.md](reels/20-claude-motion-stack.md) |
