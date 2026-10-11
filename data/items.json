@@ -2788,5 +2788,76 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 105,
+    "reel": "r15",
+    "collection": "aesthetic-mac-apps",
+    "collection_title": "Aesthetic Mac apps",
+    "title": "Vinyl - album art as a turntable on your desktop",
+    "kind": "website",
+    "creator": "shhivv",
+    "note": "Native macOS app that puts a photorealistic animated turntable on the screen, showing the album art and details of whatever is playing in Spotify or Apple Music (per its site). Matches the reel's first pick. A commenter on the reel says Vinyl isn't free; the maker also sells it through Gumroad. Pricing not checked, and there is an open-source GitHub repo by the same author.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.vinylformac.com/"
+      },
+      {
+        "label": "Source repo",
+        "url": "https://github.com/shhivv/vinylformac"
+      },
+      {
+        "label": "Gumroad",
+        "url": "https://shhiv.gumroad.com/l/vinyl"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 106,
+    "reel": "r15",
+    "collection": "aesthetic-mac-apps",
+    "collection_title": "Aesthetic Mac apps",
+    "title": "Launchy - radial app launcher and switcher",
+    "kind": "website",
+    "creator": "iSapozhnik",
+    "note": "macOS app giving quick access to launch or switch between applications through a radial menu, which fits the reel's \"radial menu\" description. Caveat: several unrelated apps are called Launchy (one is a Launchpad replacement at launchy.website); this is the radial one. The reel's \"Liquid Glass\" claim and exact app match are not confirmed from the video.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/iSapozhnik/Launchy-App-Switcher-Launcher"
+      },
+      {
+        "label": "Product Hunt",
+        "url": "https://www.producthunt.com/products/launchy-app-launcher-switcher"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 107,
+    "reel": "r15",
+    "collection": "aesthetic-mac-apps",
+    "collection_title": "Aesthetic Mac apps",
+    "title": "Droppy - Dynamic Island for the Mac notch",
+    "kind": "website",
+    "creator": "Droppy",
+    "note": "Mac app that turns the notch (or a floating pill) into a Dynamic Island-style surface: now playing, live activities, shelf and HUDs, with Liquid Glass and animation design written up in its blog. Matches the reel's third pick. The reel says a discount link is in the creator's bio; not checked.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://getdroppy.app/"
+      },
+      {
+        "label": "Notch docs",
+        "url": "https://getdroppy.app/docs/notch"
+      },
+      {
+        "label": "How Droppy animates",
+        "url": "https://getdroppy.app/blog/how-droppy-animates"
+      }
+    ],
+    "image": null
   }
 ]
