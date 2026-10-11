@@ -3424,5 +3424,111 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 138,
+    "reel": "r25",
+    "collection": "creative-taste-books",
+    "collection_title": "Books to develop your taste as a creative",
+    "title": "The Creative Act: A Way of Being",
+    "kind": "book",
+    "creator": "Rick Rubin",
+    "note": "Slide 1 item 01. Slide 2: \"The book that builds your creative instinct.\" Penguin Press, 2023.",
+    "links": [
+      {
+        "label": "Penguin Random House",
+        "url": "https://www.penguinrandomhouse.com/books/717356/the-creative-act-by-rick-rubin/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 139,
+    "reel": "r25",
+    "collection": "creative-taste-books",
+    "collection_title": "Books to develop your taste as a creative",
+    "title": "On Beauty and Being Just",
+    "kind": "book",
+    "creator": "Elaine Scarry",
+    "note": "Slide 1 item 02. Slide 2: \"The book that sharpens your sense of beauty.\" The slide spells the author \"Ellaine\"; the cover and publisher use Elaine Scarry. Princeton University Press.",
+    "links": [
+      {
+        "label": "Princeton University Press",
+        "url": "https://press.princeton.edu/books/paperback/9780691089591/on-beauty-and-being-just"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 140,
+    "reel": "r25",
+    "collection": "creative-taste-books",
+    "collection_title": "Books to develop your taste as a creative",
+    "title": "The Art of Looking Sideways",
+    "kind": "book",
+    "creator": "Alan Fletcher",
+    "note": "Slide 1 item 03. Title identified by the archive from the visible cover text (\"the art of looking sideways\") and Phaidon logo; the slide shows no title. Phaidon, 2001.",
+    "links": [
+      {
+        "label": "Internet Archive (reference link, not a rights claim)",
+        "url": "https://archive.org/details/artoflookingside0000flet"
+      },
+      {
+        "label": "Designers & Books",
+        "url": "https://www.designersandbooks.com/book/art-looking-sideways"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 141,
+    "reel": "r25",
+    "collection": "creative-taste-books",
+    "collection_title": "Books to develop your taste as a creative",
+    "title": "Interaction of Color",
+    "kind": "book",
+    "creator": "Josef Albers",
+    "note": "Slide 1 item 04. Cover shows the 50th Anniversary Edition. Yale University Press.",
+    "links": [
+      {
+        "label": "Yale University Press",
+        "url": "https://yalebooks.yale.edu/book/9780300179354/interaction-of-color/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 142,
+    "reel": "r25",
+    "collection": "creative-taste-books",
+    "collection_title": "Books to develop your taste as a creative",
+    "title": "Dieter Rams: As Little Design as Possible",
+    "kind": "book",
+    "creator": "Sophie Lovell",
+    "note": "Slide 1 item 05. Phaidon. Author credit comes from the Phaidon/Hachette listings, not the slide.",
+    "links": [
+      {
+        "label": "Phaidon",
+        "url": "https://www.phaidon.com/en-us/products/dieter-rams-as-little-design-as-possible"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 143,
+    "reel": "r25",
+    "collection": "creative-taste-books",
+    "collection_title": "Books to develop your taste as a creative",
+    "title": "Design as Art",
+    "kind": "book",
+    "creator": "Bruno Munari",
+    "note": "Slide 1 item 06. Penguin Modern Classics edition shown.",
+    "links": [
+      {
+        "label": "Penguin Random House",
+        "url": "https://www.penguinrandomhouse.com/books/276505/design-as-art-by-bruno-munari/"
+      }
+    ],
+    "image": null
   }
     ]
