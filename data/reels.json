@@ -236,4 +236,22 @@
     ],
     "file": "reels/12-bloomberg-covers.md"
   }
+,
+  {
+    "id": "r13",
+    "slug": "13-claude-design-plugins",
+    "url": "https://www.instagram.com/reel/DcWQCQdN28T/",
+    "creator": "Peter Griffin AI (@petergriffin.ai)",
+    "title": "Five Claude Code plugins for better-looking websites",
+    "summary": "AI-tools creator rounds up five Claude Code skills/plugins for making AI-built websites look less generic (posted 2026-08-22; caption asks readers to comment DESIGN for the links): TasteSkill for design taste, Web Design Guidelines for UI audits, AwesomeDesign for design-system context, ImageToCode for design-to-code and Playwright CLI for screenshot checks. The reel names all five; the archive verifies each tool's canonical home. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "file": "reels/13-claude-design-plugins.md"
+  }
 ]
