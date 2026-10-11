@@ -2572,8 +2572,7 @@
       }
     ],
     "image": null
-  }
-,
+  },
   {
     "id": 94,
     "reel": "r13",
@@ -2876,8 +2875,7 @@
       }
     ],
     "image": null
-  }
-,
+  },
   {
     "id": 109,
     "reel": "r17",
@@ -2902,8 +2900,7 @@
       }
     ],
     "image": null
-  }
-,
+  },
   {
     "id": 110,
     "reel": "r17",
@@ -2920,8 +2917,7 @@
       }
     ],
     "image": null
-  }
-,
+  },
   {
     "id": 111,
     "reel": "r17",
@@ -2942,8 +2938,7 @@
       }
     ],
     "image": null
-  }
-,
+  },
   {
     "id": 112,
     "reel": "r17",
@@ -2957,6 +2952,112 @@
       {
         "label": "GitHub",
         "url": "https://github.com/paper-design/liquid-logo"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 113,
+    "reel": "r18",
+    "collection": "design-philosophy-books",
+    "collection_title": "Design philosophy books",
+    "title": "Tokyo Style",
+    "kind": "book",
+    "creator": "Kyoichi Tsuzuki",
+    "note": "Photographic record of Tokyo homes as they are lived in: clutter, collecting, improvised storage and personal taste rather than styled interiors. Asia Art Archive describes visits to a hundred homes over two years and eight sections: Beauty in Chaos, The Fancy Fetish, Artsy Pads, The Traditional Touch, Monomaniacs, Kiddie Kingdoms, Inertial Living and Hermitages. The work was first published in 1993; the linked Apartamento edition (2024, reprinted 2025) adds a foreword by Barry Yourgrau and a new afterword by Tsuzuki. The reel does not specify an edition.",
+    "links": [
+      {
+        "label": "Publisher / current edition",
+        "url": "https://www.apartamentomagazine.com/product/tokyo-style-kyoichi-tsuzuki-book/"
+      },
+      {
+        "label": "Library record / contents",
+        "url": "https://aaa.org.hk/en/collections/search/library/tokyo-style"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 114,
+    "reel": "r18",
+    "collection": "design-philosophy-books",
+    "collection_title": "Design philosophy books",
+    "title": "MAKI OPUS",
+    "kind": "book",
+    "creator": "Fumihiko Maki",
+    "note": "Career retrospective of architect Fumihiko Maki, published by Thames & Hudson and compiled with his studio. The publisher describes fifty buildings from 1960 onward, including MIT Media Lab, the Aga Khan Museum and 4 World Trade Centre. Coverage follows his materials, building technology and work outside Japan, using archival photographs and drawings. The caption names the publisher, not an author.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://www.thamesandhudson.com/products/maki-opus"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 115,
+    "reel": "r18",
+    "collection": "design-philosophy-books",
+    "collection_title": "Design philosophy books",
+    "title": "Dieter Rams: The Complete Works",
+    "kind": "book",
+    "creator": "Klaus Klemp",
+    "note": "Phaidon's chronological catalogue of the products designed by Dieter Rams, made in collaboration with him and with his foreword. Each product has a description and technical specifications. The publisher situates the work around Rams's ten principles for good design. This is The Complete Works, not the separate title As Little Design as Possible.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://www.phaidon.com/en-us/products/dieter-rams-the-complete-works"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 116,
+    "reel": "r18",
+    "collection": "design-philosophy-books",
+    "collection_title": "Design philosophy books",
+    "title": "Eames",
+    "kind": "book",
+    "creator": "Gloria Koenig",
+    "note": "TASCHEN's Basic Art introduction to Charles and Ray Eames. It covers furniture, architecture, textile design, photography and film, from molded plywood furniture and the Case Study Houses to Powers of Ten. A compact overview of their cross-disciplinary practice, rather than only a chair catalogue.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://www.taschen.com/en/books/architecture-design/49209/eames/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 117,
+    "reel": "r18",
+    "collection": "design-philosophy-books",
+    "collection_title": "Design philosophy books",
+    "title": "Brett Whiteley: Art & Life",
+    "kind": "book",
+    "creator": "Barry Pearce, with Bryan Robertson and Wendy Whiteley",
+    "note": "Thames & Hudson survey of Whiteley's work from the 1950s to the final years of his life, with over 180 colour plates. Barry Pearce provides the overview of his life and art; Bryan Robertson writes about the London years; Wendy Whiteley contributes a personal portrait. The publisher emphasizes landscape, the nude and fluid drawing. This is the art survey, not Ashleigh Wilson's biography Art, Life and the Other Thing.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://www.thamesandhudson.com/products/brett-whiteley"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 118,
+    "reel": "r18",
+    "collection": "design-philosophy-books",
+    "collection_title": "Design philosophy books",
+    "title": "Vitra: The Anatomy of a Design Company",
+    "kind": "book",
+    "creator": "Deyan Sudjic, with contributions by Karen Stein and Iwan Baan",
+    "note": "Phaidon history of three generations behind Vitra and its role across architecture, graphics, photography and product design. Coverage includes work with the Eameses, Gehry and Hadid, support for designers such as Jasper Morrison and the Bouroullecs, preserved design archives and the design museum. Correction: the reel caption says Thames & Hudson; the verified edition is published by Phaidon.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://www.phaidon.com/en-us/products/vitra"
       }
     ],
     "image": null
