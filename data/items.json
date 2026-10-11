@@ -3124,5 +3124,89 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 122,
+    "reel": "r21",
+    "collection": "internet-culture-reading-list",
+    "collection_title": "Internet/www culture reading list",
+    "title": "Eaten by the Internet",
+    "kind": "book",
+    "creator": "Corinne Cath (editor)",
+    "note": "Meatspace Press's sixth paperback: fifteen chapters from researchers, activists and techies that treat internet infrastructure as a force of political power. The reel recommends it as writing about the internet rather than on it (\"a more critical lens\"). The publisher also lists a pdf/ebook download and the Internet Archive hosts a copy; links here are reference pages, not rights claims.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://shop.meatspacepress.com/products/eaten-by-the-internet"
+      },
+      {
+        "label": "Meatspace Press",
+        "url": "https://meatspacepress.com/"
+      },
+      {
+        "label": "Internet Archive",
+        "url": "https://archive.org/details/eaten-by-the-internet"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 123,
+    "reel": "r21",
+    "collection": "internet-culture-reading-list",
+    "collection_title": "Internet/www culture reading list",
+    "title": "Becoming the Product: The Critical Internet Researcher as a Virtual Intellectual",
+    "kind": "book",
+    "creator": "Morgane Billuart (editor), with Alex Quicho and Joshua Citarella among the practitioners examined",
+    "note": "Set Margins' essay book (164 pages, softcover, released 2025-05-22, ISBN 978-90-835325-1-6) on how internet researchers such as Geert Lovink, Joshua Citarella, Alex Quicho and Sophie Publig share work and sustain careers in the attention economy. The reel presents it as a dive into the internet economy, running on attention, aesthetics and influence.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://www.setmargins.press/books/becoming-the-product/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 124,
+    "reel": "r21",
+    "collection": "internet-culture-reading-list",
+    "collection_title": "Internet/www culture reading list",
+    "title": "Slanted Magazine #47: Digital Tools",
+    "kind": "book",
+    "creator": "Slanted (Franziska Müller, author of the product text)",
+    "note": "Spring/Summer 2026 issue of the Karlsruhe design magazine on the tools behind contemporary creative practice: open-source projects, custom scripts and everyday utilities across graphic and type design, illustration, 3D, web, generative design and creative coding. The reel shows spreads and recommends it as a fun read on how digital tools shape work.",
+    "links": [
+      {
+        "label": "Publisher",
+        "url": "https://www.slanted.de/slanted-magazine-47-digital-tools/"
+      },
+      {
+        "label": "Digital Tools directory",
+        "url": "https://www.slanted.de/news/digital-tools/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 125,
+    "reel": "r21",
+    "collection": "internet-culture-reading-list",
+    "collection_title": "Internet/www culture reading list",
+    "title": "Third Place Zine",
+    "kind": "website",
+    "creator": "Third Place Zine (independent publication)",
+    "note": "The reel's bonus for logging off: an independent print and digital zine about community in the built environment and third places. The video shows a cover and spreads including a piece titled \"Can hot girls save NYC?\"; the exact issue was not identified. The official site currently lists Issue 2: Movement Building, with a shop and stockists page.",
+    "links": [
+      {
+        "label": "Official site",
+        "url": "https://thirdplacezine.com/"
+      },
+      {
+        "label": "Substack",
+        "url": "https://thirdplacezine.substack.com/"
+      }
+    ],
+    "image": null
   }
     ]
