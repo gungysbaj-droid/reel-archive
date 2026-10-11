@@ -12,7 +12,7 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 
 ## Conventions
 
-- Item ids are global and increase by one, currently 1-93. Reel ids are `rNN`, currently r01-r12.
+- Item ids are global and increase by one, currently 1-98. Reel ids are `rNN`, currently r01-r13.
 - `kind` is one of archive-item, film, website, book or lesson.
 - Item creator is the director/author; reel creator is on the reel record.
 - Notes distinguish checked facts from unverified creator claims.
@@ -27,13 +27,13 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 4. Check the actual stored filenames and use them in every image/file reference.
 5. Add a row to `INDEX.md` and read back the saved JSON to check counts and links.
 
-The two latest reels are r11 and r12, saved 2026-10-11. The repository and archive page are private.
+The three latest reels are r11, r12 and r13, saved 2026-10-11. The repository and archive page are private.
 
 ## Book contents
 
 The six menswear items (38-43) now have optional `contents` objects in data/items.json, mirrored in reels/04-menswear-books.md. These record verified chapter lists or coverage summaries, sources, edition/source caveats and checked date. They do not contain full book texts. Modern Black Tie has a verified ten-chapter structure but not exact chapter names; Savile Row and The Italian Gentleman retain source discrepancies rather than invented harmonized contents.
 
-Reels 10-12 were added to this repository only; the hosted gallery was not changed by this update.
+Reels 10-13 were added to this repository only; the hosted gallery was not changed by this update.
 
 ## Substantive book notes
 
