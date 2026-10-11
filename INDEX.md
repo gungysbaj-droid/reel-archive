@@ -22,3 +22,4 @@
 | r18 | @jasperjmutimer | Six books that shaped a designer's taste | 113-118 | [reels/18-design-philosophy-books.md](reels/18-design-philosophy-books.md) |
 | r19 | @kinsekyeong | Disco Elysium-style digital painting process | none (process reference) | [reels/19-disco-elysium-painting.md](reels/19-disco-elysium-painting.md) |
 | r20 | @jackroberts___ | Motion stack for Claude Code websites | 119-121 | [reels/20-claude-motion-stack.md](reels/20-claude-motion-stack.md) |
+| r21 | @designteamofone | Internet/www culture reading list | 122-125 | [reels/21-internet-culture-reading-list.md](reels/21-internet-culture-reading-list.md) |
