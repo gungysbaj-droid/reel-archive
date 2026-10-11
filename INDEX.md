@@ -23,3 +23,4 @@
 | r19 | @kinsekyeong | Disco Elysium-style digital painting process | none (process reference) | [reels/19-disco-elysium-painting.md](reels/19-disco-elysium-painting.md) |
 | r20 | @jackroberts___ | Motion stack for Claude Code websites | 119-121 | [reels/20-claude-motion-stack.md](reels/20-claude-motion-stack.md) |
 | r21 | @designteamofone | Internet/www culture reading list | 122-125 | [reels/21-internet-culture-reading-list.md](reels/21-internet-culture-reading-list.md) |
+| r22 | @design4me__ | Free Figma shaders | 126-132 | [reels/22-figma-shaders.md](reels/22-figma-shaders.md) |
