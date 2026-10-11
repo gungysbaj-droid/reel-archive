@@ -2670,5 +2670,123 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 99,
+    "reel": "r14",
+    "collection": "persona-two-faces-shot",
+    "collection_title": "Persona and the two-faces shot",
+    "title": "Persona (1966)",
+    "kind": "film",
+    "creator": "Ingmar Bergman",
+    "note": "The film behind the reel's shot. Nurse Alma (Bibi Andersson) and actress Elisabet (Liv Ullmann) in a two-hander shot by Sven Nykvist; the two faces are overlapped, by blocking and compositing, into a single face. Criterion lists the cast and Bergman as director; the composite-face reading is the reel creator's description. Criterion also streams it on the Criterion Channel (subscription).",
+    "links": [
+      {
+        "label": "Criterion Collection",
+        "url": "https://www.criterion.com/films/28491-persona"
+      },
+      {
+        "label": "Criterion Channel",
+        "url": "https://www.criterionchannel.com/persona"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 100,
+    "reel": "r14",
+    "collection": "persona-two-faces-shot",
+    "collection_title": "Persona and the two-faces shot",
+    "title": "The Persistence of Persona (Criterion essay)",
+    "kind": "website",
+    "creator": "Criterion Current",
+    "note": "Criterion's essay on Persona's lasting hold, opening with the two shots that became its emblems: a boy touching a woman's face on a giant screen, and two women looking at each other in a composite close-up. Best reading to go with the reel. It names Lynch among directors admiring Bergman's work; it does not itself list the specific homages below.",
+    "links": [
+      {
+        "label": "Essay",
+        "url": "https://www.criterion.com/current/posts/3116-the-persistence-of-persona"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 101,
+    "reel": "r14",
+    "collection": "persona-two-faces-shot",
+    "collection_title": "Persona and the two-faces shot",
+    "title": "La Pointe Courte (1955)",
+    "kind": "film",
+    "creator": "Agnès Varda",
+    "note": "Varda's first feature, a study of a marriage on the rocks in a fishing village. The reel cites it as an example of the one-sided profile composition used for unrequited love. That pairing is the creator's claim; this entry only verifies the film's pages.",
+    "links": [
+      {
+        "label": "Criterion Collection",
+        "url": "https://www.criterion.com/films/524-la-pointe-courte"
+      },
+      {
+        "label": "Criterion Channel",
+        "url": "https://www.criterionchannel.com/la-pointe-courte"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 102,
+    "reel": "r14",
+    "collection": "persona-two-faces-shot",
+    "collection_title": "Persona and the two-faces shot",
+    "title": "Ghost in the Shell (1995)",
+    "kind": "film",
+    "creator": "Mamoru Oshii",
+    "note": "The reel's example of the shot used for a figuratively and literally shared mind. A fan post compares the recreation frame-by-frame with Persona (user-generated, not an authoritative source); Wikipedia has the film's production background.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)"
+      },
+      {
+        "label": "Fan shot comparison (Reddit)",
+        "url": "https://www.reddit.com/r/MovieDetails/comments/jwfzzf/near_exact_shot_recreation_in_ghost_in_the_shell/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 103,
+    "reel": "r14",
+    "collection": "persona-two-faces-shot",
+    "collection_title": "Persona and the two-faces shot",
+    "title": "Mulholland Dr. (2001)",
+    "kind": "film",
+    "creator": "David Lynch",
+    "note": "One of the two films the reel says directly cites Persona (per the caption; this entry verifies the film page only, not the citation). Criterion has an edition with 4K UHD.",
+    "links": [
+      {
+        "label": "Criterion Collection",
+        "url": "https://www.criterion.com/films/28050-mulholland-dr"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 104,
+    "reel": "r14",
+    "collection": "persona-two-faces-shot",
+    "collection_title": "Persona and the two-faces shot",
+    "title": "Portrait of a Lady on Fire (2019)",
+    "kind": "film",
+    "creator": "Céline Sciamma",
+    "note": "The other film the reel says cites Persona, with the central-women shot recontextualised (per the caption; this entry verifies the film page only). Criterion also has a Current essay on the film.",
+    "links": [
+      {
+        "label": "Criterion Collection",
+        "url": "https://www.criterion.com/films/30469-portrait-of-a-lady-on-fire"
+      },
+      {
+        "label": "Criterion essay: Daring to See",
+        "url": "https://www.criterion.com/current/posts/6991-portrait-of-a-lady-on-fire-daring-to-see"
+      }
+    ],
+    "image": null
   }
-    ]
+]
