@@ -17,3 +17,4 @@
 | r13 | Peter Griffin AI (@petergriffin.ai) | Five Claude Code plugins for better-looking websites | 94-98 | [reels/13-claude-design-plugins.md](reels/13-claude-design-plugins.md) |
 | r14 | Film School Dropouts (@filmschool.dropouts) | Persona's two-faces shot and its echoes | 99-104 | [reels/14-persona-two-faces-shot.md](reels/14-persona-two-faces-shot.md) |
 | r15 | Fensy (@fensyy19) | Three aesthetic Mac apps | 105-107 | [reels/15-aesthetic-mac-apps.md](reels/15-aesthetic-mac-apps.md) |
+| r16 | dottiesjournal (@dottiesjournal) | Office romcom to job-hunt romcom | 108-108 | [reels/16-job-hunt-romcom.md](reels/16-job-hunt-romcom.md) |
