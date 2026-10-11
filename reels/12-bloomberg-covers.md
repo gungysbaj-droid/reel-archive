@@ -13,7 +13,7 @@ Oren John (brand and creative director; caption tag #creativedirector) holds up 
 
 ## Cover images
 
-Six actual covers saved locally on 2026-10-11. The two covers identified in the reel are embedded again beside their entries below; the other four are a representative selection from CoverJunkie, not claimed to appear in the reel. Images remain copyright Bloomberg Businessweek and their creators; saved for this private reference archive, not a reuse licence. CoverJunkie dates below are post dates, not independently verified issue dates.
+Twenty distinct covers saved locally on 2026-10-11. The two covers identified in the reel are embedded again beside their entries below; the other eighteen are a representative selection from CoverJunkie, Digiday, and Jordi Ng's portfolio, not claimed to appear in the reel. Images remain copyright Bloomberg Businessweek and their creators; saved for this private reference archive, not a reuse licence. CoverJunkie dates below are post dates, not independently verified issue dates.
 
 ### Let's Get It On
 
@@ -50,6 +50,99 @@ Six actual covers saved locally on 2026-10-11. The two covers identified in the 
 ![Beware the Bubble: How to Survive the Year Ahead](../assets/4-83-businessweek-year-ahead-2026.jpg)
 
 [Image source](https://coverjunkie.com/cover/businessweek-us-7)
+
+
+### More Turley-era classics
+
+Four more full covers from Digiday's Richard Turley selection.
+
+#### Bang Head Here
+
+![Bang Head Here](../assets/1-01-83-businessweek-bbw-cover-bang-head-here-5.28.12.jpg)
+
+[Image source](https://digiday.com/media/richard-turleys-best-businessweek-covers/)
+
+#### It's Global Warming, Stupid
+
+![It's Global Warming, Stupid](../assets/2-02-83-businessweek-bbw-cover-its-global-warming-stupid-11.5.12.jpg)
+
+[Image source](https://digiday.com/media/richard-turleys-best-businessweek-covers/)
+
+#### The Hedge Fund Myth
+
+![The Hedge Fund Myth](../assets/3-03-83-businessweek-bbw-cover-hedge-fund-cover-7.15.13-e1398300242587.jpg)
+
+[Image source](https://digiday.com/media/richard-turleys-best-businessweek-covers/)
+
+#### Twitter Bird
+
+![Twitter Bird](../assets/4-04-83-businessweek-bbw-cover-twitterbird-cover-11.11.13.jpg)
+
+[Image source](https://digiday.com/media/richard-turleys-best-businessweek-covers/)
+
+### Jordi Ng's art-directed selection
+
+Ten more covers from the art director's 2022-ongoing portfolio. The Egg is an animated four-cover sequence from the source; the others are still images. Story names below follow the portfolio, which may differ from the printed cover headline.
+
+#### The Egg
+
+![The Egg](../assets/5-05-83-businessweek-fertility_cover.gif)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### The Year Ahead 2024
+
+![The Year Ahead 2024](../assets/6-07-83-businessweek-tya_scanned.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### A Deepfake Horror Story
+
+![A Deepfake Horror Story](../assets/7-08-83-businessweek-deepfakes_smaller.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### Sextortion
+
+![Sextortion](../assets/8-09-83-businessweek-sextortion.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### The DNA Delusion
+
+![The DNA Delusion](../assets/9-10-83-businessweek-23andme_2.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### Barbie Goes to the Movies
+
+![Barbie Goes to the Movies](../assets/10-11-83-businessweek-barbie.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### The Cities Issue 2023
+
+![The Cities Issue 2023](../assets/11-12-83-businessweek-cities.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### The Sneaky Genius of Apple's AirPods Empire
+
+![The Sneaky Genius of Apple's AirPods Empire](../assets/12-13-83-businessweek-airpods.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### Is There Life After Death for Swiss Banking?
+
+![Is There Life After Death for Swiss Banking?](../assets/13-14-83-businessweek-swiss_cover.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
+
+#### The Fall of a Crypto Empire
+
+![The Fall of a Crypto Empire](../assets/14-15-83-businessweek-ftx.jpg)
+
+[Image source](https://awpoop.com/Bloomberg-Businessweek-Covers)
 
 ## 82. Bloomberg Businessweek issue archive
 
