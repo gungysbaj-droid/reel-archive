@@ -26,3 +26,4 @@
 | r22 | @design4me__ | Free Figma shaders | 126-132 | [reels/22-figma-shaders.md](reels/22-figma-shaders.md) |
 | r23 | @melissa_danilov | Neuroscience topics to explore (part 7) | 133-137 | [reels/23-neuroscience-topics.md](reels/23-neuroscience-topics.md) |
 | r24 | @ibithecreator | The mathematical formula behind beautiful design | none (no named resource) | [reels/24-golden-ratio-design-formula.md](reels/24-golden-ratio-design-formula.md) |
+| r25 | @processthepodcast | Books to develop your taste as a creative | 138-143 | [reels/25-creative-taste-books.md](reels/25-creative-taste-books.md) |
