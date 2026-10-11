@@ -300,4 +300,21 @@
     ],
     "file": "reels/16-job-hunt-romcom.md"
   }
+,
+  {
+    "id": "r17",
+    "slug": "17-design-effects-repos",
+    "url": "https://www.instagram.com/reel/DdrK2xeJY15/",
+    "creator": "Cindy Zhu (@cindiezhu)",
+    "title": "Four GitHub repos for advanced design effects",
+    "summary": "Design creator Cindy Zhu (@cindiezhu) shows four GitHub repos for advanced design effects, to adapt with Claude Code (posted 2026-09-24, 6.1K likes, 3.2K comments): react-three-fiber (React renderer for three.js), liquid-glass-js (Apple-style liquid glass UI), shadergradient (animated shader gradients) and liquid-logo (liquid-metal logo effect). The reel is comment-bait - \"comment 'repos' for all four links and the implementation guide\" - so links go out by DM; the four repos were recovered from the video itself, and the DM'd implementation guide was not visible signed-out. Caption advice: a repository is reference code, not a magic asset - check licence, maintenance and framework first, then ask Claude Code to isolate the smallest effect and adapt it in a disposable branch before merging. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "file": "reels/17-design-effects-repos.md"
+  }
 ]
