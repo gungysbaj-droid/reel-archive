@@ -15,3 +15,4 @@
 | r11 | @mumbipoetry | A decolonial African Studies curriculum | 67-81 | [reels/11-african-studies-curriculum.md](reels/11-african-studies-curriculum.md) |
 | r12 | Oren John (@orenmeetsworld) | Bloomberg covers for design inspiration | 82-93 | [reels/12-bloomberg-covers.md](reels/12-bloomberg-covers.md) |
 | r13 | Peter Griffin AI (@petergriffin.ai) | Five Claude Code plugins for better-looking websites | 94-98 | [reels/13-claude-design-plugins.md](reels/13-claude-design-plugins.md) |
+| r14 | Film School Dropouts (@filmschool.dropouts) | Persona's two-faces shot and its echoes | 99-104 | [reels/14-persona-two-faces-shot.md](reels/14-persona-two-faces-shot.md) |
