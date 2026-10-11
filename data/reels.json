@@ -235,8 +235,7 @@
       93
     ],
     "file": "reels/12-bloomberg-covers.md"
-  }
-,
+  },
   {
     "id": "r13",
     "slug": "13-claude-design-plugins",
@@ -299,8 +298,7 @@
       108
     ],
     "file": "reels/16-job-hunt-romcom.md"
-  }
-,
+  },
   {
     "id": "r17",
     "slug": "17-design-effects-repos",
@@ -316,5 +314,23 @@
       112
     ],
     "file": "reels/17-design-effects-repos.md"
+  },
+  {
+    "id": "r18",
+    "slug": "18-design-philosophy-books",
+    "url": "https://www.instagram.com/reel/DbIUOv2AefI/",
+    "creator": "@jasperjmutimer",
+    "title": "Six books that shaped a designer's taste",
+    "summary": "@jasperjmutimer recommends six books that shaped his design taste. His caption argues that knowing at least one designer's philosophy is useful for a creative career. The six titles and their order were extracted from the reel's own caption. Publisher and library pages verify the books and the coverage notes below. Video frames could not be recovered from the signed-out embed, so no unobserved on-screen commentary is claimed. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "file": "reels/18-design-philosophy-books.md"
   }
 ]
