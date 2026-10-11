@@ -19,3 +19,4 @@
 | r15 | Fensy (@fensyy19) | Three aesthetic Mac apps | 105-107 | [reels/15-aesthetic-mac-apps.md](reels/15-aesthetic-mac-apps.md) |
 | r16 | dottiesjournal (@dottiesjournal) | Office romcom to job-hunt romcom | 108-108 | [reels/16-job-hunt-romcom.md](reels/16-job-hunt-romcom.md) |
 | r17 | Cindy Zhu (@cindiezhu) | Four GitHub repos for advanced design effects | 109-112 | [reels/17-design-effects-repos.md](reels/17-design-effects-repos.md) |
+| r18 | @jasperjmutimer | Six books that shaped a designer's taste | 113-118 | [reels/18-design-philosophy-books.md](reels/18-design-philosophy-books.md) |
