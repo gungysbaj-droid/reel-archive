@@ -11,3 +11,5 @@
 | r07 | @chrystalcanread (Chrystal) | Two books by Louis-Ferdinand Céline | 55-56 | [reels/07-french-lit-celine.md](reels/07-french-lit-celine.md) |
 | r08 | ines (@seniraii) | The politics of a round table | 57-57 | [reels/08-round-table-etiquette.md](reels/08-round-table-etiquette.md) |
 | r09 | Adrien Ninet (@adrien.ninet) | Kitchen: tactile UI experiments | 58-58 | [reels/09-kitchen-ui.md](reels/09-kitchen-ui.md) |
+| r10 | @processthepodcast | Eight books to develop creative taste | 59-66 | [reels/10-creativity-books.md](reels/10-creativity-books.md) |
+| r11 | @mumbipoetry | A decolonial African Studies curriculum | 67-81 | [reels/11-african-studies-curriculum.md](reels/11-african-studies-curriculum.md) |
