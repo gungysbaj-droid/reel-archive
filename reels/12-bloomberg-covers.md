@@ -11,6 +11,46 @@ item_ids: [82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93]
 
 Oren John (brand and creative director; caption tag #creativedirector) holds up print Bloomberg Businessweek issues as cover-design inspiration, posted 2026-10-08. The frame shows him presenting several covers, including "A Very Long Bull" (September 17, 2018 issue) and the "Let's Get It On" United-Continental cover (February 2012). Businessweek's cover direction is a decades-long design touchstone: Richard Turley's 2010-2014 creative-director era made the weekly cover reveal an event in itself, and the magazine still commissions illustrated and concept covers today. The reel names no resources, so the items below gather the verified places to browse the covers, the design coverage explaining the famous era, and the two covers visible in the frame. Links checked 2026-10-11.
 
+## Cover images
+
+Six actual covers saved locally on 2026-10-11. The two covers identified in the reel are embedded again beside their entries below; the other four are a representative selection from CoverJunkie, not claimed to appear in the reel. Images remain copyright Bloomberg Businessweek and their creators; saved for this private reference archive, not a reuse licence. CoverJunkie dates below are post dates, not independently verified issue dates.
+
+### Let's Get It On
+
+![Let's Get It On](../assets/5-92-businessweek-lets-get-it-on.jpg)
+
+[Image source](https://digiday.com/media/richard-turleys-best-businessweek-covers/)
+
+### A Very Long Bull
+
+![A Very Long Bull](../assets/6-93-businessweek-very-long-bull.jpg)
+
+[Image source](https://bloomberg.com/magazine/businessweek/18_39)
+
+### The Future of War Is Here
+
+![The Future of War Is Here](../assets/1-83-businessweek-ai-warfare-2026.jpg)
+
+[Image source](https://coverjunkie.com/cover/bloomberg-businessweek-bloomberg-businessweek-2)
+
+### The Golden Age of Grift
+
+![The Golden Age of Grift](../assets/2-83-businessweek-september-2026.jpg)
+
+[Image source](https://coverjunkie.com/cover/bloomberg-businessweek-bloomberg-businessweek-3)
+
+### Business Straps In
+
+![Business Straps In](../assets/3-83-businessweek-trump-2026.jpg)
+
+[Image source](https://coverjunkie.com/cover/businessweek)
+
+### Beware the Bubble: How to Survive the Year Ahead
+
+![Beware the Bubble: How to Survive the Year Ahead](../assets/4-83-businessweek-year-ahead-2026.jpg)
+
+[Image source](https://coverjunkie.com/cover/businessweek-us-7)
+
 ## 82. Bloomberg Businessweek issue archive
 
 Kind: website
@@ -122,6 +162,10 @@ Two planes mounting mid-air for the United-Continental merger story. The most in
 
 - Context: https://www.businessinsider.com/wow-that-bloomberg-businessweek-pornographic-cover-of-two-planes-getting-it-on-is-real-2012-4
 
+![Let's Get It On](../assets/5-92-businessweek-lets-get-it-on.jpg)
+
+- Image source: https://digiday.com/media/richard-turleys-best-businessweek-covers/
+
 ## 93. "A Very Long Bull" (September 17, 2018 issue)
 
 Kind: archive-item
@@ -131,3 +175,7 @@ Creator: Bloomberg Businessweek
 Bull-market cover whose painted bull is visible in the reel's frame. The official issue page lists the cover story and contents.
 
 - Issue page: https://bloomberg.com/magazine/businessweek/18_39
+
+![A Very Long Bull](../assets/6-93-businessweek-very-long-bull.jpg)
+
+- Image source: https://bloomberg.com/magazine/businessweek/18_39
