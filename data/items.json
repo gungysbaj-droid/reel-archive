@@ -663,7 +663,33 @@
         "url": "https://www.harpercollins.com.au/9780060191443/dressing-the-man/"
       }
     ],
-    "image": "assets/10-book-1.jpg"
+    "image": "assets/10-book-1.jpg",
+    "contents": {
+      "scope": "Contents and coverage only; no full book text.",
+      "status": "Library-catalog table of contents",
+      "chapters": [
+        "Permanent fashion",
+        "The power of color",
+        "Proportion: the foundation of style",
+        "The prerogatives of pattern",
+        "The suit",
+        "Odd jackets, trousers, and waistcoats",
+        "The dress shirt",
+        "Neckwear",
+        "Hosiery harmonies",
+        "Foot decorum",
+        "Accessories: the major importance of minor things",
+        "Formalwear: black-and-white etiquette",
+        "Business casual"
+      ],
+      "coverage": "Adapting classic clothing to individual physique and complexion; coordinating patterns, choosing silhouettes and collars, and dressing for business casual and formal occasions.",
+      "sources": [
+        "https://catalog.myrichlandlibrary.org/Record/262885",
+        "https://books.google.com/books/about/Dressing_the_Man.html?id=hBnCNOhoh1sC"
+      ],
+      "caveat": "",
+      "checked": "2026-10-11"
+    }
   },
   {
     "id": 39,
@@ -680,7 +706,46 @@
         "url": "https://www.hachettebookgroup.com/titles/g-bruce-boyer/true-style/9780465053995/"
       }
     ],
-    "image": "assets/11-book-2.jpg"
+    "image": "assets/11-book-2.jpg",
+    "contents": {
+      "scope": "Contents and coverage only; no full book text.",
+      "status": "Library-catalog table of contents",
+      "chapters": [
+        "Ascots",
+        "Boots",
+        "Bow ties",
+        "Business attire",
+        "Craftsmanship",
+        "Denim",
+        "Dressing gowns",
+        "The English country house look",
+        "Evening dress",
+        "Eyewear",
+        "Fragrances",
+        "Grooming",
+        "Italian style",
+        "Ivy style",
+        "Maintenance",
+        "Maxims",
+        "Mixing patterns",
+        "Pocket squares",
+        "Shirts",
+        "The shoe-hosiery-trouser nexus",
+        "Shorts",
+        "Sprezzatura",
+        "Suits",
+        "Summer fabrics",
+        "Turtlenecks",
+        "Weather gear"
+      ],
+      "coverage": "Alphabetically arranged essays on wardrobe pieces, traditions, fabrics, patterns, colors and how to use them, combining history with practical style advice.",
+      "sources": [
+        "https://www.si.edu/object/siris_sil_1064699",
+        "https://www.hachettebookgroup.com/titles/g-bruce-boyer/true-style/9780465053995/"
+      ],
+      "caveat": "",
+      "checked": "2026-10-11"
+    }
   },
   {
     "id": 40,
@@ -697,7 +762,19 @@
         "url": "https://www.labowtique.com/product/modern-black-tie/"
       }
     ],
-    "image": "assets/12-book-3.jpg"
+    "image": "assets/12-book-3.jpg",
+    "contents": {
+      "scope": "Contents and coverage only; no full book text.",
+      "status": "Publisher-confirmed structure; exact chapter names not verified",
+      "chapters": [],
+      "coverage": "Ten chapters, a black-tie brand directory and a Stephen Fry foreword. Covers classic and contemporary evening wear, outfit/accessory examples across levels of formality, and the future of the dress code.",
+      "sources": [
+        "https://www.labowtique.com/product/modern-black-tie/",
+        "https://issuu.com/labowtique/docs/modern_black_tie_-_teaser"
+      ],
+      "caveat": "The official preview page was found, but its contents pages were not readable in this check. Do not treat this coverage summary as a complete table of contents.",
+      "checked": "2026-10-11"
+    }
   },
   {
     "id": 41,
@@ -714,7 +791,32 @@
         "url": "https://www.thamesandhudson.com/products/savile-row"
       }
     ],
-    "image": "assets/13-book-4.jpg"
+    "image": "assets/13-book-4.jpg",
+    "contents": {
+      "scope": "Contents and coverage only; no full book text.",
+      "status": "Bookseller contents list, with partial library corroboration",
+      "chapters": [
+        "Introduction",
+        "Royal Savile Row: Monarchs Who Ruled the Row",
+        "The Beaux on the Row: Men Who Led Fashion",
+        "Savile Row at War: Tailoring for Heroes",
+        "Savile Row in Hollywood: Aristocrats of the Silver Screen",
+        "Savile Row Revival: The New Establishment",
+        "Savile Row in Fashion: The Row Revival",
+        "Gentlemen's Requisites",
+        "Anatomy of a Suit",
+        "Making a Suit",
+        "The Language of Savile Row"
+      ],
+      "coverage": "Chronological tailoring history through customers, monarchy, military, film and revival; 26 master-tailor profiles plus reference sections on suit anatomy and making.",
+      "sources": [
+        "https://designbook.com.ua/book/savile-row-the-master-tailors-of-british-bespoke-11590",
+        "https://library.tcdc.or.th/record/view/b00043205",
+        "https://www.thamesandhudson.com/products/savile-row"
+      ],
+      "caveat": "The publisher describes eight chronological themes, while the bookseller list has six numbered sections plus references. The library catalog gives only a partial list. Preserve this source mismatch rather than inventing two missing chapters.",
+      "checked": "2026-10-11"
+    }
   },
   {
     "id": 42,
@@ -731,7 +833,35 @@
         "url": "https://www.thamesandhudson.com/products/the-italian-gentleman"
       }
     ],
-    "image": "assets/14-book-5.jpg"
+    "image": "assets/14-book-5.jpg",
+    "contents": {
+      "scope": "Contents and coverage only; no full book text.",
+      "status": "2017 ISBN-specific bookseller table of contents",
+      "chapters": [
+        "Preface",
+        "Introduction",
+        "Mills and Fabric Merchants",
+        "Bespoke Tailoring",
+        "Sartorial Brands",
+        "Shirtmakers",
+        "Gentlemen's Requisites",
+        "Shoemakers",
+        "Address Book",
+        "Acknowledgments",
+        "Further Reading",
+        "Picture Credits",
+        "Index"
+      ],
+      "coverage": "Profiles of more than fifty Italian houses, with mills and cloth merchants, bespoke tailors, sartorial brands, shirtmakers, ties/umbrellas/gloves and shoemakers. Examples include Vitale Barberis Canonico, Zegna, Rubinacci and Kiton.",
+      "sources": [
+        "https://www.kriso.ee/italian-gentleman-db-9780500518571.html",
+        "https://www.thamesandhudson.com/products/the-italian-gentleman",
+        "https://www.parisiangentleman.com/blog/the-italian-gentleman-the-preface",
+        "https://www.slovart.sk/knihy-v-anglictine/dizajn/the-italian-gentleman.html?page_id=43870"
+      ],
+      "caveat": "Use the detailed 2017 ISBN 9780500518571 listing. Slovart lists an inconsistent eight-section outline for the same ISBN, including Pitti Uomo; this is not merged into the six-part structure. The author says the book is a selected personal journey, not a complete catalog or academic history.",
+      "checked": "2026-10-11"
+    }
   },
   {
     "id": 43,
@@ -748,7 +878,30 @@
         "url": "https://www.thamesandhudson.com/products/the-parisian-gentleman"
       }
     ],
-    "image": "assets/15-book-6.jpg"
+    "image": "assets/15-book-6.jpg",
+    "contents": {
+      "scope": "Contents and coverage only; no full book text.",
+      "status": "Bookseller table of contents, compact English edition",
+      "chapters": [
+        "Preface",
+        "Introduction",
+        "The Parisian Bespoke Tailoring: Cifonelli; Camps de Luca; Francesco Smalto; Berluti Atelier Arnys",
+        "Of Men and Shoes: John Lobb; Berluti; Corthay; Aubercy; J.M. Weston; Dimitri Gomez",
+        "Chemisiers in Paris: Charvet",
+        "The Art of Travelling: Louis Vuitton special orders; Moynat Paris",
+        "Parisian Haute Parfumerie: Guerlain; Caron",
+        "Gentlemen's Requisites: Cartier; St Dupont",
+        "One of a Kind Houses: Maison Bonnet; Marc Guyot; Simonnot Godard; Mellerio"
+      ],
+      "coverage": "House-by-house accounts of French tailoring, footwear, shirtmaking, travel goods, perfume and accessories, focused on heritage and craftsmanship.",
+      "sources": [
+        "https://www.lehmanns.de/shop/kunst-musik-theater/42227296-9780500293966-the-parisian-gentleman",
+        "https://www.antoineonline.com/intr/en/p/The%20Parisian%20Gentleman-Hugo%20Jacomet%20%20Jacomet%20%20Hugo%20/9780500293966",
+        "https://www.thamesandhudsonusa.com/books/the-parisian-gentleman-hardcover-compact-edition"
+      ],
+      "caveat": "English compact edition ISBN 9780500293966; house names and contents may differ in other editions. Promotional claims such as only bespoke eyewear maker are not independently endorsed.",
+      "checked": "2026-10-11"
+    }
   },
   {
     "id": 44,
@@ -1020,5 +1173,411 @@
       }
     ],
     "image": "assets/2-kitchen.jpg"
+  },
+  {
+    "id": 59,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "The Shape of Content",
+    "kind": "book",
+    "creator": "Ben Shahn",
+    "note": "Recommended by @processthepodcast for developing creative taste. Artistic creation, craft, form and the artist in society.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.hup.harvard.edu/books/9780674302426"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 60,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "On Beauty and Being Just",
+    "kind": "book",
+    "creator": "Elaine Scarry",
+    "note": "Recommended by @processthepodcast for developing creative taste. Beauty, perception and their relationship to fairness and justice.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://press.princeton.edu/books/paperback/9780691089591/on-beauty-and-being-just"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 61,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "The Creative Act: A Way of Being",
+    "kind": "book",
+    "creator": "Rick Rubin",
+    "note": "Recommended by @processthepodcast for developing creative taste. A reflection on living and working creatively.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.penguinrandomhouse.com/books/717356/the-creative-act-by-rick-rubin/"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 62,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "The Art of Looking Sideways",
+    "kind": "book",
+    "creator": "Alan Fletcher",
+    "note": "Recommended by @processthepodcast for developing creative taste. A visual-intelligence collection spanning images, anecdotes and the interplay of words and seeing.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.designersandbooks.com/book/art-looking-sideways"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 63,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "In Praise of Shadows",
+    "kind": "book",
+    "creator": "Junichiro Tanizaki",
+    "note": "Recommended by @processthepodcast for developing creative taste. Japanese aesthetics explored through light, shade, architecture, drama, food and literature.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.tuttle.co.jp/products/show/isbn:9784805318041/language:en"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 64,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "Dieter Rams: As Little Design as Possible",
+    "kind": "book",
+    "creator": "Sophie Lovell",
+    "note": "Recommended by @processthepodcast for developing creative taste. Rams's life, Braun and Vitsoe designs, and design philosophy.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.phaidon.com/en-us/products/dieter-rams-as-little-design-as-possible"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 65,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "Design as Art",
+    "kind": "book",
+    "creator": "Bruno Munari",
+    "note": "Recommended by @processthepodcast for developing creative taste. Visual, graphic and industrial design in everyday objects.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.penguinrandomhouse.com/books/276505/design-as-art-by-bruno-munari/"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 66,
+    "reel": "r10",
+    "collection": "creative-books",
+    "collection_title": "Creativity and design books",
+    "title": "Interaction of Color",
+    "kind": "book",
+    "creator": "Josef Albers",
+    "note": "Recommended by @processthepodcast for developing creative taste. A teaching handbook on color theory and perception.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://yalebooks.yale.edu/book/9780300179354/interaction-of-color/"
+      }
+    ],
+    "image": "assets/1-creativity-overview.jpg"
+  },
+  {
+    "id": 67,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "The Invention of Africa",
+    "kind": "book",
+    "creator": "V. Y. Mudimbe",
+    "note": "Creator curriculum placement: What is Africa as an idea or invention? This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "primary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://iupress.org/9780253204684/the-invention-of-africa/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 68,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Re-Inventing Africa: Matriarchy, Religion and Culture",
+    "kind": "book",
+    "creator": "Ifi Amadiume",
+    "note": "Creator curriculum placement: What is Africa as an idea or invention? This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "primary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.bloomsbury.com/us/reinventing-africa-9781350509221/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 69,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Decolonising the Mind",
+    "kind": "book",
+    "creator": "Ngugi wa Thiong'o",
+    "note": "Creator curriculum placement: Decolonial theory and decolonization. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "primary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://boydellandbrewer.com/book/decolonising-the-mind-pdf/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 70,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Moving the Centre",
+    "kind": "book",
+    "creator": "Ngugi wa Thiong'o",
+    "note": "Creator curriculum placement: Decolonial theory and decolonization. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "supplementary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://archive.org/details/movingcentrestru0000ngug"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 71,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "The Invention of Women",
+    "kind": "book",
+    "creator": "Oyeronke Oyewumi",
+    "note": "Creator curriculum placement: Gender and decolonial thinking. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "reading",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.upress.umn.edu/9780816624416/invention-of-women/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 72,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Family Matters: Feminist Concepts in African Philosophy of Culture",
+    "kind": "book",
+    "creator": "Nkiru Nzegwu",
+    "note": "Creator curriculum placement: Gender and decolonial thinking. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "supplementary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://books.google.com/books/about/Family_Matters.html?id=0l_qA5mhy1EC"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 73,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "How Europe Underdeveloped Africa",
+    "kind": "book",
+    "creator": "Walter Rodney",
+    "note": "Creator curriculum placement: Decolonizing development and progress; creator would place this before gender. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "primary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.versobooks.com/products/788-how-europe-underdeveloped-africa"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 74,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Doing African Philosophy: Beyond Textuality and Individual Authorship",
+    "kind": "book",
+    "creator": "Elvis Imafidon",
+    "note": "Creator curriculum placement: What philosophy is, what makes it African, where it is found, and how it is done. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "primary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.bloomsbury.com/in/doing-african-philosophy-9781350464247/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 75,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Introduction to African Religion",
+    "kind": "book",
+    "creator": "John S. Mbiti",
+    "note": "Creator curriculum placement: Religion. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "primary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://search.worldcat.org/title/24376978"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 76,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "The Wretched of the Earth",
+    "kind": "book",
+    "creator": "Frantz Fanon",
+    "note": "Creator curriculum placement: General supplementary reading. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "supplementary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://groveatlantic.com/book/the-wretched-of-the-earth/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 77,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "On the Postcolony",
+    "kind": "book",
+    "creator": "Achille Mbembe",
+    "note": "Creator curriculum placement: General supplementary reading. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "supplementary",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.ucpress.edu/books/on-the-postcolony/paper"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 78,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "The Beautyful Ones Are Not Yet Born",
+    "kind": "book",
+    "creator": "Ayi Kwei Armah",
+    "note": "Creator curriculum placement: One possible fiction choice. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "fiction option",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.britannica.com/biography/Ayi-Kwei-Armah"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 79,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Arrow of God",
+    "kind": "book",
+    "creator": "Chinua Achebe",
+    "note": "Creator curriculum placement: One possible fiction choice. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "fiction option",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.penguinrandomhouse.com/books/398/arrow-of-god-by-chinua-achebe/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 80,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "Things Fall Apart",
+    "kind": "book",
+    "creator": "Chinua Achebe",
+    "note": "Creator curriculum placement: One possible fiction choice. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "fiction option",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.penguinrandomhouse.com/books/200294/the-african-trilogy-by-chinua-achebe-introduction-by-chimamanda-ngozi-adichie/"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 81,
+    "reel": "r11",
+    "collection": "african-studies",
+    "collection_title": "African Studies curriculum",
+    "title": "The Joys of Motherhood",
+    "kind": "book",
+    "creator": "Buchi Emecheta",
+    "note": "Creator curriculum placement: One possible fiction choice. This is the creator's suggested curriculum, not an accredited syllabus or a neutral survey of all African Studies.",
+    "reading_role": "fiction option",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://en.wikipedia.org/wiki/Buchi_Emecheta"
+      }
+    ],
+    "image": "assets/2-african-overview.jpg"
   }
 ]
