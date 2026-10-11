@@ -3327,5 +3327,102 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 133,
+    "reel": "r23",
+    "collection": "neuroscience-topics",
+    "collection_title": "Neuroscience topics to explore",
+    "title": "The overview effect",
+    "kind": "lesson",
+    "creator": "Frank White (term coined 1987); NASA astronaut accounts",
+    "note": "The cognitive shift of awe and changed perspective that astronauts report after seeing Earth from space. The reel's library search returned a conference paper on sustainability and a video among the first hits. NASA's 2025 article describes it as a term coined in 1987 by Frank White in his book of the same name.",
+    "links": [
+      {
+        "label": "NASA article",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/the-overview-effect-astronaut-perspectives-from-25-years-in-low-earth-orbit/"
+      },
+      {
+        "label": "White, The Overview Effect (Internet Archive; reference link, not a rights claim)",
+        "url": "https://archive.org/details/overvieweffectsp00whit"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 134,
+    "reel": "r23",
+    "collection": "neuroscience-topics",
+    "collection_title": "Neuroscience topics to explore",
+    "title": "Alien hand syndrome",
+    "kind": "lesson",
+    "creator": "Neurological condition",
+    "note": "A rare condition where a hand or limb acts independently of the person's intent, for example grabbing objects or undoing a completed action, usually after brain injury, surgery or certain conditions (Cleveland Clinic).",
+    "links": [
+      {
+        "label": "Cleveland Clinic overview",
+        "url": "https://my.clevelandclinic.org/health/diseases/alien-hand-syndrome"
+      },
+      {
+        "label": "Pathophysiology and Treatment of Alien Hand Syndrome (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4261226/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 135,
+    "reel": "r23",
+    "collection": "neuroscience-topics",
+    "collection_title": "Neuroscience topics to explore",
+    "title": "Charles Bonnet syndrome",
+    "kind": "lesson",
+    "creator": "Neurological condition",
+    "note": "Visual hallucinations that can follow major sight loss, often linked to eye conditions like macular degeneration or cataracts. The NHS states it is not caused by a mental health problem or dementia.",
+    "links": [
+      {
+        "label": "NHS",
+        "url": "https://www.nhs.uk/conditions/charles-bonnet-syndrome/"
+      },
+      {
+        "label": "American Academy of Ophthalmology",
+        "url": "https://www.aao.org/eye-health/diseases/what-is-charles-bonnet-syndrome"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 136,
+    "reel": "r23",
+    "collection": "neuroscience-topics",
+    "collection_title": "Neuroscience topics to explore",
+    "title": "Aphantasia",
+    "kind": "lesson",
+    "creator": "Adam Zeman and colleagues (2015 paper)",
+    "note": "The absence of voluntary visual mental imagery. Zeman, Dewar and Della Sala described congenital aphantasia in a 2015 letter in Cortex (vol. 73, pp. 378-380).",
+    "links": [
+      {
+        "label": "Lives without imagery - congenital aphantasia (Heriot-Watt research portal)",
+        "url": "https://researchportal.hw.ac.uk/en/publications/lives-without-imagery-congenital-aphantasia/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 137,
+    "reel": "r23",
+    "collection": "neuroscience-topics",
+    "collection_title": "Neuroscience topics to explore",
+    "title": "Hyperthymesia (highly superior autobiographical memory)",
+    "kind": "lesson",
+    "creator": "James McGaugh and UC Irvine CNLM",
+    "note": "Exceptional recall of specific autobiographical events. UC Irvine's CNLM, which first described it in 2006 (participant AJ, later identified as Jill Price), uses the term Highly Superior Autobiographical Memory (HSAM).",
+    "links": [
+      {
+        "label": "UCI CNLM: HSAM",
+        "url": "https://cnlm.uci.edu/hsam/"
+      }
+    ],
+    "image": null
   }
     ]
