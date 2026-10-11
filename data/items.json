@@ -689,6 +689,155 @@
       ],
       "caveat": "",
       "checked": "2026-10-11"
+    },
+    "knowledge": {
+      "scope": "Original summaries, not full text or a substitute for the book. Missing chapters and evidence limits are explicit.",
+      "checked": "2026-10-11",
+      "depth": "Practical notes across 12 headings; formalwear thin. Core ideas corroborated by established reviews, finer rules mostly from reader notes.",
+      "limits": "No full chapters read. F3 is a secondary reader-note source, not a publisher excerpt. Its measurements and rules are reported advice, not independently authenticated text or universal fitting laws.",
+      "sections": [
+        {
+          "section": "Permanent fashion",
+          "evidence": "Review-corroborated",
+          "source_ids": [
+            "F1",
+            "F2",
+            "F4"
+          ],
+          "summary": "Start with the wearer, not seasonal fashion. The stable relationships of face, neck, shoulders, torso and legs are a better foundation than designer novelty. Interwar examples teach principles rather than require historical imitation. GQ notes that the book does not fully address modern casual lifestyles."
+        },
+        {
+          "section": "The power of color",
+          "evidence": "Reviews plus reader notes",
+          "source_ids": [
+            "F1",
+            "F3",
+            "F4"
+          ],
+          "summary": "Keep attention on the face. F3 describes relating clothing contrast to actual hair/skin contrast and repeating natural pigments near the face. Strong contrast can support a high-contrast face but overwhelm a muted one. Assess the individual, not an ethnic category. Reviews corroborate complexion as a central concern, not every precise color prescription."
+        },
+        {
+          "section": "Proportion: the foundation of style",
+          "evidence": "Author interview / secondary detail",
+          "source_ids": [
+            "F2",
+            "F3"
+          ],
+          "summary": "GQ quotes the relation between broader shoulders and fuller lapels. Collar-to-face, shoulders-to-head and jacket-to-leg relationships must be judged together. F3 says narrow shoulders exaggerate head size and broad shoulders diminish it. Cover the seat without needlessly shortening the apparent leg. There is no single fashionable jacket length appropriate to everyone."
+        },
+        {
+          "section": "The prerogatives of pattern",
+          "evidence": "Review scope; detailed rules secondary",
+          "source_ids": [
+            "F1",
+            "F3"
+          ],
+          "summary": "F3 reports strongly different scales for two similar patterns; compatible scale for unlike patterns; and avoiding two tiny busy designs. With three similar patterns, graduate size from the shirt outward. With two similar and one unlike, separate the similar scales and relate the odd design to the prominent one. The aim is a readable whole, not showing how many patterns you can combine."
+        },
+        {
+          "section": "The suit",
+          "evidence": "Review / reader notes",
+          "source_ids": [
+            "F1",
+            "F3"
+          ],
+          "summary": "F1 reports 0.5-0.75 inch of shirt collar above the jacket collar. F3 says trouser volume should continue the jacket silhouette: fuller jackets with fuller trousers, closer jackets with slimmer legs. It favors trousers at the waist, charcoal as a versatile first business suit and navy as flattering. These are classic business priorities, not every wardrobe's needs."
+        },
+        {
+          "section": "Odd jackets, trousers, and waistcoats",
+          "evidence": "Reader notes only",
+          "source_ids": [
+            "F3"
+          ],
+          "summary": "Darker trousers can dress up a sport jacket. Color can unify separates: keep two of three pieces in the same family and relate the shirt through tone or contrast. A waistcoat adds gravity to single-breasted tailoring. This is an incomplete secondary account, not the full chapter."
+        },
+        {
+          "section": "The dress shirt",
+          "evidence": "Core principle corroborated; details secondary",
+          "source_ids": [
+            "F2",
+            "F3"
+          ],
+          "summary": "Choose collar shape for the face. F3 describes spread points as a counterweight to a long narrow face, collar size relative to head size and collar height relative to neck length. Allow room to sit and raise arms without gaping or untucking. Cuffs should stay at the wrist, not slide over the hand. Smooth cloth and firmer collars read dressier; choose a blue that supports rather than overwhelms the face."
+        },
+        {
+          "section": "Neckwear",
+          "evidence": "Review / reader notes",
+          "source_ids": [
+            "F1",
+            "F3"
+          ],
+          "summary": "Tie width relates to lapels. F3 places the knot within the collar opening and the tip near the belt's upper edge. F1 specifically records the advised dimple. F3 limits bow width to the face/collar scale. Balance matters more than buying the fashionable width or largest knot."
+        },
+        {
+          "section": "Hosiery harmonies",
+          "evidence": "Reader notes only",
+          "source_ids": [
+            "F3"
+          ],
+          "summary": "Relate socks to trousers rather than make sock and shoe into an isolated block. Another option repeats a color or pattern from near the face. Finer hosiery suits more formal clothes; bulkier textures support heavier socks. The notes' restriction on black socks is a traditional preference, not a universal current rule."
+        },
+        {
+          "section": "Foot decorum",
+          "evidence": "Review / reader notes",
+          "source_ids": [
+            "F1",
+            "F3"
+          ],
+          "summary": "F1 confirms smart shoes with tailored trousers. F3 describes a cap-toe Oxford for smart town wear, a blucher as less dressy and brown suede across seasons. Shape, formality, condition and relation to the trouser matter. Unsupported spending or leather-age claims are not adopted."
+        },
+        {
+          "section": "Accessories: the major importance of minor things",
+          "evidence": "Reader notes only",
+          "source_ids": [
+            "F3"
+          ],
+          "summary": "Echo rather than exactly match a tie with the square. A lustrous tie can benefit from matte linen/cotton; a square can pick up a shirt or jacket color. Keep the effect unstudied. Belt color follows shoes and then the outfit, with a simple buckle. Details support the whole rather than pull attention away from the face."
+        },
+        {
+          "section": "Formalwear: black-and-white etiquette",
+          "evidence": "Thin",
+          "source_ids": [
+            "F4"
+          ],
+          "summary": "The review confirms distinctions between dinner-jacket and full-dress details. Reliable actual chapter rules were not recovered. Rules from another book or a generic black-tie guide are not substituted and labeled Flusser."
+        },
+        {
+          "section": "Business casual",
+          "evidence": "Review / reader notes",
+          "source_ids": [
+            "F3",
+            "F4"
+          ],
+          "summary": "A shared color family holds unmatched separates together; a patterned shirt can repeat a jacket/trouser color. F4 questions the longevity of a near-monochrome polo-and-corduroy example. The 2002 chapter's coordination logic travels better than every outfit or workplace assumption."
+        }
+      ],
+      "sources": [
+        {
+          "id": "F1",
+          "title": "Bespoke Unit book review",
+          "url": "https://bespokeunit.com/articles/suits/dressing-the-man-book-review/",
+          "type": "Independent review"
+        },
+        {
+          "id": "F2",
+          "title": "GQ Flusser interview and book review",
+          "url": "https://www.gq.com/story/ask-a-tailor-dressing-the-man-book",
+          "type": "Independent review and author interview"
+        },
+        {
+          "id": "F3",
+          "title": "A House Rises reading notes",
+          "url": "https://ahouserises2.wordpress.com/2016/07/30/review-dressing-the-man-sartorialism-style-masculinity-articlesofstyle-review-books/",
+          "type": "Secondary reader notes, lower confidence"
+        },
+        {
+          "id": "F4",
+          "title": "Put This On review",
+          "url": "https://www.putthison.com/menswear-books-alan-flusser-dressing-the-man/",
+          "type": "Independent review"
+        }
+      ]
     }
   },
   {
@@ -745,6 +894,260 @@
       ],
       "caveat": "",
       "checked": "2026-10-11"
+    },
+    "knowledge": {
+      "scope": "Original summaries, not full text or a substitute for the book. Missing chapters and evidence limits are explicit.",
+      "checked": "2026-10-11",
+      "depth": "Substantive or historical notes on 24 of 26 essays, with uneven depth. Boots and dressing gowns unverified; shorts and craftsmanship remain thin.",
+      "limits": "Established reviews corroborate the core philosophy; much chapter detail relies on two openly posted reader-note sources, not an official complete preview. Care advice remains subject to garment labels and professional judgment.",
+      "sections": [
+        {
+          "section": "Ascots",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3",
+            "B4"
+          ],
+          "summary": "The name comes from the Ascot race meeting and its pinned silk neck scarf. B4 presents soft silk/light cashmere at an open collar as an alternative to a bare neck. This establishes a tradition and option, not the entire essay."
+        },
+        {
+          "section": "Boots",
+          "evidence": "Unverified",
+          "source_ids": [],
+          "summary": "No reliable substantive account of this essay was recovered."
+        },
+        {
+          "section": "Bow ties",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Boyer prefers a self-tied rather than pre-tied bow. Its irregular natural shape belongs to wearing it, rather than requiring factory-perfect symmetry."
+        },
+        {
+          "section": "Business attire",
+          "evidence": "Review-corroborated / secondary details",
+          "source_ids": [
+            "B1",
+            "B2",
+            "B3"
+          ],
+          "summary": "Clothes communicate membership and context. Aim to let others judge your work instead of your outfit. Simplicity and comfort matter; head-to-toe designer outfits and conspicuous matching can erase individuality. B3's country-jacket/jeans and Barbour/suit examples illustrate mixing genres, not what every office permits."
+        },
+        {
+          "section": "Craftsmanship",
+          "evidence": "Thin secondary notes",
+          "source_ids": [
+            "B1",
+            "B3"
+          ],
+          "summary": "Quality may cost more initially but last longer. The essay's craft discussion includes Thomas Girtin's Makers of Distinction and Richard Sennett's The Craftsman as reading. No full construction checklist was recovered."
+        },
+        {
+          "section": "Denim",
+          "evidence": "Secondary history",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "The essay moves from workwear to youth rebellion, including Brando in The Wild One. Clothing carries a social language beyond its material. No complete fit/wash advice recovered."
+        },
+        {
+          "section": "Dressing gowns",
+          "evidence": "Unverified",
+          "source_ids": [],
+          "summary": "No reliable substantive account of this essay was recovered."
+        },
+        {
+          "section": "The English country house look",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B4"
+          ],
+          "summary": "Accumulated, lived-in clothes and patina suggest continuity rather than a freshly purchased coordinated costume. Sturdy country fabrics and pieces of different ages can look at ease together. The point is an unforced whole, not mandatory shabbiness."
+        },
+        {
+          "section": "Evening dress",
+          "evidence": "Secondary chapter-tagged notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Matching coat/trousers, uncuffed hems and an outside stripe related to lapel facings make a coherent tuxedo. The silk bow relates to those facings. Plain dark hosiery and simple black footwear keep focus on the wearer. The notes list calf/patent Oxfords and formal slippers as options; this is not the complete essay."
+        },
+        {
+          "section": "Eyewear",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Frames should fit within the face width, sit below eyebrows and above cheeks, and stay securely on the bridge. They support the intended impression without becoming the main subject. Optical fit and prescription requirements still need an optician."
+        },
+        {
+          "section": "Fragrances",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B2",
+            "B3"
+          ],
+          "summary": "Know scent type and strength; use a restrained amount in business and lighter scents in heat. Test on skin and wait before judging. Avoid sun, unsealed storage and extreme temperatures. Aim for a clean presence rather than a scent cloud."
+        },
+        {
+          "section": "Grooming",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Facial hair is personal choice within professional context, not a blanket requirement to shave. Relate beard/moustache volume to face size so it does not become a detached dominating feature."
+        },
+        {
+          "section": "Italian style",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Lighter construction can retain shape. The account connects Armani's reduced padding with comfort and describes the lighter Neapolitan approach. It distinguishes more sober northern business dress from playful combinations. National generalizations do not prescribe every person's style."
+        },
+        {
+          "section": "Ivy style",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Oxford button-down, khakis, Shetland sweater and loafers form an adaptable core. Tweed/navy blazer, flannel suits and seasonal suits increase formality. Edge stitching is one jacket marker. The lesson is a compatible vocabulary, not an obligatory shopping list."
+        },
+        {
+          "section": "Maintenance",
+          "evidence": "Review-corroborated / secondary detail",
+          "source_ids": [
+            "B1",
+            "B3",
+            "B4"
+          ],
+          "summary": "Rotate and air clothes; brush tailored cloth, fold knitwear, use proper hangers and shoe trees. Avoid needless dry cleaning/pressing; use cautious heat and a protective cloth if the garment permits. Sleeve/trouser adjustments are unlike rebuilding shoulders/collar/chest: buy near a good base fit. Follow the actual care label before applying any technique."
+        },
+        {
+          "section": "Maxims",
+          "evidence": "Review-corroborated",
+          "source_ids": [
+            "B1",
+            "B3"
+          ],
+          "summary": "Personality and deliberate choice matter more than rigid correctness. Clothes complement you; quality matters; refusing a distracting purchase is part of style. Avoid displaying money, accessories or rule memorization."
+        },
+        {
+          "section": "Mixing patterns",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3",
+            "B4"
+          ],
+          "summary": "Prevent one garment dominating. Vary scales so pieces remain legible. Subtle pattern against pattern can integrate an outfit better than isolating one loud design against stark solids. Judge the whole, not a pattern count."
+        },
+        {
+          "section": "Pocket squares",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3",
+            "B4"
+          ],
+          "summary": "Restrained silk gives business dress a small accent; white linen/cotton is a simple formal option. Tie and square echo rather than exactly match. A related color is more relaxed than a matching set."
+        },
+        {
+          "section": "Shirts",
+          "evidence": "Review-corroborated / secondary detail",
+          "source_ids": [
+            "B1",
+            "B3",
+            "B4"
+          ],
+          "summary": "B1 reports smaller collars for smaller men and higher collars for longer necks. B4 relates knot size to tie space, collar stiffness to formality and sleeves so about half an inch of cuff shows. Treat collar/tie/square as one chest composition; exact matching can look labored."
+        },
+        {
+          "section": "The shoe-hosiery-trouser nexus",
+          "evidence": "Review / secondary notes",
+          "source_ids": [
+            "B2",
+            "B3",
+            "B4"
+          ],
+          "summary": "Boyer objects to sockless business suits with dress shoes. B4 describes footwear as either continuing the leg line or deliberately breaking it, with darker shoes coherent against trousers and brown offering tonal variety. This is not a ban on all sockless casual wear."
+        },
+        {
+          "section": "Shorts",
+          "evidence": "Historical notes only",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "The essay connects shorts to military/sporting dress. Its actual length, styling and occasion advice was not recovered."
+        },
+        {
+          "section": "Sprezzatura",
+          "evidence": "Review-corroborated",
+          "source_ids": [
+            "B1",
+            "B3",
+            "B4"
+          ],
+          "summary": "Conceal effort, rather than be ignorant or careless. A little rumple or unforced genre mixing can look more convincing than flawless coordination. Do not mechanically add a contrived mistake; ease comes from understanding what you wear."
+        },
+        {
+          "section": "Suits",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "A commissioned waistcoat adds variations, pockets and temperature flexibility. Peak lapels are the traditional double-breasted choice. The notes establish selected ideas and historical development, not a complete fit/fabric manual."
+        },
+        {
+          "section": "Summer fabrics",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Linen, breathable wool and deliberately rumpled seersucker have different useful behaviors. Choose for climate and cloth performance rather than demand permanent sharp pressing. The essay treats wrinkles as compatible with summer ease."
+        },
+        {
+          "section": "Turtlenecks",
+          "evidence": "Secondary notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "A turtleneck with a suit is permitted as deliberate nonchalance in a suitable setting. Its bohemian associations are discussed. It does not replace required formal attire at every occasion."
+        },
+        {
+          "section": "Weather gear",
+          "evidence": "Secondary history/material notes",
+          "source_ids": [
+            "B3"
+          ],
+          "summary": "Bonded rubber/cotton, tightly woven treated gabardine and waxed cotton are distinct traditions. Waxed cloth requires renewed wax. Heritage and material history do not establish a modern technical waterproof rating."
+        }
+      ],
+      "sources": [
+        {
+          "id": "B1",
+          "title": "InsideHook: five lessons",
+          "url": "https://www.insidehook.com/style/bruce-boyer-true-style",
+          "type": "Independent review with quotations"
+        },
+        {
+          "id": "B2",
+          "title": "The Modest Man review",
+          "url": "https://www.themodestman.com/reviewing-true-style/",
+          "type": "Independent review with page references"
+        },
+        {
+          "id": "B3",
+          "title": "Max Nova chapter-tagged notes",
+          "url": "https://books.max-nova.com/true-style/",
+          "type": "Secondary reader highlights, lower confidence"
+        },
+        {
+          "id": "B4",
+          "title": "Derek Sivers reading notes",
+          "url": "https://sive.rs/book/TrueStyle",
+          "type": "Secondary reader notes; chapter attribution incomplete"
+        }
+      ]
     }
   },
   {
@@ -774,6 +1177,103 @@
       ],
       "caveat": "The official preview page was found, but its contents pages were not readable in this check. Do not treat this coverage summary as a complete table of contents.",
       "checked": "2026-10-11"
+    },
+    "knowledge": {
+      "scope": "Original summaries, not full text or a substitute for the book. Missing chapters and evidence limits are explicit.",
+      "checked": "2026-10-11",
+      "depth": "Detailed practical topic notes from official companion guides. Direct book evidence limited to its philosophy and ten-chapter structure.",
+      "limits": "Exact chapter titles and mapping remain unverified. M2/M3 are author-site companion articles, not proven book excerpts. Their color recommendations and shawl-lapel history conflict. Product description says 300+ pages, another article 400+; no edition claim made.",
+      "sections": [
+        {
+          "section": "Book philosophy",
+          "evidence": "Official book description",
+          "source_ids": [
+            "M1"
+          ],
+          "summary": "Black tie evolves. The book respects traditional tenets while emphasizing the effort made for special occasions. It presents different formality levels and alternatives. This is not permission to ignore an invitation's actual expectations."
+        },
+        {
+          "section": "Dinner-jacket silhouette",
+          "evidence": "Official companion only",
+          "source_ids": [
+            "M2",
+            "M3"
+          ],
+          "summary": "Single-breasted one-button peak/shawl and double-breasted alternatives are presented. Silk lapel facings and jetted pockets distinguish eveningwear from business suits. M3 rejects notch lapels as a house preference. M2 calls no vents traditional but permits other vents, and relates broader lapels to double-breasted balance."
+        },
+        {
+          "section": "Facings, cloth and color",
+          "evidence": "Official companion only",
+          "source_ids": [
+            "M2",
+            "M3"
+          ],
+          "summary": "Satin is smooth and reflective; grosgrain ribbed and more matte. M2 relates finer ribs to curved shawls and stronger ribs to peaks; self-facings suit velvet/less overtly formal jackets. M3 discusses barathea and wool-mohair. Its body praises midnight blue but FAQ favors black. That conflict is not turned into a single rule."
+        },
+        {
+          "section": "Trousers and waist",
+          "evidence": "Official companion only",
+          "source_ids": [
+            "M2",
+            "M3"
+          ],
+          "summary": "Higher rise and enough leg volume support a clean vertical line. Classic trousers match jacket cloth with silk outside-seam trim and uncuffed hem. M3 excludes belts, favors braces and recommends waistcoat or cummerbund, not both. Its blanket waist-covering statement does not explain double-breasted exceptions; these are not inferred as book content."
+        },
+        {
+          "section": "Evening shirts",
+          "evidence": "Official companion only",
+          "source_ids": [
+            "M2"
+          ],
+          "summary": "Marcella/piqué fronts provide formal texture with studs; pleated fronts add texture with studs or suitable buttons; covered plackets offer quiet minimalism. The aim is differentiation from a daily business shirt. Full collar/cuff advice not recovered."
+        },
+        {
+          "section": "Accessories",
+          "evidence": "Official companion only",
+          "source_ids": [
+            "M2",
+            "M3"
+          ],
+          "summary": "A self-tied silk bow relates to lapel facing; a simple white square and socks covering skin when seated complete the outfit. M2 favors coherent studs/cufflinks over competing details. Its shirt-studs subsection is visibly incomplete, so not summarized."
+        },
+        {
+          "section": "Alternatives and occasion",
+          "evidence": "Official companion only",
+          "source_ids": [
+            "M2",
+            "M3"
+          ],
+          "summary": "Tartan with velvet, checks with off-white jackets and velvet-on-velvet are presented as alternatives. White trousers are called summer-only and nontraditional. Smoking/velvet jackets suit some less strict events. Distinguish experimentation from the classic uniform and follow the invitation."
+        },
+        {
+          "section": "Commissioning",
+          "evidence": "Official companion only",
+          "source_ids": [
+            "M3"
+          ],
+          "summary": "Ready-to-wear fixes standard proportions; made-to-measure adjusts an existing pattern; bespoke creates an individual pattern through fittings. The site's preference for its own made-to-measure service is commercial, not an objective universal ranking. Ask what can actually be changed."
+        }
+      ],
+      "sources": [
+        {
+          "id": "M1",
+          "title": "Official book description",
+          "url": "https://www.labowtique.com/product/modern-black-tie/",
+          "type": "Publisher"
+        },
+        {
+          "id": "M2",
+          "title": "A Complete Guide to Modern Black Tie",
+          "url": "https://www.labowtique.com/2026/03/13/a-complete-guide-to-modern-black-tie/",
+          "type": "Official companion, not verified book excerpt"
+        },
+        {
+          "id": "M3",
+          "title": "Black Tie Tailoring guide",
+          "url": "https://www.labowtique.com/black-tie-tailoring-guide/",
+          "type": "Official companion, not verified book excerpt"
+        }
+      ]
     }
   },
   {
@@ -816,6 +1316,82 @@
       ],
       "caveat": "The publisher describes eight chronological themes, while the bookseller list has six numbered sections plus references. The library catalog gives only a partial list. Preserve this source mismatch rather than inventing two missing chapters.",
       "checked": "2026-10-11"
+    },
+    "knowledge": {
+      "scope": "Original summaries, not full text or a substitute for the book. Missing chapters and evidence limits are explicit.",
+      "checked": "2026-10-11",
+      "depth": "Concrete historical/craft ideas from publisher and two established reviews, but limited chapter depth.",
+      "limits": "This is primarily social/house history. Permanent Style warns it is not a current tailor-selection guide. Existing contents mismatch remains. Historical house/service details are not current availability.",
+      "sections": [
+        {
+          "section": "Royal Savile Row / origins",
+          "evidence": "Review / publisher",
+          "source_ids": [
+            "S1",
+            "S2"
+          ],
+          "summary": "Early bespoke drew from the restrained English country gentleman's wardrobe. The publisher follows aristocratic to military patronage. This explains the prestige of sobriety and individual fit; complete monarch-specific chapter detail was not recovered."
+        },
+        {
+          "section": "Beaux, military and Hollywood",
+          "evidence": "Limited review coverage",
+          "source_ids": [
+            "S3"
+          ],
+          "summary": "House histories emerge through customers, including film clients of Anderson & Sheppard and naval associations at Gieves & Hawkes. Cut/reputation and social context are connected. That does not prove one house cut suits everyone or describe current service. Full detail of these chapters remains unavailable."
+        },
+        {
+          "section": "Revival / new establishment",
+          "evidence": "Review-specific history",
+          "source_ids": [
+            "S2"
+          ],
+          "summary": "Hawkes introduced immediate wear in 1929; its off-the-peg sales surpassed bespoke by 1948. The review names Richard Anderson, Ozwald Boateng and Richard James as a new establishment, and Edward Sexton, Spencer Hart and Timothy Everest in a renaissance. The institution changes commercially and stylistically rather than standing outside fashion."
+        },
+        {
+          "section": "Anatomy and making a suit",
+          "evidence": "Definition verified; practical detail thin",
+          "source_ids": [
+            "S1",
+            "S2"
+          ],
+          "summary": "The publisher confirms reference sections, not their full instructions. NYT reports Sherwood's strict bespoke formulation: hand-measured/cut/sewn, with a hand-cut pattern. Attribute this to the book, not a universal legal standard. No canvassing, fitting-count or measurement tutorial is invented."
+        },
+        {
+          "section": "Language of Savile Row",
+          "evidence": "Review-specific",
+          "source_ids": [
+            "S2"
+          ],
+          "summary": "The review reports workshop terms: tab for a fussy customer, crushed beetle for a badly made buttonhole. They reveal craft culture and close attention to details. Full glossary not recovered."
+        },
+        {
+          "section": "Gentlemen's requisites",
+          "evidence": "Unverified",
+          "source_ids": [],
+          "summary": "The heading exists in the contents list; its actual advice was not recovered."
+        }
+      ],
+      "sources": [
+        {
+          "id": "S1",
+          "title": "Savile Row publisher",
+          "url": "https://www.thamesandhudson.com/products/savile-row",
+          "type": "Official description"
+        },
+        {
+          "id": "S2",
+          "title": "New York Times: Upper Cuts",
+          "url": "https://archive.nytimes.com/tmagazine.blogs.nytimes.com/2010/09/02/upper-cuts/",
+          "type": "Review of US-titled edition"
+        },
+        {
+          "id": "S3",
+          "title": "Permanent Style review",
+          "url": "https://www.permanentstyle.com/2011/04/book-review-savile-row-the-master-tailors-of-british-bespoke.html",
+          "type": "Independent review"
+        }
+      ]
     }
   },
   {
@@ -861,6 +1437,115 @@
       ],
       "caveat": "Use the detailed 2017 ISBN 9780500518571 listing. Slovart lists an inconsistent eight-section outline for the same ISBN, including Pitti Uomo; this is not merged into the six-part structure. The author says the book is a selected personal journey, not a complete catalog or academic history.",
       "checked": "2026-10-11"
+    },
+    "knowledge": {
+      "scope": "Original summaries, not full text or a substitute for the book. Missing chapters and evidence limits are explicit.",
+      "checked": "2026-10-11",
+      "depth": "Strong direct tailoring-school excerpt plus authorized preface; other five maker categories mostly thin.",
+      "limits": "BonneGueule publishes an authorized translated chapter. Regional styles are Jacomet's framework, not guarantees about every modern maker. Legends and interview anecdotes retain their status. No full house profiles or technical buying manual was read.",
+      "sections": [
+        {
+          "section": "Preface / method",
+          "evidence": "Direct excerpt",
+          "source_ids": [
+            "I1"
+          ],
+          "summary": "Three years visiting workshops, factories and shops led to more than fifty selected houses. Jacomet rejects an exhaustive catalog or definitive academic history. It is a personal craft journey, including modest workplaces behind glamorous objects."
+        },
+        {
+          "section": "Bespoke tailoring: Milanese school",
+          "evidence": "Direct translated excerpt",
+          "source_ids": [
+            "I2"
+          ],
+          "summary": "The Prandoni-derived ideal is sober and clear-lined, with structured shoulders, a fitted waist and high armholes. Teachers and apprentices transmit it. This distinguishes a geometric outline from softer approaches without supplying universal fitting measurements."
+        },
+        {
+          "section": "Bespoke tailoring: Roman school",
+          "evidence": "Direct translated excerpt",
+          "source_ids": [
+            "I2"
+          ],
+          "summary": "Caraceni's Roman approach uses lighter cloth and less shoulder padding than its British antecedents but retains structure: a geometric shoulder and broad-to-fitted-waist V. It is fluid without simply following natural shoulder contours. The story of Henry Poole garments reaching the family is explicitly a family legend."
+        },
+        {
+          "section": "Bespoke tailoring: Neapolitan school",
+          "evidence": "Direct translated excerpt",
+          "source_ids": [
+            "I2"
+          ],
+          "summary": "The Attolini/Rubinacci account removes weight/internal support. Markers include natural shoulders, little or no lining, shirt-like sleeve insertion with small gathers, a curved boat chest pocket, patch pockets and overlapping cuff buttons. Sleeve fullness aids movement. Softness still requires skilled cutting; these are school markers, not obligatory features of every Neapolitan suit."
+        },
+        {
+          "section": "Mills and fabric merchants",
+          "evidence": "Limited review / publisher",
+          "source_ids": [
+            "I3",
+            "I4"
+          ],
+          "summary": "Vitale Barberis Canonico and cloth-mill histories appear alongside makers. Finished garments come from a cloth-making system, not just a label. Full mill profiles, fiber grades and fabric specifications were not recovered."
+        },
+        {
+          "section": "Sartorial brands",
+          "evidence": "Interview / publisher",
+          "source_ids": [
+            "I2",
+            "I4"
+          ],
+          "summary": "The interview uses Ciro Paone/Kiton to illustrate persistence when workshops were closing. The publisher identifies Rubinacci, Kiton and Zegna with continuity and quality. This is maker history, not an independent ranking or current construction guarantee."
+        },
+        {
+          "section": "Shirtmakers",
+          "evidence": "Thin review coverage",
+          "source_ids": [
+            "I3"
+          ],
+          "summary": "Salvatore Piccolo's shirts/workshop illustrate the section. No full advice on collar proportion, stitches, shrinkage or fitting was exposed."
+        },
+        {
+          "section": "Gentlemen's requisites",
+          "evidence": "Interview / review",
+          "source_ids": [
+            "I2",
+            "I3"
+          ],
+          "summary": "Marinella's friendliness, early hospitality and roots in Naples, including a declined overseas-shop offer, show service and identity within craft. Tie folds/construction, umbrellas and glove techniques remain unverified."
+        },
+        {
+          "section": "Shoemakers",
+          "evidence": "Interview, limited",
+          "source_ids": [
+            "I2"
+          ],
+          "summary": "Enzo Bonafè's recollections of apprenticeship with Amedeo Testoni and shoes for Ronald Reagan show knowledge passed between people/generations. No complete lasts, welt or fit comparison was recovered."
+        }
+      ],
+      "sources": [
+        {
+          "id": "I1",
+          "title": "Author-published preface",
+          "url": "https://www.parisiangentleman.com/blog/the-italian-gentleman-the-preface",
+          "type": "Direct authorized excerpt"
+        },
+        {
+          "id": "I2",
+          "title": "BonneGueule exclusive interview and chapter",
+          "url": "https://bonnegueule.fr/en-eu/blogs/medias/interview-et-chapitre-exclusifs-the-italien-gentleman-le-nouveau-livre-dhugo-jacomet",
+          "type": "Authorized translated chapter plus interview"
+        },
+        {
+          "id": "I3",
+          "title": "MR PORTER review",
+          "url": "https://www.mrporter.com/en-gb/journal/fashion/the-tailors-who-shaped-italian-style-1149536",
+          "type": "Retail-editorial review"
+        },
+        {
+          "id": "I4",
+          "title": "Publisher description",
+          "url": "https://www.thamesandhudson.com/products/the-italian-gentleman",
+          "type": "Official description"
+        }
+      ]
     }
   },
   {
@@ -901,6 +1586,106 @@
       ],
       "caveat": "English compact edition ISBN 9780500293966; house names and contents may differ in other editions. Promotional claims such as only bespoke eyewear maker are not independently endorsed.",
       "checked": "2026-10-11"
+    },
+    "knowledge": {
+      "scope": "Original summaries, not full text or a substitute for the book. Missing chapters and evidence limits are explicit.",
+      "checked": "2026-10-11",
+      "depth": "Direct official sample pages support Cifonelli, Smalto, Berluti, Louis Vuitton and Caron profile substance; other sections thinner.",
+      "limits": "Selected sample spreads are not complete profiles. The author confirms compact edition is the same book at smaller size. Glowing profiles are not independent rankings; historic details do not establish current services.",
+      "sections": [
+        {
+          "section": "Parisian bespoke tailoring: Cifonelli",
+          "evidence": "Direct preview p.30",
+          "source_ids": [
+            "P1",
+            "P2",
+            "P4"
+          ],
+          "summary": "Hand bespoke and a family path from Rome through London training to Paris connect French expression to British technique. The preview says measurements are in inches. P2 mentions four fit/movement principles but does not enumerate them; none are invented here. Training and finishing sustain a house style, rather than nationality alone."
+        },
+        {
+          "section": "Parisian bespoke tailoring: Smalto",
+          "evidence": "Direct preview p.58",
+          "source_ids": [
+            "P1"
+          ],
+          "summary": "Clear geometric lines and proportion are central. The sample describes a high distinctive lapel notch, a narrower shaped shoulder and specialist workshop skills through fittings. A recognizable signature survives fashion changes. This is a profile, not a universal specification for a suit."
+        },
+        {
+          "section": "Of men and shoes: Berluti",
+          "evidence": "Direct preview pp.104-107 / review",
+          "source_ids": [
+            "P1",
+            "P3"
+          ],
+          "summary": "Olga Berluti's patina and artistic choices move beyond conservative convention. Choosing material/color and returning to the atelier involves the owner in a unique object. The profile relates ready-to-wear to bespoke's spirit without equating construction. P3 distinguishes multinational houses from smaller custom makers in the broader section."
+        },
+        {
+          "section": "Chemisiers in Paris: Charvet",
+          "evidence": "Coverage only",
+          "source_ids": [
+            "P1",
+            "P3"
+          ],
+          "summary": "Charvet is featured, but no substantive fitting/making passage was exposed. P3 calls shirtmaking coverage limited. No technical collar or stitch rule is invented."
+        },
+        {
+          "section": "The art of travelling",
+          "evidence": "Direct preview p.160 / coverage",
+          "source_ids": [
+            "P1"
+          ],
+          "summary": "Louis Vuitton special-order craft relates long-lived objects to tradition and modern luxury. The sample contrasts private enjoyment with public status display. Moynat's revived trunk-making is identified by the publisher, but its complete construction account was not read. Neither is a current luggage buying recommendation."
+        },
+        {
+          "section": "Parisian haute parfumerie: Caron",
+          "evidence": "Direct preview p.191",
+          "source_ids": [
+            "P1"
+          ],
+          "summary": "The Daltroff/Wampooille partnership and independent house identity frame Le Tabac Blond's leather interpretation, beyond literal nature imitation. Pour un Homme is another major creation. This is perfume history, not complete application/selection advice or proof of current formulas."
+        },
+        {
+          "section": "Gentlemen's requisites",
+          "evidence": "Unverified",
+          "source_ids": [],
+          "summary": "Cartier and S.T. Dupont are in the contents list, but actual chapter advice was not exposed."
+        },
+        {
+          "section": "One-of-a-kind houses",
+          "evidence": "Thin review coverage",
+          "source_ids": [
+            "P2"
+          ],
+          "summary": "The review notes Simonnot Godard's hand-rolled handkerchiefs and Jacomet's personal interest in distinctive makers. Complete technical notes on Maison Bonnet, Marc Guyot, Simonnot Godard and Mellerio were not recovered."
+        }
+      ],
+      "sources": [
+        {
+          "id": "P1",
+          "title": "Official compact-edition preview",
+          "url": "https://www.thamesandhudsonusa.com/books/the-parisian-gentleman-hardcover-compact-edition",
+          "type": "Direct sample spreads, visually inspected"
+        },
+        {
+          "id": "P2",
+          "title": "BonneGueule review",
+          "url": "https://bonnegueule.fr/en-us/blogs/medias/revue-du-livre-parisian-gentleman-interview-hugo-jacomet",
+          "type": "Independent review"
+        },
+        {
+          "id": "P3",
+          "title": "No Man Walks Alone review",
+          "url": "https://nomanwalksalone.com/blogs/news/book-review-the-parisian-gentleman",
+          "type": "Review with stated potential conflict of interest"
+        },
+        {
+          "id": "P4",
+          "title": "Author on compact edition",
+          "url": "https://www.parisiangentleman.com/blog/the-parisian-gentleman-new-compact-edition",
+          "type": "Author confirms same text, smaller format"
+        }
+      ]
     }
   },
   {
