@@ -13,3 +13,4 @@
 | r09 | Adrien Ninet (@adrien.ninet) | Kitchen: tactile UI experiments | 58-58 | [reels/09-kitchen-ui.md](reels/09-kitchen-ui.md) |
 | r10 | @processthepodcast | Eight books to develop creative taste | 59-66 | [reels/10-creativity-books.md](reels/10-creativity-books.md) |
 | r11 | @mumbipoetry | A decolonial African Studies curriculum | 67-81 | [reels/11-african-studies-curriculum.md](reels/11-african-studies-curriculum.md) |
+| r12 | Oren John (@orenmeetsworld) | Bloomberg covers for design inspiration | 82-93 | [reels/12-bloomberg-covers.md](reels/12-bloomberg-covers.md) |
