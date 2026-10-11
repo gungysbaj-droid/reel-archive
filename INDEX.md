@@ -28,3 +28,4 @@
 | r24 | @ibithecreator | The mathematical formula behind beautiful design | none (no named resource) | [reels/24-golden-ratio-design-formula.md](reels/24-golden-ratio-design-formula.md) |
 | r25 | @processthepodcast | Books to develop your taste as a creative | 138-143 | [reels/25-creative-taste-books.md](reels/25-creative-taste-books.md) |
 | r26 | @bytinb | This might be the coolest bookshop in Tokyo | 144 | [reels/26-skwat-bookshop.md](reels/26-skwat-bookshop.md) |
+| r27 | @morningkittens | Start creating again | none (no named resource) | [reels/27-start-creating-again.md](reels/27-start-creating-again.md) |
