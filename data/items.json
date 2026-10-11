@@ -2877,4 +2877,88 @@
     ],
     "image": null
   }
-]
+,
+  {
+    "id": 109,
+    "reel": "r17",
+    "collection": "design-effect-repos",
+    "collection_title": "Design effect repos",
+    "title": "react-three-fiber - React renderer for three.js",
+    "kind": "website",
+    "creator": "pmndrs (Poimandres)",
+    "note": "React renderer for the three.js 3D library; the reel's repo 1, shown for building advanced 3D effects on the web. MIT licence, actively maintained. The reel pairs it with Three.js Journey (Bruno Simon's course) as the place to learn the underlying 3D library.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/pmndrs/react-three-fiber"
+      },
+      {
+        "label": "Docs",
+        "url": "https://docs.pmnd.rs/react-three-fiber"
+      },
+      {
+        "label": "Three.js Journey",
+        "url": "https://threejs-journey.com/"
+      }
+    ],
+    "image": null
+  }
+,
+  {
+    "id": 110,
+    "reel": "r17",
+    "collection": "design-effect-repos",
+    "collection_title": "Design effect repos",
+    "title": "liquid-glass-js - Apple-style liquid glass for the web",
+    "kind": "website",
+    "creator": "dashersw",
+    "note": "WebGL library bringing Apple Liquid Glass-style refraction, blur and masking to web UI elements (buttons, cards, pills); the reel's repo 2, shown with its glass button demo. MIT licence. Owner confirmed from the repo screen recording in the video; a different same-named repo exists, so the exact link matters.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/dashersw/liquid-glass-js"
+      }
+    ],
+    "image": null
+  }
+,
+  {
+    "id": 111,
+    "reel": "r17",
+    "collection": "design-effect-repos",
+    "collection_title": "Design effect repos",
+    "title": "shadergradient - customizable animated shader gradients",
+    "kind": "website",
+    "creator": "ruucm",
+    "note": "Animated, customizable shader-gradient component for React/three.js, also available for Figma and Framer; the reel's repo 3, shown with its customizer UI (shape, motion and colour controls).",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/ruucm/shadergradient"
+      },
+      {
+        "label": "Site",
+        "url": "https://www.shadergradient.co/"
+      }
+    ],
+    "image": null
+  }
+,
+  {
+    "id": 112,
+    "reel": "r17",
+    "collection": "design-effect-repos",
+    "collection_title": "Design effect repos",
+    "title": "liquid-logo - liquid-metal effect for any logo",
+    "kind": "website",
+    "creator": "Paper Design",
+    "note": "Tool that applies a liquid-metal chrome shader to any uploaded logo; the reel's repo 4, shown with chrome logo demos. GitHub lists its licence as \"Other\", so the caption's own advice to check the licence before reusing code applies here.",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/paper-design/liquid-logo"
+      }
+    ],
+    "image": null
+  }
+    ]
