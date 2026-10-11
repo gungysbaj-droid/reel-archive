@@ -374,5 +374,24 @@
       125
     ],
     "file": "reels/21-internet-culture-reading-list.md"
+  },
+  {
+    "id": "r22",
+    "slug": "22-figma-shaders",
+    "url": "https://www.instagram.com/reel/DdoF2QPICyz/",
+    "creator": "@design4me__",
+    "title": "Free Figma shaders",
+    "summary": "@design4me__ (posted 2026-09-23) collects free Figma shaders, the visual effects you can apply to layers. Caption: \"i collected some of the coolest figma shaders i could find.\" The roughly 10-second video, recovered and inspected frame by frame, names seven effects on screen in order: Lens Distortion, Moving Blobs, Slice Shift, Pixel Stretch, Halftone, Warp and Pixelate. Each was matched by name to its Figma Community shader page; the reel itself shows no links. The caption's 'comment SHADE' list offer was not acted on.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "file": "reels/22-figma-shaders.md"
   }
 ]
