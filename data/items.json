@@ -2364,5 +2364,213 @@
       }
     ],
     "image": "assets/2-african-overview.jpg"
+  },
+  {
+    "id": 82,
+    "reel": "r12",
+    "collection": "archives",
+    "collection_title": "Cover archives",
+    "title": "Bloomberg Businessweek issue archive",
+    "kind": "website",
+    "creator": "Bloomberg",
+    "note": "Official browsable grid of issue covers, recent issues back through past years, each linking to its issue page. The direct way to see the current run of covers the reel celebrates.",
+    "links": [
+      {
+        "label": "Archive",
+        "url": "https://www.bloomberg.com/businessweek/archive"
+      },
+      {
+        "label": "Current issue",
+        "url": "https://www.bloomberg.com/businessweek"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 83,
+    "reel": "r12",
+    "collection": "archives",
+    "collection_title": "Cover archives",
+    "title": "CoverJunkie: Businessweek",
+    "kind": "website",
+    "creator": "CoverJunkie",
+    "note": "Curated magazine-cover gallery's Businessweek section: recent covers with design commentary and art-direction credits (the January 2026 post credits art director @the.wilkinsonian), plus a 'more from Bloomberg Businessweek' back catalogue.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://coverjunkie.com/cover/businessweek"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 84,
+    "reel": "r12",
+    "collection": "archives",
+    "collection_title": "Cover archives",
+    "title": "Jordi Ng: Bloomberg Businessweek Covers",
+    "kind": "website",
+    "creator": "Jordi Ng",
+    "note": "A working Businessweek art director's own selection of covers she art-directed 2022-ongoing (The Egg, Project Maven, The Year Ahead 2024 maze, Cities Issue 2023, A Deepfake Horror Story), each with a note on the commission and illustrator.",
+    "links": [
+      {
+        "label": "Portfolio",
+        "url": "https://awpoop.com/Bloomberg-Businessweek-Covers"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 85,
+    "reel": "r12",
+    "collection": "archives",
+    "collection_title": "Cover archives",
+    "title": "Internet Archive: Business Week scans",
+    "kind": "archive-item",
+    "creator": "Internet Archive",
+    "note": "The pub_business-week collection: 1,890 scanned Business Week issues from 1932 onward (SIM microfilm), free to borrow with an Internet Archive account. The full-run vintage counterpart to Bloomberg's official archive, which covers recent years only.",
+    "links": [
+      {
+        "label": "Collection",
+        "url": "https://archive.org/details/pub_business-week"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 86,
+    "reel": "r12",
+    "collection": "archives",
+    "collection_title": "Cover archives",
+    "title": "EBSCO Bloomberg Businessweek Magazine Archive",
+    "kind": "archive-item",
+    "creator": "EBSCO",
+    "note": "Billed as the only complete digital backfile: 4,650 issues, 1929-2010, cover-to-cover as originally published. Library/institutional access rather than open web - check a university or public library subscription.",
+    "links": [
+      {
+        "label": "Details",
+        "url": "https://about.ebsco.com/products/magazine-archives/bloomberg-businessweek-magazine-archive"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 87,
+    "reel": "r12",
+    "collection": "design-coverage",
+    "collection_title": "Design coverage",
+    "title": "magCulture: Bloomberg Businessweek redesigned",
+    "kind": "website",
+    "creator": "Jeremy Leslie (magCulture, 2017)",
+    "note": "Explains why the 2009-2013 Tyrangiel-Turley Businessweek became an editorial-design touchstone ('a classic blend of restraint and mania', the weekly cover reveal as its own event) and reviews the quieter 2017 redesign under creative director Robert Vargas.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://magculture.com/blogs/journal/bloomberg-businessweek-redesigned"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 88,
+    "reel": "r12",
+    "collection": "design-coverage",
+    "collection_title": "Design coverage",
+    "title": "designboom: Richard Turley interview",
+    "kind": "website",
+    "creator": "designboom (2013)",
+    "note": "Turley on the 2010 reinvention in his own words: the redrawn Helvetica, the strict Guardian-learned grid he wanted his 15-person art department to 'fuck up', the Wednesday 7PM ship cycle, and his favorite special issues (2010 year in review, 2011 Steve Jobs, 2012 election).",
+    "links": [
+      {
+        "label": "Interview",
+        "url": "https://www.designboom.com/design/richard-turley-bloomberg-businessweek-interview/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 89,
+    "reel": "r12",
+    "collection": "design-coverage",
+    "collection_title": "Design coverage",
+    "title": "Bloomberg: On the Cover Trail with Richard Turley",
+    "kind": "website",
+    "creator": "Bloomberg LP (2014)",
+    "note": "Bloomberg's own press piece on the cover team (Turley, assistant CD Tracy Ma, design director Cynthia Hoffman, photo director David Carthas, art director Robert Vargas) and the weekly cover process, citing the mating-airplanes and suicidal-Twitter-bird covers.",
+    "links": [
+      {
+        "label": "Article",
+        "url": "https://www.bloomberg.com/company/press/cover-trail-richard-turley/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 90,
+    "reel": "r12",
+    "collection": "design-coverage",
+    "collection_title": "Design coverage",
+    "title": "D&AD: Bloomberg Businessweek Cover Series",
+    "kind": "website",
+    "creator": "D&AD",
+    "note": "2016 Wood Pencil winner in Magazine & Newspaper Design. The awards entry states the case for the covers: they 'interpret complex news into succinct visual solutions' and upend what a business magazine cover should be.",
+    "links": [
+      {
+        "label": "Entry",
+        "url": "https://www.dandad.org/work/d-ad-awards-archive/bloomberg-businessweek-cover-series"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 91,
+    "reel": "r12",
+    "collection": "design-coverage",
+    "collection_title": "Design coverage",
+    "title": "Richard Turley",
+    "kind": "website",
+    "creator": "Wikipedia",
+    "note": "Career overview for the creative director behind the famous 2010-2014 era, then MTV, Interview and Civilization. Useful for following where the Businessweek-era designers went next.",
+    "links": [
+      {
+        "label": "Reference",
+        "url": "https://en.wikipedia.org/wiki/Richard_Turley_(graphic_designer)"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 92,
+    "reel": "r12",
+    "collection": "notable-covers",
+    "collection_title": "Notable covers",
+    "title": "\"Let's Get It On\" (United-Continental cover, February 2012)",
+    "kind": "archive-item",
+    "creator": "Bloomberg Businessweek",
+    "note": "Two planes mounting mid-air for the United-Continental merger story. The most infamous Turley-era cover and one of the covers visible in the reel's frame; Business Insider confirmed in 2012 that the viral image was the real cover.",
+    "links": [
+      {
+        "label": "Context",
+        "url": "https://www.businessinsider.com/wow-that-bloomberg-businessweek-pornographic-cover-of-two-planes-getting-it-on-is-real-2012-4"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 93,
+    "reel": "r12",
+    "collection": "notable-covers",
+    "collection_title": "Notable covers",
+    "title": "\"A Very Long Bull\" (September 17, 2018 issue)",
+    "kind": "archive-item",
+    "creator": "Bloomberg Businessweek",
+    "note": "Bull-market cover whose painted bull is visible in the reel's frame. The official issue page lists the cover story and contents.",
+    "links": [
+      {
+        "label": "Issue page",
+        "url": "https://bloomberg.com/magazine/businessweek/18_39"
+      }
+    ],
+    "image": null
   }
 ]
