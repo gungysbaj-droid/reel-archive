@@ -1,0 +1,142 @@
+[
+  {
+    "id": "r01",
+    "slug": "01-first-reel-archive-finds",
+    "url": "https://www.instagram.com/reel/DdjEJoXuaKd/",
+    "creator": "unknown (not recorded in archive page)",
+    "title": "Archive.org / map / zine / manual finds",
+    "summary": "Reel listing 24 archive links (game manuals, artist image collections, maps and timelines, rave zines). Unreadable edge tiles were not extracted.",
+    "saved": null,
+    "item_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "file": "reels/01-first-reel-archive-finds.md"
+  },
+  {
+    "id": "r02",
+    "slug": "02-late-night-films",
+    "url": "https://www.instagram.com/reel/Dd5SSEfPRUT/",
+    "creator": "Max | Cinema (@_maxonfilm)",
+    "title": "Three films to watch alone late at night",
+    "summary": "Fallen Angels, Le Samouraï, Blow Out. Years, directors, actors, plots checked against Criterion. Links are reference pages, not streaming availability in Japan.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      25,
+      26,
+      27
+    ],
+    "file": "reels/02-late-night-films.md"
+  },
+  {
+    "id": "r03",
+    "slug": "03-niche-resources",
+    "url": "https://www.instagram.com/reel/DdPerfny6L8/",
+    "creator": "@itsanamcara",
+    "title": "Ten niche websites and archives",
+    "summary": "Browsing list for language, film, print, fashion, books and sound. Direct links checked 2026-10-11. Old Movie Title Stills URL 404ed; Patreon project page used. DC Punk Archive item count and 1902 start date unconfirmed.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "file": "reels/03-niche-resources.md"
+  },
+  {
+    "id": "r04",
+    "slug": "04-menswear-books",
+    "url": "https://www.instagram.com/reel/Dcty74HPs77/",
+    "creator": "@classic_nonchalance",
+    "title": "Six books for classic menswear",
+    "summary": "First three explain how to wear things; last three map the makers. Creator suggests treating them as catalogs, learning one chapter at a time.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "file": "reels/04-menswear-books.md"
+  },
+  {
+    "id": "r05",
+    "slug": "05-pick-me-up-films",
+    "url": "https://www.instagram.com/reel/DeC19lzhVqE/",
+    "creator": "@cinemonika",
+    "title": "Ten films for a pick-me-up",
+    "summary": "Titles and years from on-screen captions in the reel order; directors checked on Wikipedia, except Waves (Trey Edward Shults) not source-checked. Several are heavy dramas. Caption asks what films you would add.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "file": "reels/05-pick-me-up-films.md"
+  },
+  {
+    "id": "r06",
+    "slug": "06-suit-shoulders",
+    "url": "https://www.instagram.com/reel/Dc_ibD6x6aw/",
+    "creator": "@classic_nonchalance (Cléa C.)",
+    "title": "How to tell suit shoulders apart",
+    "summary": "2:24 explainer, Episode 9 of a 48-lesson tailoring series.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      54
+    ],
+    "file": "reels/06-suit-shoulders.md"
+  },
+  {
+    "id": "r07",
+    "slug": "07-french-lit-celine",
+    "url": "https://www.instagram.com/reel/DdnbeoaqKwF/",
+    "creator": "@chrystalcanread (Chrystal)",
+    "title": "Two books by Louis-Ferdinand Céline",
+    "summary": "\"Beautiful books written by disgusting authors\". Reel calls it 19th century French lit, but both books are 1930s. Quote \"I'm not a man of ideas, I'm a man of style\" is from reel captions, unchecked.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      55,
+      56
+    ],
+    "file": "reels/07-french-lit-celine.md"
+  }
+]

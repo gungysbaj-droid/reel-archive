@@ -1,0 +1,974 @@
+[
+  {
+    "id": 1,
+    "reel": "r01",
+    "collection": "manuals",
+    "collection_title": "Game manuals",
+    "title": "Mega Man 8: Anniversary Collector's Edition",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Cover, disc and full manual scans.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/img-20221011-0003"
+      }
+    ],
+    "image": "assets/item-1.jpg"
+  },
+  {
+    "id": 2,
+    "reel": "r01",
+    "collection": "manuals",
+    "collection_title": "Game manuals",
+    "title": "Nintendo GameCube manual",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "English NTSC console manual.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/scan-20210215-1"
+      }
+    ],
+    "image": "assets/item-2.jpg"
+  },
+  {
+    "id": 3,
+    "reel": "r01",
+    "collection": "manuals",
+    "collection_title": "Game manuals",
+    "title": "Final Fantasy XIII: Ultimate Hits [BCKS 15008]",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "PS3 box, disc and manual-cover scans. English and Korean.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/bcks-15008-ps3-hiresscans"
+      }
+    ],
+    "image": "assets/item-3.jpg"
+  },
+  {
+    "id": 4,
+    "reel": "r01",
+    "collection": "manuals",
+    "collection_title": "Game manuals",
+    "title": "Bio Hazard: PlayStation instruction manual",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Japanese PlayStation manual.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/bio-hazard-manual"
+      }
+    ],
+    "image": "assets/item-4.jpg"
+  },
+  {
+    "id": 5,
+    "reel": "r01",
+    "collection": "manuals",
+    "collection_title": "Game manuals",
+    "title": "Crash Bandicoot Carnival",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Japanese manual, also known as Crash Bash.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/crash-bandicoot-carnival-japanese-manual"
+      }
+    ],
+    "image": "assets/item-5.jpg"
+  },
+  {
+    "id": 6,
+    "reel": "r01",
+    "collection": "manuals",
+    "collection_title": "Game manuals",
+    "title": "Silent Hill: Greatest Hits",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Cover, disc and full manual scans.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/image-002_20251009"
+      }
+    ],
+    "image": "assets/item-6.jpg"
+  },
+  {
+    "id": 7,
+    "reel": "r01",
+    "collection": "artists",
+    "collection_title": "Artists",
+    "title": "Wayne Thiebaud",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Artist image collection, not a single artwork.",
+    "links": [
+      {
+        "label": "Open collection",
+        "url": "https://archive.org/details/ClownMemoriesMontageForWeb"
+      }
+    ],
+    "image": "assets/item-7.jpg"
+  },
+  {
+    "id": 8,
+    "reel": "r01",
+    "collection": "artists",
+    "collection_title": "Artists",
+    "title": "Henri Jean Guillaume Martin",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Artist image collection, not a single artwork.",
+    "links": [
+      {
+        "label": "Open collection",
+        "url": "https://archive.org/details/1920pxcapitoletoulousesallehenrimartinlesbordsdelagaronnelespromeneursoulesreveursparhenrimartin"
+      }
+    ],
+    "image": "assets/item-8.jpg"
+  },
+  {
+    "id": 9,
+    "reel": "r01",
+    "collection": "artists",
+    "collection_title": "Artists",
+    "title": "Fra Angelico",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Artist image collection, not a single artwork.",
+    "links": [
+      {
+        "label": "Open collection",
+        "url": "https://archive.org/details/vbera_hotmail_1451"
+      }
+    ],
+    "image": "assets/item-9.jpg"
+  },
+  {
+    "id": 10,
+    "reel": "r01",
+    "collection": "artists",
+    "collection_title": "Artists",
+    "title": "Louis Valtat",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Artist image collection, not a single artwork.",
+    "links": [
+      {
+        "label": "Open collection",
+        "url": "https://archive.org/details/LouisValtatYoungWomenInTheGarden"
+      }
+    ],
+    "image": "assets/item-10.jpg"
+  },
+  {
+    "id": 11,
+    "reel": "r01",
+    "collection": "artists",
+    "collection_title": "Artists",
+    "title": "Sigmar Polke",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Artist image collection, not a single artwork.",
+    "links": [
+      {
+        "label": "Open collection",
+        "url": "https://archive.org/details/sp_untitled-palermo_1976_002-crop300"
+      }
+    ],
+    "image": "assets/item-11.jpg"
+  },
+  {
+    "id": 12,
+    "reel": "r01",
+    "collection": "artists",
+    "collection_title": "Artists",
+    "title": "Franz Radziwill",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Artist image collection, not a single artwork.",
+    "links": [
+      {
+        "label": "Open collection",
+        "url": "https://archive.org/details/RadziwillDerSturzDesIkarus1"
+      }
+    ],
+    "image": "assets/item-12.jpg"
+  },
+  {
+    "id": 13,
+    "reel": "r01",
+    "collection": "artists",
+    "collection_title": "Artists",
+    "title": "Marlene Dumas",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Artist image collection, not a single artwork.",
+    "links": [
+      {
+        "label": "Open collection",
+        "url": "https://archive.org/details/TheWallOriginal"
+      }
+    ],
+    "image": "assets/item-13.jpg"
+  },
+  {
+    "id": 14,
+    "reel": "r01",
+    "collection": "maps",
+    "collection_title": "Maps & timelines",
+    "title": "Histomap of Evolution",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "John B. Sparks. 1942 edition. Historical science chart.",
+    "links": [
+      {
+        "label": "Zoom at David Rumsey",
+        "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~275397~90048657"
+      },
+      {
+        "label": "Archive copy",
+        "url": "https://archive.org/details/dr_the-histomap-of-evolution-earth-life-and-mankind-for-ten-thousand-million-9869002"
+      }
+    ],
+    "image": "assets/item-14.jpg"
+  },
+  {
+    "id": 15,
+    "reel": "r01",
+    "collection": "maps",
+    "collection_title": "Maps & timelines",
+    "title": "Finley's Historical Chart",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Anthony Finley. Chronology of empires. 1831 atlas edition.",
+    "links": [
+      {
+        "label": "Zoom at David Rumsey",
+        "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~531~60072"
+      },
+      {
+        "label": "Archive copy",
+        "url": "https://archive.org/details/dr_an-historical-chart-representing-in-a-chronological-series-the-rise-revolut-00064072"
+      }
+    ],
+    "image": "assets/item-15.jpg"
+  },
+  {
+    "id": 16,
+    "reel": "r01",
+    "collection": "maps",
+    "collection_title": "Maps & timelines",
+    "title": "Hudson's Bay Company: Historic trading posts",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Stanley Turner. Historic trading posts and territories.",
+    "links": [
+      {
+        "label": "Zoom at David Rumsey",
+        "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~274121~90047895"
+      },
+      {
+        "label": "Archive copy",
+        "url": "https://archive.org/details/dr_hudsons-bay-company--historic-trading-posts-and-territories-of-the-govern-8462000"
+      }
+    ],
+    "image": "assets/item-16.jpg"
+  },
+  {
+    "id": 17,
+    "reel": "r01",
+    "collection": "maps",
+    "collection_title": "Maps & timelines",
+    "title": "Mil-Geo-Karte of Stalingrad",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Generalstab des Heeres. 1942 military map.",
+    "links": [
+      {
+        "label": "Zoom at David Rumsey",
+        "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~333228~90101388"
+      },
+      {
+        "label": "Archive copy",
+        "url": "https://archive.org/details/dr_mil-geo-karte-of-stalingrad-10842002"
+      }
+    ],
+    "image": "assets/item-17.jpg"
+  },
+  {
+    "id": 18,
+    "reel": "r01",
+    "collection": "maps",
+    "collection_title": "Maps & timelines",
+    "title": "Adams' Synchronological Chart of Universal History",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Sebastian C. Adams. Complete composite chart, 1878.",
+    "links": [
+      {
+        "label": "Zoom at David Rumsey",
+        "url": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~226099~5505934"
+      },
+      {
+        "label": "Archive copy",
+        "url": "https://archive.org/details/dr_composite-of-adams-synchronological-chart-of-universal-history-through-6000013"
+      }
+    ],
+    "image": "assets/item-18.jpg"
+  },
+  {
+    "id": 19,
+    "reel": "r01",
+    "collection": "zines",
+    "collection_title": "Rave zines",
+    "title": "Frontpage 1993 06",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Rave zine scan.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/rz_Frontpage_1993-06"
+      }
+    ],
+    "image": "assets/item-19.jpg"
+  },
+  {
+    "id": 20,
+    "reel": "r01",
+    "collection": "zines",
+    "collection_title": "Rave zines",
+    "title": "anonymous5",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Rave zine scan.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/zine_anonymous5"
+      }
+    ],
+    "image": "assets/item-20.jpg"
+  },
+  {
+    "id": 21,
+    "reel": "r01",
+    "collection": "zines",
+    "collection_title": "Rave zines",
+    "title": "wrecken shop",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Rave zine scan.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/zine_wrecken_shop"
+      }
+    ],
+    "image": "assets/item-21.jpg"
+  },
+  {
+    "id": 22,
+    "reel": "r01",
+    "collection": "zines",
+    "collection_title": "Rave zines",
+    "title": "Atmosphere10",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "Rave zine scan.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/rz_Atmosphere10"
+      }
+    ],
+    "image": "assets/item-22.jpg"
+  },
+  {
+    "id": 23,
+    "reel": "r01",
+    "collection": "zines",
+    "collection_title": "Rave zines",
+    "title": "Mission Issue 2",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "December 1994 issue.",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/rz_Mission_Issue_2_December_1994"
+      }
+    ],
+    "image": "assets/item-23.jpg"
+  },
+  {
+    "id": 24,
+    "reel": "r01",
+    "collection": "zines",
+    "collection_title": "Rave zines",
+    "title": "Stellar Awareness Issue 5",
+    "kind": "archive-item",
+    "creator": null,
+    "note": "The Archive catalog spells the title \"Stellar Awarenes Issue 5\".",
+    "links": [
+      {
+        "label": "Read / download",
+        "url": "https://archive.org/details/rz_Stellar_Awarenes_Issue_5"
+      }
+    ],
+    "image": "assets/item-24.jpg"
+  },
+  {
+    "id": 25,
+    "reel": "r02",
+    "collection": "films",
+    "collection_title": "Late-night films",
+    "title": "Fallen Angels (1995)",
+    "kind": "film",
+    "creator": "Wong Kar-wai",
+    "note": "Lonely people drift through Hong Kong, crossing paths and trying to connect. Max highlights the dreamlike neon, distorted wide-angle lenses and smeared motion. His pick for ghostly, restless city atmosphere.",
+    "links": [
+      {
+        "label": "Criterion",
+        "url": "https://www.criterion.com/films/28842-fallen-angels"
+      }
+    ],
+    "image": "assets/film-1.jpg"
+  },
+  {
+    "id": 26,
+    "reel": "r02",
+    "collection": "films",
+    "collection_title": "Late-night films",
+    "title": "Le Samouraï (1967)",
+    "kind": "film",
+    "creator": "Jean-Pierre Melville",
+    "note": "Alain Delon plays Jef Costello, a contract killer caught between the police and his employer. Max focuses on its spare story, precise compositions and cool style. His pick for a solitary, doomed-hitman mood.",
+    "links": [
+      {
+        "label": "Criterion",
+        "url": "https://www.criterion.com/films/184-le-samourai"
+      }
+    ],
+    "image": "assets/film-3.jpg"
+  },
+  {
+    "id": 27,
+    "reel": "r02",
+    "collection": "films",
+    "collection_title": "Late-night films",
+    "title": "Blow Out (1981)",
+    "kind": "film",
+    "creator": "Brian De Palma",
+    "note": "John Travolta plays a sound-effects technician who believes he has recorded a political assassination in Philadelphia. Max describes feeling paranoid throughout, drawn into a late-night investigation. He praises the ending without revealing it.",
+    "links": [
+      {
+        "label": "Criterion",
+        "url": "https://www.criterion.com/films/27561-blow-out"
+      }
+    ],
+    "image": "assets/film-2.jpg"
+  },
+  {
+    "id": 28,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "Describing Words",
+    "kind": "website",
+    "creator": null,
+    "note": "Type a noun to find adjectives drawn from books. Use it for writing and descriptive vocabulary.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://describingwords.io/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 29,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "Eternal Family",
+    "kind": "website",
+    "creator": null,
+    "note": "A hand-picked streaming collection of unusual and rare films, plus 24/7 channels. Access terms are on the site.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://eternal.tv/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 30,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "IDEA",
+    "kind": "website",
+    "creator": null,
+    "note": "London bookseller and publisher. Browse rare, vintage and new fashion, photography and art books. The current catalog is broader than the reel suggests.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.ideanow.online/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 31,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "Print.pm",
+    "kind": "website",
+    "creator": null,
+    "note": "Print-media inspiration: book and magazine spreads, editorial layouts and typography.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://print.pm/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 32,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "Trend List",
+    "kind": "website",
+    "creator": null,
+    "note": "A catalog documenting visual trends in graphic design since 2011.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://trendlist.org/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 33,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "Scanned Fashion World",
+    "kind": "website",
+    "creator": null,
+    "note": "Scanned fashion editorials and campaigns, including 1990s material. The reel describes it as one person’s personal archive.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.scannedfashionworld.com/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 34,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "The Movie Title Stills Collection",
+    "kind": "website",
+    "creator": null,
+    "note": "Christian Annyas’s archive of film title screens. The old direct collection address returned 404 when checked; this link is the verified project page on Patreon. The reel’s 1902 start date was not independently confirmed.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.patreon.com/MovieTitles"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 35,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "An Eclectic Library",
+    "kind": "website",
+    "creator": null,
+    "note": "A hand-built index of online books, with a preference for scanned original pages. Follow its themed bookshelves to source scans; check each source’s access and rights.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://eclectic-library.neocities.org/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 36,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "DC Punk Archive",
+    "kind": "website",
+    "creator": null,
+    "note": "DC Public Library’s punk-scene archive, established in 2014: zines, fliers, posters, photographs and recordings. The reel’s approximate item count was not confirmed.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://digdc.dclibrary.org/do/2b8435ca-71ba-4674-b3a4-7da2ed280c5e"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 37,
+    "reel": "r03",
+    "collection": "resources",
+    "collection_title": "Niche resources",
+    "title": "UCSB Cylinder Audio Archive",
+    "kind": "website",
+    "creator": null,
+    "note": "More than 15,000 digitized cylinder recordings available for free streaming or download. The collection includes early music, spoken selections and home recordings.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://cylinders.library.ucsb.edu/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 38,
+    "reel": "r04",
+    "collection": "menswear",
+    "collection_title": "Menswear books",
+    "title": "Dressing the Man",
+    "kind": "book",
+    "creator": "Alan Flusser",
+    "note": "The foundation: the rules and proportions of classic menswear. The creator calls it his starting point.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.harpercollins.com.au/9780060191443/dressing-the-man/"
+      }
+    ],
+    "image": "assets/book-1.jpg"
+  },
+  {
+    "id": 39,
+    "reel": "r04",
+    "collection": "menswear",
+    "collection_title": "Menswear books",
+    "title": "True Style",
+    "kind": "book",
+    "creator": "G. Bruce Boyer",
+    "note": "Commentary on wardrobe pieces, their history and how to wear them. The creator returns to Boyer’s ideas often.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.hachettebookgroup.com/titles/g-bruce-boyer/true-style/9780465053995/"
+      }
+    ],
+    "image": "assets/book-2.jpg"
+  },
+  {
+    "id": 40,
+    "reel": "r04",
+    "collection": "menswear",
+    "collection_title": "Menswear books",
+    "title": "Modern Black Tie: A Guide",
+    "kind": "book",
+    "creator": "Mickael Korausch",
+    "note": "An actionable guide to evening wear and building a traditional or alternative black-tie kit, rather than a history-only read.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.labowtique.com/product/modern-black-tie/"
+      }
+    ],
+    "image": "assets/book-3.jpg"
+  },
+  {
+    "id": 41,
+    "reel": "r04",
+    "collection": "menswear",
+    "collection_title": "Menswear books",
+    "title": "Savile Row",
+    "kind": "book",
+    "creator": "James Sherwood",
+    "note": "A map of Savile Row’s makers, alongside the history and craft of British tailoring.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.thamesandhudson.com/products/savile-row"
+      }
+    ],
+    "image": "assets/book-4.jpg"
+  },
+  {
+    "id": 42,
+    "reel": "r04",
+    "collection": "menswear",
+    "collection_title": "Menswear books",
+    "title": "The Italian Gentleman",
+    "kind": "book",
+    "creator": "Hugo Jacomet",
+    "note": "A map of Italian makers: tailors, cloth merchants, tie makers, shoemakers and other artisans.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.thamesandhudson.com/products/the-italian-gentleman"
+      }
+    ],
+    "image": "assets/book-5.jpg"
+  },
+  {
+    "id": 43,
+    "reel": "r04",
+    "collection": "menswear",
+    "collection_title": "Menswear books",
+    "title": "The Parisian Gentleman",
+    "kind": "book",
+    "creator": "Hugo Jacomet",
+    "note": "A map of Parisian houses. The reel names Cifonelli, Camps de Luca, Charvet, Berluti and Aubercy.",
+    "links": [
+      {
+        "label": "Book details",
+        "url": "https://www.thamesandhudson.com/products/the-parisian-gentleman"
+      }
+    ],
+    "image": "assets/book-6.jpg"
+  },
+  {
+    "id": 44,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "The Iron Claw (2023)",
+    "kind": "film",
+    "creator": "Sean Durkin",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_Iron_Claw_(film)"
+      }
+    ],
+    "image": "assets/pick-1.jpg"
+  },
+  {
+    "id": 45,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "All of Us Strangers (2023)",
+    "kind": "film",
+    "creator": "Andrew Haigh",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/All_of_Us_Strangers"
+      }
+    ],
+    "image": "assets/pick-2.jpg"
+  },
+  {
+    "id": 46,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "Beautiful Boy (2018)",
+    "kind": "film",
+    "creator": "Felix van Groeningen",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Beautiful_Boy_(2018_film)"
+      }
+    ],
+    "image": "assets/pick-3.jpg"
+  },
+  {
+    "id": 47,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "About Time (2013)",
+    "kind": "film",
+    "creator": "Richard Curtis",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/About_Time_(2013_film)"
+      }
+    ],
+    "image": "assets/pick-4.jpg"
+  },
+  {
+    "id": 48,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "Burning (2018)",
+    "kind": "film",
+    "creator": "Lee Chang-dong",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Burning_(2018_film)"
+      }
+    ],
+    "image": "assets/pick-5.jpg"
+  },
+  {
+    "id": 49,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "A Woman Under the Influence (1974)",
+    "kind": "film",
+    "creator": "John Cassavetes",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/A_Woman_Under_the_Influence"
+      }
+    ],
+    "image": "assets/pick-6.jpg"
+  },
+  {
+    "id": 50,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "Aftersun (2022)",
+    "kind": "film",
+    "creator": "Charlotte Wells",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aftersun"
+      }
+    ],
+    "image": "assets/pick-7.jpg"
+  },
+  {
+    "id": 51,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "Waves (2019)",
+    "kind": "film",
+    "creator": "Trey Edward Shults",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Waves_(2019_film)"
+      }
+    ],
+    "image": "assets/pick-8.jpg"
+  },
+  {
+    "id": 52,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "Brokeback Mountain (2005)",
+    "kind": "film",
+    "creator": "Ang Lee",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brokeback_Mountain"
+      }
+    ],
+    "image": "assets/pick-9.jpg"
+  },
+  {
+    "id": 53,
+    "reel": "r05",
+    "collection": "pickme",
+    "collection_title": "Pick-me-up films",
+    "title": "Inside Llewyn Davis (2013)",
+    "kind": "film",
+    "creator": "Joel and Ethan Coen",
+    "note": "Title and year from on-screen captions; no per-film commentary in the reel.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Inside_Llewyn_Davis"
+      }
+    ],
+    "image": "assets/pick-10.jpg"
+  },
+  {
+    "id": 54,
+    "reel": "r06",
+    "collection": "tailoring",
+    "collection_title": "Suit shoulders",
+    "title": "Suit shoulder expression: roped, natural, bald",
+    "kind": "lesson",
+    "creator": "@classic_nonchalance (Cléa C.)",
+    "note": "Episode 9 \"Shoulders\" of \"How to be fluent in suits & tailoring in 48 lessons\". Roped: sleeve head sits up and out. Natural: in between. Bald: relaxed and flat. Expression is shape, not construction; Spalla Camicia is a construction and can be roped, natural or bald. Roped does not mean padded; bald does not mean unconstructed. Names vary by tailor (e.g. \"con rollino\" in Rome). Built from burned-in captions and written caption only; audio not transcribed.",
+    "links": [
+      {
+        "label": "Original reel",
+        "url": "https://www.instagram.com/reel/Dc_ibD6x6aw/"
+      }
+    ],
+    "image": "assets/shoulders-reel.jpg"
+  },
+  {
+    "id": 55,
+    "reel": "r07",
+    "collection": "celine",
+    "collection_title": "French lit",
+    "title": "Journey to the End of the Night (1932)",
+    "kind": "book",
+    "creator": "Louis-Ferdinand Céline",
+    "note": "His first novel, called one of the masterpieces of 20th century French literature in the reel. Semi-autobiographical: follows Ferdinand Bardamu through World War I, colonial Africa, the United States and the poor suburbs of Paris.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night"
+      }
+    ],
+    "image": "assets/cel-2.jpg"
+  },
+  {
+    "id": 56,
+    "reel": "r07",
+    "collection": "celine",
+    "collection_title": "French lit",
+    "title": "Death on the Installment Plan (1936)",
+    "kind": "book",
+    "creator": "Louis-Ferdinand Céline",
+    "note": "The creator’s favorite: she loved it from the first pages. Semi-autobiographical, about his childhood growing up in the slums of Paris. Filled with hatred and disgust but also dreams and fantasies, and so visceral you can almost smell the dirtiness. Wikipedia lists the same 1936 novel as Death on Credit.",
+    "links": [
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_on_Credit"
+      }
+    ],
+    "image": "assets/cel-1.jpg"
+  }
+]
