@@ -34,3 +34,7 @@ The two latest reels are r10 and r11, saved 2026-10-11. The repository and archi
 The six menswear items (38-43) now have optional `contents` objects in data/items.json, mirrored in reels/04-menswear-books.md. These record verified chapter lists or coverage summaries, sources, edition/source caveats and checked date. They do not contain full book texts. Modern Black Tie has a verified ten-chapter structure but not exact chapter names; Savile Row and The Italian Gentleman retain source discrepancies rather than invented harmonized contents.
 
 Reels 10-11 were added to this repository only; the hosted gallery was not changed by this update.
+
+## Substantive book notes
+
+Items 38-43 have optional `knowledge` objects mirrored in the menswear markdown: scope, checked date, depth, limits, sections (section, evidence, source_ids, summary) and sources (id, title, url, type). Direct book excerpts, established reviews, lower-confidence reader notes and author-site companion guides remain distinct. Missing chapters are marked. No full text or preview images are stored, and no percentage of knowledge recovered is claimed. `contents` remains the table-of-contents field.
