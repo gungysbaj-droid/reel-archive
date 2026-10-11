@@ -3531,4 +3531,30 @@
     ],
     "image": null
   }
-    ]
+    ,
+  {
+    "id": 144,
+    "reel": "r26",
+    "collection": "skwat-bookshop",
+    "collection_title": "This might be the coolest bookshop in Tokyo",
+    "title": "SKWAT (SKAC - Skwat Kameari Art Centre)",
+    "kind": "website",
+    "creator": "twelvebooks (SKWAT / DAIKEI MILLS)",
+    "note": "Physical venue in Tokyo, kind set to website because the archive vocabulary has no place kind. Art bookshop run by distributor twelvebooks (about 60,000 art, photography and design volumes) with vinyl shop VDS, cafe and gallery, opened November 2024 under the elevated tracks near Kameari Station. Address 3-26-4 Nishikameari, Katsushika-ku, Tokyo 125-0002. Open 11:00-19:00, closed Monday and Tuesday (from checked reference pages, not the reel). The reel shows no links; the archive picked the reference pages.",
+    "links": [
+      {
+        "label": "Tokyo Art Beat",
+        "url": "https://www.tokyoartbeat.com/en/venues/-/098E012E"
+      },
+      {
+        "label": "Time Out Tokyo (Japanese)",
+        "url": "https://www.timeout.jp/tokyo/ja/things-to-do/skwat-kameari-art-centre"
+      },
+      {
+        "label": "SKWAT Instagram",
+        "url": "https://www.instagram.com/skwat.site/"
+      }
+    ],
+    "image": null
+  }
+]
