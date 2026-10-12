@@ -12,7 +12,7 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 
 ## Conventions
 
-- Item ids are global and increase by one, currently 1-153. Reels with no identifiable resource have an empty item_ids list; r19 is a process reference and adds no item; r20 adds items 119-121 and r21 adds items 122-125; r22 adds items 126-132 r23 adds items 133-137, r24 names no resource and adds no item, and r25 (a carousel post) adds items 138-143, r26 adds item 144, r27 names no resource and adds no item, and r28 adds items 145-153. Reel ids are `rNN`, currently r01-r28.
+- Item ids are global and increase by one, currently 1-153. Reels with no identifiable resource have an empty item_ids list; r19 is a process reference and adds no item; r20 adds items 119-121 and r21 adds items 122-125; r22 adds items 126-132 r23 adds items 133-137, r24 names no resource and adds no item, and r25 (a carousel post) adds items 138-143, r26 adds item 144, r27 names no resource and adds no item, r28 adds items 145-153, and r29 names no resource and adds no item. Reel ids are `rNN`, currently r01-r29.
 - `kind` is one of archive-item, film, website, book or lesson.
 - Item creator is the director/author; reel creator is on the reel record.
 - Notes distinguish checked facts from unverified creator claims.
@@ -27,7 +27,7 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 4. Check the actual stored filenames and use them in every image/file reference.
 5. Add a row to `INDEX.md` and read back the saved JSON to check counts and links.
 
-The three latest reels are r26, r27 and r28, saved 2026-10-12. The repository and archive page are private.
+The three latest reels are r27, r28 and r29, saved 2026-10-12. The repository and archive page are private.
 
 ## Book contents
 
