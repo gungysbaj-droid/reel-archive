@@ -29,3 +29,4 @@
 | r25 | @processthepodcast | Books to develop your taste as a creative | 138-143 | [reels/25-creative-taste-books.md](reels/25-creative-taste-books.md) |
 | r26 | @bytinb | This might be the coolest bookshop in Tokyo | 144 | [reels/26-skwat-bookshop.md](reels/26-skwat-bookshop.md) |
 | r27 | @morningkittens | Start creating again | none (no named resource) | [reels/27-start-creating-again.md](reels/27-start-creating-again.md) |
+| r28 | @derek.chung.77 | Korean movies that aren't Parasite (part 1) | 145-153 | [reels/28-korean-films-not-parasite.md](reels/28-korean-films-not-parasite.md) |
