@@ -32,3 +32,4 @@
 | r28 | @derek.chung.77 | Korean movies that aren't Parasite (part 1) | 145-153 | [reels/28-korean-films-not-parasite.md](reels/28-korean-films-not-parasite.md) |
 | r29 | @vanessa.vecchi | Trend edit (credit @drejco) | none (no named resource) | [reels/29-trend-edit-vanessa-vecchi.md](reels/29-trend-edit-vanessa-vecchi.md) |
 | r30 | @bywaviboy | 3 sites I steal aesthetics from (Cosmos, ShotDeck, Savee) | 154-156 | [reels/30-three-sites-steal-aesthetics.md](reels/30-three-sites-steal-aesthetics.md) |
+| r31 | @kurtjenkins.studio | Underrated film genres (27 films across 9 genres) | 157-183 | [reels/31-underrated-film-genres.md](reels/31-underrated-film-genres.md) |
