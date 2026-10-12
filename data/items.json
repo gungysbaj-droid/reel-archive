@@ -3710,5 +3710,56 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 154,
+    "reel": "r30",
+    "collection": "three-sites-steal-aesthetics",
+    "collection_title": "3 sites I steal aesthetics from (Cosmos, ShotDeck, Savee)",
+    "title": "ShotDeck",
+    "kind": "website",
+    "creator": null,
+    "note": "Searchable film-still library for visual and cinematography reference. Number 1 of 3 in the reel: the voiceover says \"every frame from cinema searchable by mood. Screenshot it, feed it straight to Midjourney\", over a recording of the ShotDeck search page. Link checked 2026-10-12; homepage only, not a claim about access or pricing.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://shotdeck.com"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 155,
+    "reel": "r30",
+    "collection": "three-sites-steal-aesthetics",
+    "collection_title": "3 sites I steal aesthetics from (Cosmos, ShotDeck, Savee)",
+    "title": "Savee",
+    "kind": "website",
+    "creator": null,
+    "note": "Design inspiration site for saving and browsing visual references. Number 2 of 3 in the reel: the voiceover calls it \"Pinterest if Pinterest had taste\" and \"your entire reference stack\". The site describes itself as inspiration curated by designers. Link checked 2026-10-12; homepage.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://savee.com"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 156,
+    "reel": "r30",
+    "collection": "three-sites-steal-aesthetics",
+    "collection_title": "3 sites I steal aesthetics from (Cosmos, ShotDeck, Savee)",
+    "title": "Cosmos",
+    "kind": "website",
+    "creator": null,
+    "note": "Visual inspiration and collections site. Number 3 of 3 in the reel: the voiceover says \"search the internet by color. Find the exact vibe before you prompt\". The site describes itself as a place to create collections for every project, outfit or space. Link checked 2026-10-12; homepage.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.cosmos.so"
+      }
+    ],
+    "image": null
   }
 ]
