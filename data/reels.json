@@ -439,8 +439,7 @@
       143
     ],
     "file": "reels/25-creative-taste-books.md"
-  }
-,
+  },
   {
     "id": "r26",
     "slug": "26-skwat-bookshop",
@@ -453,8 +452,7 @@
       144
     ],
     "file": "reels/26-skwat-bookshop.md"
-  }
-,
+  },
   {
     "id": "r27",
     "slug": "27-start-creating-again",
@@ -465,8 +463,7 @@
     "saved": "2026-10-12",
     "item_ids": [],
     "file": "reels/27-start-creating-again.md"
-  }
-,
+  },
   {
     "id": "r28",
     "slug": "28-korean-films-not-parasite",
@@ -487,8 +484,7 @@
       153
     ],
     "file": "reels/28-korean-films-not-parasite.md"
-  }
-,
+  },
   {
     "id": "r29",
     "slug": "29-trend-edit-vanessa-vecchi",
@@ -499,5 +495,20 @@
     "saved": "2026-10-12",
     "item_ids": [],
     "file": "reels/29-trend-edit-vanessa-vecchi.md"
+  },
+  {
+    "id": "r30",
+    "slug": "30-three-sites-steal-aesthetics",
+    "url": "https://www.instagram.com/reel/DdnByC4AN1w/",
+    "creator": "@bywaviboy",
+    "title": "3 sites I steal aesthetics from (Cosmos, ShotDeck, Savee)",
+    "summary": "@bywaviboy (Instagram, about 205K followers) recommends three reference sites for building moodboards and AI visuals in Midjourney. Caption: \"STEAL LIKE AN ARTIST! Tip: build your moodboards in midjourney using these sites, to build high quality AI visuals. ... follow @bywaviboy first, then comment STEAL for all three sites sent your inbox\". The caption does not name the sites; the roughly 21-second video does, in speech and screen recordings: ShotDeck (every film frame searchable by mood; screenshot it and feed it to Midjourney), Savee (\"Pinterest if Pinterest had taste\", the reference stack) and Cosmos (search the internet by color; find the vibe before you prompt). Overlay: \"I'd be pissed if someone gatekept these 3 websites.\" Three items were added. Note: ShotDeck is the item relevant to the user's separate question about scraping ShotDeck.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      154,
+      155,
+      156
+    ],
+    "file": "reels/30-three-sites-steal-aesthetics.md"
   }
 ]
