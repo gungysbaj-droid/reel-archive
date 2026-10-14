@@ -12,7 +12,7 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 
 ## Conventions
 
-- Item ids are global and increase by one, currently 1-217. Reels with no identifiable resource have an empty item_ids list; r19 is a process reference and adds no item; r20 adds items 119-121 and r21 adds items 122-125; r22 adds items 126-132 r23 adds items 133-137, r24 names no resource and adds no item, and r25 (a carousel post) adds items 138-143, r26 adds item 144, r27 names no resource and adds no item, r28 adds items 145-153, r29 names no resource and adds no item, and r30 adds items 154-156, and r31 adds items 157-183; r32 adds book item 184, and r33 adds items 185-217 (NYC shops). Reel ids are `rNN`, currently r01-r33.
+- Item ids are global and increase by one, currently 1-222. Reels with no identifiable resource have an empty item_ids list; r19 is a process reference and adds no item; r20 adds items 119-121 and r21 adds items 122-125; r22 adds items 126-132 r23 adds items 133-137, r24 names no resource and adds no item, and r25 (a carousel post) adds items 138-143, r26 adds item 144, r27 names no resource and adds no item, r28 adds items 145-153, r29 names no resource and adds no item, and r30 adds items 154-156, and r31 adds items 157-183; r32 adds book item 184, r33 adds items 185-217 (NYC shops), and r34 adds items 218-222 (layout sites). Reel ids are `rNN`, currently r01-r34.
 - `kind` is one of archive-item, film, website, book or lesson.
 - Item creator is the director/author; reel creator is on the reel record.
 - Notes distinguish checked facts from unverified creator claims.
@@ -27,7 +27,7 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 4. Check the actual stored filenames and use them in every image/file reference.
 5. Add a row to `INDEX.md` and read back the saved JSON to check counts and links.
 
-The three latest reels are r31 and r32 (saved 2026-10-12) and r33 (saved 2026-10-14). The repository and archive page are private.
+The three latest reels are r32 (saved 2026-10-12) and r33 and r34 (saved 2026-10-14). The repository and archive page are private.
 
 ## Book contents
 
@@ -38,3 +38,4 @@ Reels 10-16 were added to this repository only; the hosted gallery was not chang
 ## Substantive book notes
 
 Items 38-43 have optional `knowledge` objects mirrored in the menswear markdown: scope, checked date, depth, limits, sections (section, evidence, source_ids, summary) and sources (id, title, url, type). Direct book excerpts, established reviews, lower-confidence reader notes and author-site companion guides remain distinct. Missing chapters are marked. No full text or preview images are stored, and no percentage of knowledge recovered is claimed. `contents` remains the table-of-contents field.
+
