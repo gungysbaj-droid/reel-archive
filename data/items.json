@@ -5059,5 +5059,107 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 218,
+    "reel": "r34",
+    "collection": "layout-inspiration-sites",
+    "collection_title": "Where to study layouts (landing pages, web design, app flows)",
+    "title": "Land-book",
+    "kind": "website",
+    "creator": null,
+    "note": "Land-book curates landing pages you can filter down to a single component, so one pricing block can be studied twenty different ways (per the caption). Links are reference pages checked 2026-10-14, not claims about access, pricing or rights.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://land-book.com/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 219,
+    "reel": "r34",
+    "collection": "layout-inspiration-sites",
+    "collection_title": "Where to study layouts (landing pages, web design, app flows)",
+    "title": "Godly",
+    "kind": "website",
+    "creator": null,
+    "note": "Credited in the reel as @godlywebsite: keeps a high floor on landing pages specifically (per the caption). Site is godly.website (page title: \"Design Inspiration\"). Links are reference pages checked 2026-10-14, not claims about access, pricing or rights.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://godly.website/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/godlywebsite/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 220,
+    "reel": "r34",
+    "collection": "layout-inspiration-sites",
+    "collection_title": "Where to study layouts (landing pages, web design, app flows)",
+    "title": "Siteinspire",
+    "kind": "website",
+    "creator": null,
+    "note": "Credited as @siteinspire: running since 2009, and its archives show how typography and grid systems have moved over the years (per the caption; the 2009 start is the creator's claim, not checked). Links are reference pages checked 2026-10-14, not claims about access, pricing or rights.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.siteinspire.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/siteinspire/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 221,
+    "reel": "r34",
+    "collection": "layout-inspiration-sites",
+    "collection_title": "Where to study layouts (landing pages, web design, app flows)",
+    "title": "Awwwards",
+    "kind": "website",
+    "creator": null,
+    "note": "Credited as @awwwards: for ambition rather than patterns, since the winners chase spectacle (per the caption). Links are reference pages checked 2026-10-14, not claims about access, pricing or rights.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.awwwards.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/awwwards/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 222,
+    "reel": "r34",
+    "collection": "layout-inspiration-sites",
+    "collection_title": "Where to study layouts (landing pages, web design, app flows)",
+    "title": "Mobbin",
+    "kind": "website",
+    "creator": null,
+    "note": "Credited as @mobbindesign: documents real app flows screen by screen, which the caption says teaches hierarchy better than most courses on it. Links are reference pages checked 2026-10-14, not claims about access, pricing or rights.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://mobbin.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mobbindesign/"
+      }
+    ],
+    "image": null
   }
 ]
+
