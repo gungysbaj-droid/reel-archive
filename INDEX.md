@@ -35,3 +35,4 @@
 | r31 | @kurtjenkins.studio | Underrated film genres (27 films across 9 genres) | 157-183 | [reels/31-underrated-film-genres.md](reels/31-underrated-film-genres.md) |
 | r32 | @inlovewithbooksindonesia | Physics and Philosophy - Werner Heisenberg | 184 | [reels/32-heisenberg-physics-philosophy.md](reels/32-heisenberg-physics-philosophy.md) |
 | r33 | @elliotduprey | My Full NYC Shopping Guide (secondhand, new fashion, everything else) | 185-217 | [reels/33-nyc-shopping-guide.md](reels/33-nyc-shopping-guide.md) |
+| r34 | @james.vlvt | Five sites to study layout (Land-book, Godly, Siteinspire, Awwwards, Mobbin) | 218-222 | [reels/34-layout-inspiration-sites.md](reels/34-layout-inspiration-sites.md) |
