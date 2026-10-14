@@ -1,0 +1,611 @@
+[
+  {
+    "id": "r01",
+    "slug": "01-first-reel-archive-finds",
+    "url": "https://www.instagram.com/reel/DdjEJoXuaKd/",
+    "creator": "unknown (not recorded in archive page)",
+    "title": "Archive.org / map / zine / manual finds",
+    "summary": "Reel listing 24 archive links (game manuals, artist image collections, maps and timelines, rave zines). Unreadable edge tiles were not extracted.",
+    "saved": null,
+    "item_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ],
+    "file": "reels/01-first-reel-archive-finds.md"
+  },
+  {
+    "id": "r02",
+    "slug": "02-late-night-films",
+    "url": "https://www.instagram.com/reel/Dd5SSEfPRUT/",
+    "creator": "Max | Cinema (@_maxonfilm)",
+    "title": "Three films to watch alone late at night",
+    "summary": "Fallen Angels, Le Samouraï, Blow Out. Years, directors, actors, plots checked against Criterion. Links are reference pages, not streaming availability in Japan.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      25,
+      26,
+      27
+    ],
+    "file": "reels/02-late-night-films.md"
+  },
+  {
+    "id": "r03",
+    "slug": "03-niche-resources",
+    "url": "https://www.instagram.com/reel/DdPerfny6L8/",
+    "creator": "@itsanamcara",
+    "title": "Ten niche websites and archives",
+    "summary": "Browsing list for language, film, print, fashion, books and sound. Direct links checked 2026-10-11. Old Movie Title Stills URL 404ed; Patreon project page used. DC Punk Archive item count and 1902 start date unconfirmed.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "file": "reels/03-niche-resources.md"
+  },
+  {
+    "id": "r04",
+    "slug": "04-menswear-books",
+    "url": "https://www.instagram.com/reel/Dcty74HPs77/",
+    "creator": "@classic_nonchalance",
+    "title": "Six books for classic menswear",
+    "summary": "First three explain how to wear things; last three map the makers. Creator suggests treating them as catalogs, learning one chapter at a time.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "file": "reels/04-menswear-books.md"
+  },
+  {
+    "id": "r05",
+    "slug": "05-pick-me-up-films",
+    "url": "https://www.instagram.com/reel/DeC19lzhVqE/",
+    "creator": "@cinemonika",
+    "title": "Ten films for a pick-me-up",
+    "summary": "Titles and years from on-screen captions in the reel order; directors checked on Wikipedia, except Waves (Trey Edward Shults) not source-checked. Several are heavy dramas. Caption asks what films you would add.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ],
+    "file": "reels/05-pick-me-up-films.md"
+  },
+  {
+    "id": "r06",
+    "slug": "06-suit-shoulders",
+    "url": "https://www.instagram.com/reel/Dc_ibD6x6aw/",
+    "creator": "@classic_nonchalance (Cléa C.)",
+    "title": "How to tell suit shoulders apart",
+    "summary": "2:24 explainer, Episode 9 of a 48-lesson tailoring series.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      54
+    ],
+    "file": "reels/06-suit-shoulders.md"
+  },
+  {
+    "id": "r07",
+    "slug": "07-french-lit-celine",
+    "url": "https://www.instagram.com/reel/DdnbeoaqKwF/",
+    "creator": "@chrystalcanread (Chrystal)",
+    "title": "Two books by Louis-Ferdinand Céline",
+    "summary": "\"Beautiful books written by disgusting authors\". Reel calls it 19th century French lit, but both books are 1930s. Quote \"I'm not a man of ideas, I'm a man of style\" is from reel captions, unchecked.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      55,
+      56
+    ],
+    "file": "reels/07-french-lit-celine.md"
+  },
+  {
+    "id": "r08",
+    "slug": "08-round-table-etiquette",
+    "url": "https://www.instagram.com/reel/DbOKGMousLn/",
+    "creator": "ines (@seniraii)",
+    "title": "The politics of a round table",
+    "summary": "Seating orientation and proximity to the seat of honour signal status at Chinese formal meals. Customs vary widely; the history and language claims are unchecked.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      57
+    ],
+    "file": "reels/08-round-table-etiquette.md"
+  },
+  {
+    "id": "r09",
+    "slug": "09-kitchen-ui",
+    "url": "https://www.instagram.com/reel/DeO7DugISSR/",
+    "creator": "Adrien Ninet (@adrien.ninet)",
+    "title": "Kitchen: tactile UI experiments",
+    "summary": "dqnamo's Kitchen: Cassette Audio Player, Hold to Confirm and Receipt Printer. Official gallery/demo links checked. Receipt is a UI animation, not a physical printer.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      58
+    ],
+    "file": "reels/09-kitchen-ui.md"
+  },
+  {
+    "id": "r10",
+    "slug": "10-creativity-books",
+    "url": "https://www.instagram.com/reel/DdGEuSqIBef/",
+    "creator": "@processthepodcast",
+    "title": "Eight books to develop creative taste",
+    "summary": "Eight creativity, aesthetics and design books identified from the video covers and labels. Caption recommends lifelong learning. No storefront solicitation was acted on.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ],
+    "file": "reels/10-creativity-books.md"
+  },
+  {
+    "id": "r11",
+    "slug": "11-african-studies-curriculum",
+    "url": "https://www.instagram.com/reel/DcnDfobsxcV/",
+    "creator": "@mumbipoetry",
+    "title": "A decolonial African Studies curriculum",
+    "summary": "Creator proposes a curriculum from her own collection: Africa as an idea, decolonial thinking, development, gender, philosophy, religion, supplementary theory and fiction. Caption also suggests contemporary African literature, museums/museumification, and possibly legal systems under philosophy. Commenter suggestions are not attributed to the creator.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ],
+    "file": "reels/11-african-studies-curriculum.md"
+  },
+  {
+    "id": "r12",
+    "slug": "12-bloomberg-covers",
+    "url": "https://www.instagram.com/reel/DeQrXKqNrKW/",
+    "creator": "Oren John (@orenmeetsworld)",
+    "title": "Bloomberg covers for design inspiration",
+    "summary": "Oren John holds up print Bloomberg Businessweek issues as cover-design inspiration (posted 2026-10-08, caption tag #creativedirector). The frame shows covers including A Very Long Bull (September 17, 2018) and the February 2012 United-Continental Let's Get It On cover. The reel names no resources, so the archive expands it with verified places to browse the covers (official issue archive, CoverJunkie, Jordi Ng's portfolio, Internet Archive scans, EBSCO backfile), design coverage of the Turley era, and the two covers visible in the frame. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ],
+    "file": "reels/12-bloomberg-covers.md"
+  },
+  {
+    "id": "r13",
+    "slug": "13-claude-design-plugins",
+    "url": "https://www.instagram.com/reel/DcWQCQdN28T/",
+    "creator": "Peter Griffin AI (@petergriffin.ai)",
+    "title": "Five Claude Code plugins for better-looking websites",
+    "summary": "AI-tools creator rounds up five Claude Code skills/plugins for making AI-built websites look less generic (posted 2026-08-22; caption asks readers to comment DESIGN for the links): TasteSkill for design taste, Web Design Guidelines for UI audits, AwesomeDesign for design-system context, ImageToCode for design-to-code and Playwright CLI for screenshot checks. The reel names all five; the archive verifies each tool's canonical home. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ],
+    "file": "reels/13-claude-design-plugins.md"
+  },
+  {
+    "id": "r14",
+    "slug": "14-persona-two-faces-shot",
+    "url": "https://www.instagram.com/reel/Ddh1mq-qeDp/",
+    "creator": "Film School Dropouts (@filmschool.dropouts)",
+    "title": "Persona's two-faces shot and its echoes",
+    "summary": "Film School Dropouts asks \"What's the best use of this shot?\" about Bergman's Persona (1966) and its two-faces composition: Bibi Andersson and Liv Ullmann overlapped into a single face. The caption (posted 2026-09-20) says the shot has been echoed from La Pointe Courte to Ghost in the Shell, and that David Lynch (Mulholland Drive) and Céline Sciamma (Portrait of a Lady on Fire) cite the film. The reel names no resources, so the archive adds the films with verified pages, plus Criterion's essay on Persona. Film-influence claims are the creator's; links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "file": "reels/14-persona-two-faces-shot.md"
+  },
+  {
+    "id": "r15",
+    "slug": "15-aesthetic-mac-apps",
+    "url": "https://www.instagram.com/reel/DePSwdoKDyJ/",
+    "creator": "Fensy (@fensyy19)",
+    "title": "Three aesthetic Mac apps",
+    "summary": "Mac customization creator fensyy19 (Fensy) shares 3 aesthetic Mac apps (posted 2026-10-08): Vinyl (Spotify and Apple Music as a vinyl player), Launchy (radial app menu) and Droppy (notch animations and widgets). Download links are pinned in the comments, and a Droppy discount link is in the bio; neither was visible signed-out. The reel names all three, so the archive verifies each app's own page. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      105,
+      106,
+      107
+    ],
+    "file": "reels/15-aesthetic-mac-apps.md"
+  },
+  {
+    "id": "r16",
+    "slug": "16-job-hunt-romcom",
+    "url": "https://www.instagram.com/reel/DdiAlS4B8qX/",
+    "creator": "dottiesjournal (@dottiesjournal)",
+    "title": "Office romcom to job-hunt romcom",
+    "summary": "dottiesjournal posts a short skit (2026-09-20, 5.6K likes): \"office romcom -> eternal job hunt romcom economic pipeline\", a joke that the workplace romcom has turned into a romcom about endless job hunting. The reel names no film or resource. Comments praise the script, ask for a novella, and one names Ben Marshall; no title is given. At the user's request it is logged as a movie to watch: the nearest real film is Office Romance (Netflix, 2026), flagged as an unconfirmed match. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      108
+    ],
+    "file": "reels/16-job-hunt-romcom.md"
+  },
+  {
+    "id": "r17",
+    "slug": "17-design-effects-repos",
+    "url": "https://www.instagram.com/reel/DdrK2xeJY15/",
+    "creator": "Cindy Zhu (@cindiezhu)",
+    "title": "Four GitHub repos for advanced design effects",
+    "summary": "Design creator Cindy Zhu (@cindiezhu) shows four GitHub repos for advanced design effects, to adapt with Claude Code (posted 2026-09-24, 6.1K likes, 3.2K comments): react-three-fiber (React renderer for three.js), liquid-glass-js (Apple-style liquid glass UI), shadergradient (animated shader gradients) and liquid-logo (liquid-metal logo effect). The reel is comment-bait - \"comment 'repos' for all four links and the implementation guide\" - so links go out by DM; the four repos were recovered from the video itself, and the DM'd implementation guide was not visible signed-out. Caption advice: a repository is reference code, not a magic asset - check licence, maintenance and framework first, then ask Claude Code to isolate the smallest effect and adapt it in a disposable branch before merging. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      109,
+      110,
+      111,
+      112
+    ],
+    "file": "reels/17-design-effects-repos.md"
+  },
+  {
+    "id": "r18",
+    "slug": "18-design-philosophy-books",
+    "url": "https://www.instagram.com/reel/DbIUOv2AefI/",
+    "creator": "@jasperjmutimer",
+    "title": "Six books that shaped a designer's taste",
+    "summary": "@jasperjmutimer recommends six books that shaped his design taste. His caption argues that knowing at least one designer's philosophy is useful for a creative career. The six titles and their order were extracted from the reel's own caption. Publisher and library pages verify the books and the coverage notes below. Video frames could not be recovered from the signed-out embed, so no unobserved on-screen commentary is claimed. Links checked 2026-10-11.",
+    "saved": "2026-10-11",
+    "item_ids": [
+      113,
+      114,
+      115,
+      116,
+      117,
+      118
+    ],
+    "file": "reels/18-design-philosophy-books.md"
+  },
+  {
+    "id": "r19",
+    "slug": "19-disco-elysium-painting",
+    "url": "https://www.instagram.com/reel/Dd9914kS7dF/",
+    "creator": "@kinsekyeong",
+    "title": "Disco Elysium-style digital painting process",
+    "summary": "@kinsekyeong demonstrates a digital portrait-painting process. On-screen title: \"Kind of Disco Elysium Technique\"; Korean caption: \"55분 디지털페인팅\" (55-minute digital painting). The approximately 30-second time-lapse shows loose sketch lines, bright colour blocks, broken textured strokes and a finished grey-haired, moustached portrait. No named brushes, tutorial, book or downloadable resource appears. Process observations are recorded without inventing resource items.",
+    "saved": "2026-10-11",
+    "item_ids": [],
+    "file": "reels/19-disco-elysium-painting.md"
+  },
+  {
+    "id": "r20",
+    "slug": "20-claude-motion-stack",
+    "url": "https://www.instagram.com/reel/DePLcw_Dbwo/",
+    "creator": "@jackroberts___",
+    "title": "Motion stack for Claude Code websites",
+    "summary": "Jack Roberts (@jackroberts___, posted 2026-10-08) argues that Claude can build a website but not how it should move, and names three tools to paste into Claude Code: GSAP for scroll effects, Lenis for smooth scrolling, and React Bits for animated text, backgrounds and buttons. Caption names all three; the signed-out page showed no video, so no unseen on-screen commentary is claimed. The caption's 'comment MOTION' link-delivery offer was not acted on; official pages were verified directly.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      119,
+      120,
+      121
+    ],
+    "file": "reels/20-claude-motion-stack.md"
+  },
+  {
+    "id": "r21",
+    "slug": "21-internet-culture-reading-list",
+    "url": "https://www.instagram.com/reel/Dakw9c-oAvU/",
+    "creator": "@designteamofone",
+    "title": "Internet/www culture reading list",
+    "summary": "@designteamofone (posted July 2026, curated with @public_knowledge_books) shares an internet/www culture reading list. Caption tags @meatspacepress, @setmargins, @slanted.magazine and @thirdplacezine. The video, recovered and inspected frame by frame, shows four items in order: Eaten by the Internet, Becoming the Product, Slanted Magazine #47 (Digital Tools) and Third Place Zine as a log-off bonus. Publisher pages verified.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "file": "reels/21-internet-culture-reading-list.md"
+  },
+  {
+    "id": "r22",
+    "slug": "22-figma-shaders",
+    "url": "https://www.instagram.com/reel/DdoF2QPICyz/",
+    "creator": "@design4me__",
+    "title": "Free Figma shaders",
+    "summary": "@design4me__ (posted 2026-09-23) collects free Figma shaders, the visual effects you can apply to layers. Caption: \"i collected some of the coolest figma shaders i could find.\" The roughly 10-second video, recovered and inspected frame by frame, names seven effects on screen in order: Lens Distortion, Moving Blobs, Slice Shift, Pixel Stretch, Halftone, Warp and Pixelate. Each was matched by name to its Figma Community shader page; the reel itself shows no links. The caption's 'comment SHADE' list offer was not acted on.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132
+    ],
+    "file": "reels/22-figma-shaders.md"
+  },
+  {
+    "id": "r23",
+    "slug": "23-neuroscience-topics",
+    "url": "https://www.instagram.com/reel/DchPHtjhnS4/",
+    "creator": "@melissa_danilov",
+    "title": "Neuroscience topics to explore (part 7)",
+    "summary": "@melissa_danilov (posted 2026-08-26; caption \"scientist mode activated\") shows part 7 of a neuroscience topic series using a university library research database. The roughly 9-second video, recovered and inspected frame by frame, types five search terms into the library discovery page in order: the overview effect, alien hand syndrome, Charles Bonnet syndrome, aphantasia and hyperthymesia. The reel names topics, not sources; the linked pages are independent reference pages chosen by the archive.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "file": "reels/23-neuroscience-topics.md"
+  },
+  {
+    "id": "r24",
+    "slug": "24-golden-ratio-design-formula",
+    "url": "https://www.instagram.com/reel/DaxezfTMiVC/",
+    "creator": "@ibithecreator",
+    "title": "The mathematical formula behind beautiful design",
+    "summary": "@ibithecreator (posted 2026-07-14, inspired by @rabinn.fx) posts a text-only kinetic typography reel claiming there is a mathematical formula behind beautiful design: editors keep changing fonts, adjusting colours and rearranging layouts because they are solving the wrong problem, and learning the formula means designing with intention instead of guessing. The caption keywords mention the golden ratio, design principles and composition rules. The roughly 34-second video, recovered and inspected frame by frame, shows a PDF icon and a closing 'comment beauty and I'll DM it to you' offer. The reel names no book, tool, site or downloadable resource, so no items were added. The comment-for-PDF offer was not acted on.",
+    "saved": "2026-10-12",
+    "item_ids": [],
+    "file": "reels/24-golden-ratio-design-formula.md"
+  },
+  {
+    "id": "r25",
+    "slug": "25-creative-taste-books",
+    "url": "https://www.instagram.com/p/DdYbn9Ciajo/",
+    "creator": "@processthepodcast",
+    "title": "Books to develop your taste as a creative",
+    "summary": "@processthepodcast (Process The Podcast; posted 2026-09-17) shares a carousel post, \"Books recommendations to develop: Your Taste as a Creative\", with six numbered covers on the first slide: The Creative Act (Rick Rubin), On Beauty and Being Just (Elaine Scarry), The Art of Looking Sideways (Alan Fletcher), Interaction of Color (Josef Albers), Dieter Rams: As Little Design as Possible, and Design as Art (Bruno Munari). Slide 2 pitches The Creative Act as \"the book that builds your creative instinct\" and On Beauty and Being Just as \"the book that sharpens your sense of beauty\". The caption says the books will change how you look at colour, form and everyday details. Only the first two slides were readable from the signed-out embed; later slides, if any, were not seen. The Fletcher title is identified from the visible cover text and Phaidon logo. The caption's comment-\"Taste\"-for-Amazon-link offer was not acted on.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143
+    ],
+    "file": "reels/25-creative-taste-books.md"
+  },
+  {
+    "id": "r26",
+    "slug": "26-skwat-bookshop",
+    "url": "https://www.instagram.com/reel/Dd7tgAhJaqF/",
+    "creator": "@bytinb",
+    "title": "This might be the coolest bookshop in Tokyo",
+    "summary": "@bytinb (Tin Bejar - Jorge, watercolor and gouache artist; posted 2026-09-30) tours SKWAT, an art bookshop and vinyl space in an industrial warehouse under the elevated tracks in Kameari, Katsushika-ku, Tokyo, calling it possibly the coolest bookshop in Tokyo. The roughly 18-second video, recovered from the public media data and inspected frame by frame, shows floor-to-ceiling shelves and orange crates of art books, vinyl records, a reading chair, and a copy of The Museum Is Not Enough held on camera; a closing overlay names SKWAT at 3-26-4 Nishikameari, Katsushika-ku. The caption repeats the address (Tokyo 125-0002) and recommends it for vinyl, art and design books, and coffee table books. One item was added (the venue itself). Venue facts such as opening hours come from checked reference pages, not the reel.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      144
+    ],
+    "file": "reels/26-skwat-bookshop.md"
+  },
+  {
+    "id": "r27",
+    "slug": "27-start-creating-again",
+    "url": "https://www.instagram.com/reel/DeUu4Vhq8Wk/",
+    "creator": "@morningkittens",
+    "title": "Start creating again",
+    "summary": "@morningkittens (posted 2026-10-10) talks to camera over a collage of journaling and craft imagery, pitching list-making and categorizing as a way to start creating again. The roughly 9-second video, recovered from the public media data and inspected frame by frame, shows four numbered list ideas on screen: creative things you can do in 10 minutes; your favorite offline places; physical things that inspire you; projects you've saved but never made. The caption reads \"start creating again\" with hashtags on journal prompts, writing and anti-doomscrolling. The reel names no book, tool, site, place or other identifiable resource, so no items were added.",
+    "saved": "2026-10-12",
+    "item_ids": [],
+    "file": "reels/27-start-creating-again.md"
+  },
+  {
+    "id": "r28",
+    "slug": "28-korean-films-not-parasite",
+    "url": "https://www.instagram.com/reel/DdR_LijzI2w/",
+    "creator": "@derek.chung.77",
+    "title": "Korean movies that aren't Parasite (part 1)",
+    "summary": "@derek.chung.77 (~22s) talks to camera over stills of Korean films, captioned \"Absolute Must Watch Korean Movies that isn't Parasite (part 1)\". The video, recovered from the public media data and inspected frame by frame, runs through nine films with word-by-word on-screen captions: Oldboy, Joint Security Area, The Man from Nowhere, No Other Choice, The Handmaiden, The Wailing, The Chaser, Burning and I Saw the Devil (\"Netflix banger\"). The caption ties the list to the release of Na Hong-jin's Hope and invites comments on which film interests viewers most. Nine items were added.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153
+    ],
+    "file": "reels/28-korean-films-not-parasite.md"
+  },
+  {
+    "id": "r29",
+    "slug": "29-trend-edit-vanessa-vecchi",
+    "url": "https://www.instagram.com/reel/Dcfqy0Esjfr/",
+    "creator": "@vanessa.vecchi",
+    "title": "Trend edit (credit @drejco)",
+    "summary": "@vanessa.vecchi posts a short trend edit with the caption \"Follow for more\" and \"Cr @drejco\" (credit to that creator), hashtags #trend #contentcreater #edit. The public embed withholds the video (marked copyright-blocked), so only the cover frame was inspected: a woman in a black top standing in a narrow street with an edit-app timeline and sticker overlay on screen. No audio or later frames were readable. The reel names no book, film, site, tool, place or other identifiable resource, so no items were added.",
+    "saved": "2026-10-12",
+    "item_ids": [],
+    "file": "reels/29-trend-edit-vanessa-vecchi.md"
+  },
+  {
+    "id": "r30",
+    "slug": "30-three-sites-steal-aesthetics",
+    "url": "https://www.instagram.com/reel/DdnByC4AN1w/",
+    "creator": "@bywaviboy",
+    "title": "3 sites I steal aesthetics from (Cosmos, ShotDeck, Savee)",
+    "summary": "@bywaviboy (Instagram, about 205K followers) recommends three reference sites for building moodboards and AI visuals in Midjourney. Caption: \"STEAL LIKE AN ARTIST! Tip: build your moodboards in midjourney using these sites, to build high quality AI visuals. ... follow @bywaviboy first, then comment STEAL for all three sites sent your inbox\". The caption does not name the sites; the roughly 21-second video does, in speech and screen recordings: ShotDeck (every film frame searchable by mood; screenshot it and feed it to Midjourney), Savee (\"Pinterest if Pinterest had taste\", the reference stack) and Cosmos (search the internet by color; find the vibe before you prompt). Overlay: \"I'd be pissed if someone gatekept these 3 websites.\" Three items were added. Note: ShotDeck is the item relevant to the user's separate question about scraping ShotDeck.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      154,
+      155,
+      156
+    ],
+    "file": "reels/30-three-sites-steal-aesthetics.md"
+  },
+  {
+    "id": "r31",
+    "slug": "31-underrated-film-genres",
+    "url": "https://www.instagram.com/reel/DXsBcIZCfzX/",
+    "creator": "@kurtjenkins.studio",
+    "title": "Underrated film genres (27 films across 9 genres)",
+    "summary": "@kurtjenkins.studio (Kurt Jenkins, a startup-filmmaking account with about 16K followers) lists nine underrated film genres with three example titles each. Caption: \"which underrated genre would go hardest in IMAX?\" The 21-second video shows a genre label over three posters for each: Acid Western (El Topo, Dead Man, The Shooting), Paranoid Thriller (The Conversation, Blow Out, Memento), Folk Horror (The Wicker Man, Midsommar, Long Weekend), Bio-Punk (Tetsuo: The Iron Man, Videodrome, Under the Skin), Magic Realism (The Spirit of the Beehive, Groundhog Day, Birdman), Tech-Noir (Blade Runner, Dark City, Psycho-Pass), Afro-Futurism (Space Is the Place, Black Panther, Neptune Frost), Post-Apocalyptic Pastoral (Children of Men, Nausicaa of the Valley of the Wind, The Road) and Mythic Fantasy (Princess Mononoke, The Green Knight, Pan's Labyrinth). Twenty-seven items were added. Psycho-Pass is an anime TV series, not a film; a top comment disputes Long Weekend as folk horror.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ],
+    "file": "reels/31-underrated-film-genres.md"
+  },
+  {
+    "id": "r32",
+    "slug": "32-heisenberg-physics-philosophy",
+    "url": "https://www.instagram.com/p/DdxPIGMzkgr/",
+    "creator": "@inlovewithbooksindonesia",
+    "title": "Physics and Philosophy - Werner Heisenberg",
+    "summary": "A single book-photo post, posted September 26, 2026, showing Heisenberg's Physics and Philosophy in Penguin Modern Classics. One book extracted; publisher and bibliographic links checked. Original substantive notes cover all eleven main chapters using accessible older-edition OCR, with edition and interpretation caveats.",
+    "saved": "2026-10-12",
+    "item_ids": [
+      184
+    ],
+    "file": "reels/32-heisenberg-physics-philosophy.md"
+  },
+  {
+    "id": "r33",
+    "slug": "33-nyc-shopping-guide",
+    "url": "https://www.instagram.com/reel/DechQkkRQKg/",
+    "creator": "@elliotduprey",
+    "title": "My Full NYC Shopping Guide (secondhand, new fashion, everything else)",
+    "summary": "A 3-minute talking-head reel, \"My Full NYC Shopping Guide: Secondhand, New Fashion, And Everything Else!\", posted October 13, 2026. On-screen cards name 33 NYC shops: 31 secondhand (section 1) and 2 new multibrand (section 2: Ven. Space, Atelier New York). The video ends during section 2, so any later sections (including the \"everything else\" part) are not in this file.",
+    "saved": "2026-10-14",
+    "item_ids": [
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217
+    ],
+    "file": "reels/33-nyc-shopping-guide.md"
+  }
+]
