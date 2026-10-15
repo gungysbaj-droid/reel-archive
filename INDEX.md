@@ -40,3 +40,4 @@
 | r36 | @backyardsportsofficial | Backyard Baseball clip set to Olivia Dean's So Easy (To Fall In Love) | 228-229 | [reels/36-backyard-baseball-so-easy.md](reels/36-backyard-baseball-so-easy.md) |
 | r37 | @filatov.design | Filatov's free 12 art-directed AI prompts (Experimental Graphics) | 230 | [reels/37-filatov-ai-prompt-library.md](reels/37-filatov-ai-prompt-library.md) |
 | r38 | @michaelfadugbagbe | BLKNWS: Terms & Conditions (Kahlil Joseph film, on Apple TV) | 231 | [reels/38-blknws-terms-and-conditions.md](reels/38-blknws-terms-and-conditions.md) |
+| r39 | @kojomasora and @roxykoesters | Do-Re-Mi duet cover (but its not a trick) | 232 | [reels/39-do-re-mi-duet-cover.md](reels/39-do-re-mi-duet-cover.md) |
