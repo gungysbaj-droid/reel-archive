@@ -36,3 +36,4 @@
 | r32 | @inlovewithbooksindonesia | Physics and Philosophy - Werner Heisenberg | 184 | [reels/32-heisenberg-physics-philosophy.md](reels/32-heisenberg-physics-philosophy.md) |
 | r33 | @elliotduprey | My Full NYC Shopping Guide (secondhand, new fashion, everything else) | 185-217 | [reels/33-nyc-shopping-guide.md](reels/33-nyc-shopping-guide.md) |
 | r34 | @james.vlvt | Five sites to study layout (Land-book, Godly, Siteinspire, Awwwards, Mobbin) | 218-222 | [reels/34-layout-inspiration-sites.md](reels/34-layout-inspiration-sites.md) |
+| r35 | @erik_alan_norman | Post Economic Society (essay carousel) and its four cited books | 223-227 | [reels/35-post-economic-society-essay.md](reels/35-post-economic-society-essay.md) |
