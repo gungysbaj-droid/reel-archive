@@ -5426,5 +5426,59 @@
       }
     ],
     "image": null
+  },
+  {
+    "id": 230,
+    "reel": "r37",
+    "collection": "filatov-prompt-library",
+    "collection_title": "filatov.design AI prompt library (Experimental Graphics)",
+    "title": "filatov.design prompt library (Experimental Graphics collection)",
+    "kind": "website",
+    "creator": "Daniil Filatov (@filatov.design)",
+    "note": "The post is a carousel from @filatov.design (278K followers, posted ~Oct 2026): 'Stop making AI slop. Start art-directing it.' It says 12 experimental visual ideas were turned into complete prompts with composition, color, texture and mood mapped out, free to copy on his platform; the link goes out by DM to commenters of 'Prompts', and the slide itself prints 'Prompt library: www.filatov.design'. The public Experimental Graphics collection page lists the 12 prompts (title only here, prompt text is on the site): Neural Spectrum (false-color brain-scan grid), Wired Faith (crucifix of circuit boards and wire), Human Product (paper-collage hand and phone, 'You are the product.'), Body Signals (thermal body-scan poster), Death Loop (two-color riso skulls), Grid Logic (Swiss grid poster, electric blue), Measured Bloom (tulip with computer-vision overlay), Parallel Terrain (four floating geological slabs), Web Protocol (ultramarine screen-print spiders), Fatal Error (Windows 95 error-window poster), Design Wizard (low-poly wizard at a desktop, matches the slide art) and Apple-studies (3x3 apples in nine design languages). Collection spec on the page: model Recraft V4.1 Pro, category Design, 2K. The wider library is paid (page showed $10/month summer price vs $30; 300+ prompts claimed, creator's claim). Only slide 1 was read as an image; text from the embed caption and the site pages, checked 2026-10-16.",
+    "links": [
+      {
+        "label": "Experimental Graphics collection",
+        "url": "https://filatov.design/collections/experimental-graphics"
+      },
+      {
+        "label": "Prompt library (site)",
+        "url": "https://www.filatov.design"
+      },
+      {
+        "label": "Instagram (@filatov.design)",
+        "url": "https://www.instagram.com/filatov.design/"
+      }
+    ],
+    "image": null
+  },
+  {
+    "id": 231,
+    "reel": "r38",
+    "collection": "blknws-terms-and-conditions",
+    "collection_title": "BLKNWS: Terms & Conditions (film)",
+    "title": "BLKNWS: Terms & Conditions",
+    "kind": "film",
+    "creator": "Kahlil Joseph",
+    "note": "Named in the caption of @michaelfadugbagbe's reel: 'BLKNWS: Terms and Conditions is available on Apple TV'; on-screen text says 'add this blk masterpiece to your Letterboxd watchlist'. Per Apple TV's listing and Wikipedia: 2025 US docufiction film, Joseph's directorial debut, adapted from his BLKNWS video-art installation; fictionalized W. E. B. Du Bois and Marcus Garvey appear alongside artists, musicians, Joseph's family and Twitter chats; cinematography by Bradford Young; about 1 hr 50 min (Wikipedia: 113 min); premiered at Sundance NEXT Jan 27, 2025, US release Nov 28, 2025, distributed by Rich Spirit. JustWatch (checked 2026-10-16) listed it as buy/rent only in the US, no free streaming. Only the first frame and caption of the reel were read; the spoken audio was not transcribed. Links are reference pages, not availability claims.",
+    "links": [
+      {
+        "label": "Apple TV",
+        "url": "https://tv.apple.com/us/movie/blknws-terms--conditions/umc.cmc.1z9yrs0atzsss387g09q3zmf2"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/BLKNWS:_Terms_%26_Conditions"
+      },
+      {
+        "label": "TIFF",
+        "url": "https://tiff.net/films/blknws-terms-conditions"
+      },
+      {
+        "label": "JustWatch",
+        "url": "https://www.justwatch.com/us/movie/blknws-terms-and-conditions"
+      }
+    ],
+    "image": null
   }
 ]
