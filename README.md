@@ -12,7 +12,7 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 
 ## Conventions
 
-- Item ids are global and increase by one, currently 1-229. Reels with no identifiable resource have an empty item_ids list; r19 is a process reference and adds no item; r20 adds items 119-121 and r21 adds items 122-125; r22 adds items 126-132 r23 adds items 133-137, r24 names no resource and adds no item, and r25 (a carousel post) adds items 138-143, r26 adds item 144, r27 names no resource and adds no item, r28 adds items 145-153, r29 names no resource and adds no item, and r30 adds items 154-156, and r31 adds items 157-183; r32 adds book item 184, r33 adds items 185-217 (NYC shops), r34 adds items 218-222 (layout sites), and r35 adds items 223-227 (an essay carousel and its four cited books), and r36 adds items 228-229 (a song and a game). Reel ids are `rNN`, currently r01-r36.
+- Item ids are global and increase by one, currently 1-231. Reels with no identifiable resource have an empty item_ids list; r19 is a process reference and adds no item; r20 adds items 119-121 and r21 adds items 122-125; r22 adds items 126-132 r23 adds items 133-137, r24 names no resource and adds no item, and r25 (a carousel post) adds items 138-143, r26 adds item 144, r27 names no resource and adds no item, r28 adds items 145-153, r29 names no resource and adds no item, and r30 adds items 154-156, and r31 adds items 157-183; r32 adds book item 184, r33 adds items 185-217 (NYC shops), r34 adds items 218-222 (layout sites), and r35 adds items 223-227 (an essay carousel and its four cited books), r36 adds items 228-229 (a song and a game), r37 adds item 230 (an AI prompt library site), and r38 adds item 231 (a film). Reel ids are `rNN`, currently r01-r38.
 - `kind` is one of archive-item, film, website, book or lesson.
 - Item creator is the director/author; reel creator is on the reel record.
 - Notes distinguish checked facts from unverified creator claims.
@@ -27,7 +27,7 @@ Saved Instagram reel recommendations, structured for LLM reading. Owner: Shotaro
 4. Check the actual stored filenames and use them in every image/file reference.
 5. Add a row to `INDEX.md` and read back the saved JSON to check counts and links.
 
-The latest reels are r32 (saved 2026-10-12), r33 and r34 (saved 2026-10-14) and r35 and r36 (saved 2026-10-15). The repository and archive page are private.
+The latest reels are r32 (saved 2026-10-12), r33 and r34 (saved 2026-10-14) r35 and r36 (saved 2026-10-15), and r37 and r38 (saved 2026-10-16). The repository and archive page are private.
 
 ## Book contents
 
