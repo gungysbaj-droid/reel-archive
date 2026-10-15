@@ -38,3 +38,5 @@
 | r34 | @james.vlvt | Five sites to study layout (Land-book, Godly, Siteinspire, Awwwards, Mobbin) | 218-222 | [reels/34-layout-inspiration-sites.md](reels/34-layout-inspiration-sites.md) |
 | r35 | @erik_alan_norman | Post Economic Society (essay carousel) and its four cited books | 223-227 | [reels/35-post-economic-society-essay.md](reels/35-post-economic-society-essay.md) |
 | r36 | @backyardsportsofficial | Backyard Baseball clip set to Olivia Dean's So Easy (To Fall In Love) | 228-229 | [reels/36-backyard-baseball-so-easy.md](reels/36-backyard-baseball-so-easy.md) |
+| r37 | @filatov.design | Filatov's free 12 art-directed AI prompts (Experimental Graphics) | 230 | [reels/37-filatov-ai-prompt-library.md](reels/37-filatov-ai-prompt-library.md) |
+| r38 | @michaelfadugbagbe | BLKNWS: Terms & Conditions (Kahlil Joseph film, on Apple TV) | 231 | [reels/38-blknws-terms-and-conditions.md](reels/38-blknws-terms-and-conditions.md) |
