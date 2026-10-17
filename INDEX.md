@@ -42,3 +42,4 @@
 | r38 | @michaelfadugbagbe | BLKNWS: Terms & Conditions (Kahlil Joseph film, on Apple TV) | 231 | [reels/38-blknws-terms-and-conditions.md](reels/38-blknws-terms-and-conditions.md) |
 | r39 | @kojomasora and @roxykoesters | Do-Re-Mi duet cover (but its not a trick) | 232 | [reels/39-do-re-mi-duet-cover.md](reels/39-do-re-mi-duet-cover.md) |
 | r40 | @theorbitanimator | Husser vs Reactor (3D animated concept fight: exponential speed vs future-sight) | 233 | [reels/40-husser-vs-reactor.md](reels/40-husser-vs-reactor.md) |
+| r41 | @povikas_ | POV: you unlocked the perfect effect (Povikas AE glitch/blob-tracking look; DistortedFX pack) | 234-235 | [reels/41-povikas-perfect-effect.md](reels/41-povikas-perfect-effect.md) |
