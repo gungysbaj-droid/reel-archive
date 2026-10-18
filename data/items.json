@@ -7076,5 +7076,105 @@
     "themes": [
       "web-ui-design"
     ]
+  },
+  {
+    "id": 267,
+    "reel": "r47",
+    "collection": "inspo-sites-with-personality",
+    "collection_title": "Sites with personality (design4me__ 'inspo' list)",
+    "title": "WarholArts - warhol-arts.webflow.io",
+    "kind": "website",
+    "creator": "Webflow template/demo",
+    "note": "Dark pop-art exhibition site: giant 'WARHOL' wordmark, Warhol silkscreen portraits (the Queen, Campbell's Tomato Soup), 'Soon' wall of repeated portraits.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://warhol-arts.webflow.io/"
+      }
+    ],
+    "image": null,
+    "themes": [
+      "web-ui-design"
+    ]
+  },
+  {
+    "id": 268,
+    "reel": "r47",
+    "collection": "inspo-sites-with-personality",
+    "collection_title": "Sites with personality (design4me__ 'inspo' list)",
+    "title": "amo - amo.co",
+    "kind": "website",
+    "creator": "amo",
+    "note": "Collage-style homepage: a sunflower, palm trees, beach umbrellas and cut-out objects layered over a checkerboard transparency grid, with the 'amo' wordmark. The amo social app is known for a messy fridge-magnet visual language.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://amo.co/"
+      }
+    ],
+    "image": null,
+    "themes": [
+      "web-ui-design"
+    ]
+  },
+  {
+    "id": 269,
+    "reel": "r47",
+    "collection": "inspo-sites-with-personality",
+    "collection_title": "Sites with personality (design4me__ 'inspo' list)",
+    "title": "Oddly Made - oddlymade.webflow.io",
+    "kind": "website",
+    "creator": "Webflow template/demo",
+    "note": "'A Creative Studio Shaping Distinct Brands And Digital Experiences.' Serif headline with a handwritten 'made' script over a red video panel, plus a zig-zag stack of colourful books and a Campbell's can.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://oddlymade.webflow.io/"
+      }
+    ],
+    "image": null,
+    "themes": [
+      "web-ui-design"
+    ]
+  },
+  {
+    "id": 270,
+    "reel": "r47",
+    "collection": "inspo-sites-with-personality",
+    "collection_title": "Sites with personality (design4me__ 'inspo' list)",
+    "title": "Ancient Artifacts - Readymag exhibition template (Endless Tools)",
+    "kind": "website",
+    "creator": "Readymag / Endless Tools",
+    "note": "Exhibition landing page with a rotating interactive 3D stone artifact over huge orange 'ANCIENT ARTIFACTS' type, Exhibition / Artist / Gallery nav. Identified from the visuals (the reel shows no URL for this one).",
+    "links": [
+      {
+        "label": "Readymag template",
+        "url": "https://readymag.com/designs/ancientartifacts/"
+      }
+    ],
+    "image": null,
+    "themes": [
+      "web-ui-design"
+    ]
+  },
+  {
+    "id": 271,
+    "reel": "r47",
+    "collection": "inspo-sites-with-personality",
+    "collection_title": "Sites with personality (design4me__ 'inspo' list)",
+    "title": "yaara i. - Yaara Israeli portfolio (probable)",
+    "kind": "website",
+    "creator": "Yaara Israeli",
+    "note": "Last site, blurred in the reel: a white page with a vertical 'yaara i.' title and floating image cards. Probably Yaara Israeli's graphic design and art direction portfolio. Medium confidence: the reel shows no URL and the screen is blurred.",
+    "links": [
+      {
+        "label": "Site",
+        "url": "https://www.yaaraisraeli.com/"
+      }
+    ],
+    "image": null,
+    "themes": [
+      "web-ui-design"
+    ]
   }
 ]
