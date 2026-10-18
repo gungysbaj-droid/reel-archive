@@ -7,7 +7,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Film](#film) | 58 | r02, r05, r14, r16, r28, r31, r38, r40 |
 | [Books & reading](#books-reading) | 53 | r04, r07, r10, r11, r18, r21, r25, r32, r35 |
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
-| [Web & UI design](#web-ui-design) | 45 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46 |
+| [Web & UI design](#web-ui-design) | 50 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47 |
 | [AI & dev tools](#ai-dev-tools) | 30 | r13, r17, r20, r37, r43, r44, r45 |
 | [Graphic design & motion](#graphic-design-motion) | 34 | r10, r12, r18, r25, r41 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
@@ -189,7 +189,7 @@ Internet Archive finds, zines, maps, manuals and niche archives. 39 items.
 
 ## Web & UI design
 
-Websites, portfolios, UI libraries, shaders and aesthetic software. 45 items.
+Websites, portfolios, UI libraries, shaders and aesthetic software. 50 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -238,6 +238,11 @@ Websites, portfolios, UI libraries, shaders and aesthetic software. 45 items.
 | 264 | A24 concept site - a24.raviklaassens.com (Ravi Klaassens) | website | [r46](reels/46-tactile-portfolios.md) | A24 tribute/concept by designer Ravi Klaassens: a shelf of A24 films as disc artwork (Backrooms, The Invite) with review quotes - a fake-ph… | [Site](https://a24.raviklaassens.com/) |
 | 265 | Sumner Howells ($CUMNER) - scumner.world (Sumner Howells) | website | [r46](reels/46-tactile-portfolios.md) | Product designer's playful portfolio behind a joke gate ('Password Hint: Type Anything Diva'), opening into a blue-sky desktop world. | [Site](https://scumner.world/) |
 | 266 | Lea Harmoza - harmozalea.com (Lea Harmoza (site by Asia Gawron)) | website | [r46](reels/46-tactile-portfolios.md) | 'Photographer's Book as an Unintuitive Experience': a photo book as a website you explore by cursor, scroll and click. Includes Vingt Sept… | [Site](https://www.harmozalea.com/) |
+| 267 | WarholArts - warhol-arts.webflow.io (Webflow template/demo) | website | [r47](reels/47-sites-with-personality.md) | Dark pop-art exhibition site: giant 'WARHOL' wordmark, Warhol silkscreen portraits (the Queen, Campbell's Tomato Soup), 'Soon' wall of repe… | [Site](https://warhol-arts.webflow.io/) |
+| 268 | amo - amo.co (amo) | website | [r47](reels/47-sites-with-personality.md) | Collage-style homepage: a sunflower, palm trees, beach umbrellas and cut-out objects layered over a checkerboard transparency grid, with th… | [Site](https://amo.co/) |
+| 269 | Oddly Made - oddlymade.webflow.io (Webflow template/demo) | website | [r47](reels/47-sites-with-personality.md) | 'A Creative Studio Shaping Distinct Brands And Digital Experiences.' Serif headline with a handwritten 'made' script over a red video panel… | [Site](https://oddlymade.webflow.io/) |
+| 270 | Ancient Artifacts - Readymag exhibition template (Endless Tools) (Readymag / Endless Tools) | website | [r47](reels/47-sites-with-personality.md) | Exhibition landing page with a rotating interactive 3D stone artifact over huge orange 'ANCIENT ARTIFACTS' type, Exhibition / Artist / Gall… | [Readymag template](https://readymag.com/designs/ancientartifacts/) |
+| 271 | yaara i. - Yaara Israeli portfolio (probable) (Yaara Israeli) | website | [r47](reels/47-sites-with-personality.md) | Last site, blurred in the reel: a white page with a vertical 'yaara i.' title and floating image cards. Probably Yaara Israeli's graphic de… | [Site](https://www.yaaraisraeli.com/) |
 
 ## AI & dev tools
 
