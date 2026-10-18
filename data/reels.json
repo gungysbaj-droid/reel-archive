@@ -960,5 +960,25 @@
     "themes": [
       "web-ui-design"
     ]
+  },
+  {
+    "id": "r47",
+    "slug": "47-sites-with-personality",
+    "url": "https://www.instagram.com/reel/DXpD647CPIT/",
+    "creator": "@design4me__",
+    "title": "Curated list: sites that remind a designer why she became a designer (Warhol Arts, amo, Oddly Made, Ancient Artifacts, yaara i.)",
+    "summary": "design4me__'s earlier 'inspo' list (posted 2026-04-27): sites with a lot of personality. Five sites shown with on-screen URLs for the first three; the last two have no URL on screen. Comment-bait caption ('Drop inspo in the comments'), but every site is public. Five items.",
+    "saved": "2026-10-18",
+    "item_ids": [
+      267,
+      268,
+      269,
+      270,
+      271
+    ],
+    "file": "reels/47-sites-with-personality.md",
+    "themes": [
+      "web-ui-design"
+    ]
   }
 ]
