@@ -51,3 +51,5 @@ Browse by theme: [THEMES.md](THEMES.md). Per-reel pages below are the canonical 
 | r45 | @animmaster_studio | TOP 3 UI libraries for vibecodes (Unlumen UI and SmoothUI free; Animmaster Lib is the creator's paid pack) | 258-260 | [reels/45-top-3-ui-libraries.md](reels/45-top-3-ui-libraries.md) |
 | r46 | @design4me__ | Curated list: six tactile/physical-feeling portfolio sites (Studio Monstro, Analogue, Pesselev, A24 concept, scumner.world, Harmoza) | 261-266 | [reels/46-tactile-portfolios.md](reels/46-tactile-portfolios.md) |
 | r47 | @design4me__ | Curated list: sites with personality (Warhol Arts, amo, Oddly Made, Ancient Artifacts, yaara i.) | 267-271 | [reels/47-sites-with-personality.md](reels/47-sites-with-personality.md) |
+
+| r48 | @AkhilSharmaTech (YouTube) | "PayPal Isn't a Payments Company. It's a Risk Engine." - breakdown from adjacent sources (video itself inaccessible) | 272-275 | [reels/48-paypal-risk-engine-video.md](reels/48-paypal-risk-engine-video.md) |
