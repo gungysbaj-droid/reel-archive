@@ -13,7 +13,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 10 | r36, r39, r42 |
 | [Games](#games) | 7 | r01, r36 |
-| [Ideas & essays](#ideas-essays) | 31 | r08, r11, r21, r23, r32, r35 |
+| [Ideas & essays](#ideas-essays) | 35 | r08, r11, r21, r23, r32, r35, r48 |
 | [Places](#places) | 34 | r26, r33 |
 
 ## Film
@@ -402,7 +402,7 @@ Games and game-related finds. 7 items.
 
 ## Ideas & essays
 
-Essays, lessons and big-picture topics. 31 items.
+Essays, lessons and big-picture topics. 35 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -478,3 +478,8 @@ Physical places worth visiting. 34 items.
 | 215 | Chelsea Flea | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 1. Secondhand Stores; neighborhood on sc… | [Chelsea Flea](https://www.brooklynflea.com/chelseaflea) |
 | 216 | Ven. Space | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ven.space/) |
 | 217 | Atelier New York | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ateliernewyork.com/) |
+
+| 272 | "PayPal Isn't a Payments Company. It's a Risk Engine." (Akhil Sharma video, 50:27) | video | [r48](reels/48-paypal-risk-engine-video.md) | The video sent 2026-10-25; no captions and audio not retrievable, so the archive entry is built from adjacent sources (author's chapter + PayPal's own blog), clearly labeled. | [YouTube](https://www.youtube.com/watch?v=zfx317kPOJM) |
+| 273 | Fraud, Risk & Disputes - Money & Ledger Systems (Algoroq chapter) | article | [r48](reels/48-paypal-risk-engine-video.md) | The video author's own fraud-engineering playbook: decision SLOs, decline economics, rules vs models, velocity/graph signals, chargebacks, card testing. Adjacent material, not the video. | [Algoroq](https://algoroq.io/specializations/money-and-ledgers/fraud-and-disputes/) |
+| 274 | Algoroq Engineering Resource Library - YouTube Companion Diagrams | website | [r48](reels/48-paypal-risk-engine-video.md) | Author's interactive diagram decks, one per video; no PayPal deck found as of 2026-10-25 (listed decks cover older videos, so it may not be added yet). | [algoroq.io/resources](https://algoroq.io/resources) |
+| 275 | How PayPal Uses Real-time Graph Database and Graph Analysis to Fight Fraud (PayPal Tech, 2021) | article | [r48](reels/48-paypal-risk-engine-video.md) | PayPal's own write-up of its real-time fraud graph platform: three stacks, Gremlin, ~10 ms two-hop lookups, million-QPS targets. Independent of the video. | [PayPal Tech (Medium)](https://medium.com/paypal-tech/how-paypal-uses-real-time-graph-database-and-graph-analysis-to-fight-fraud-96a2b918619a) |
