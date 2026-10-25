@@ -980,5 +980,24 @@
     "themes": [
       "web-ui-design"
     ]
+  },
+  {
+    "id": "r48",
+    "slug": "48-paypal-risk-engine-video",
+    "url": "https://www.youtube.com/watch?v=zfx317kPOJM",
+    "creator": "@AkhilSharmaTech",
+    "title": "\"PayPal Isn't a Payments Company. It's a Risk Engine.\" - breakdown from adjacent sources (video itself inaccessible)",
+    "summary": "Akhil Sharma's 50-minute deep dive (2026-09-29, 'The history of PayPal fraud' series). The video has no captions and its audio could not be retrieved, and no official diagram deck for it was found in the author's library, so this entry is built from verified video metadata, the author's own Algoroq fraud/risk-engineering chapter (decision SLOs, decline economics, rules vs models, velocity/graph signals, chargebacks, card testing), and PayPal's own 2021 engineering blog on its real-time fraud graph platform. Nothing beyond the metadata is attributed to the video itself. Four items.",
+    "saved": "2026-10-25",
+    "item_ids": [
+      272,
+      273,
+      274,
+      275
+    ],
+    "file": "reels/48-paypal-risk-engine-video.md",
+    "themes": [
+      "ideas-essays"
+    ]
   }
 ]
