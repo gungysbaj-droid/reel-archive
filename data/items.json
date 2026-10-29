@@ -7523,5 +7523,98 @@
       "books-reading",
       "ideas-essays"
     ]
+  },
+  {
+    "id": 287,
+    "reel": "r50",
+    "collection": "lhc-proton-chase",
+    "collection_title": "LHC proton chase (Ooblix, made in Blender)",
+    "title": "CMS Higgs boson candidate event, ZZ to 2 electrons + 2 muons (8 TeV, 2012 data)",
+    "kind": "archive-item",
+    "creator": "CMS Collaboration, CERN",
+    "note": "The collision at the end of the reel. The caption says CMS caught it in May 2012: a Higgs boson candidate that decayed to 2 electrons and 2 muons, and that every track shown is a real particle path, including the blue muon the camera rides in on. These are the creator's claims; the reel is a Blender animation built from the event, not the raw event display. CMS publishes a 2012 8 TeV candidate ZZ event with two electrons and two muons among its Higgs collision images; I could not confirm it is the same event as the reel's. The CERN Open Data record holds Higgs candidate events for education and outreach.",
+    "links": [
+      {
+        "label": "CMS: contributions to the discovery of a Higgs boson (collision images incl. 8 TeV ZZ to 2e2mu candidate)",
+        "url": "https://cmsexperiment.web.cern.ch/content/cms-higgs-resources"
+      },
+      {
+        "label": "CERN Open Data: Higgs candidate events for education and outreach",
+        "url": "https://opendata.cern.ch/record/cms-300"
+      }
+    ],
+    "image": null,
+    "themes": [
+      "archives-collections",
+      "ideas-essays"
+    ]
+  },
+  {
+    "id": 288,
+    "reel": "r50",
+    "collection": "lhc-proton-chase",
+    "collection_title": "LHC proton chase (Ooblix, made in Blender)",
+    "title": "Large Hadron Collider (CERN)",
+    "kind": "website",
+    "creator": "CERN",
+    "note": "The whole reel follows one proton through CERN's collider. On screen: '26.7 KM' for the ring, 'OPPOSITE WAYS' for the two beams, and a running percent-of-light-speed counter (52%, 99%, 99.93%, 99.9998%, 99.999%) with '10 million kicks' and '1 micron apart' / '10 microns apart' for the beam squeeze before collision. These are on-screen figures; I did not check each against CERN sources.",
+    "links": [
+      {
+        "label": "CERN: Large Hadron Collider",
+        "url": "https://home.cern/science/accelerators/large-hadron-collider/"
+      }
+    ],
+    "image": "assets/1-lhc-proton-chase-kicks.jpg",
+    "themes": [
+      "ideas-essays"
+    ]
+  },
+  {
+    "id": 289,
+    "reel": "r50",
+    "collection": "lhc-proton-chase",
+    "collection_title": "LHC proton chase (Ooblix, made in Blender)",
+    "title": "CERN accelerator chain shown in the reel: Linac4, Proton Synchrotron Booster, Proton Synchrotron, SPS",
+    "kind": "website",
+    "creator": "CERN",
+    "note": "The reel labels 'LINAC4' (at 52% of light speed) and '4 RINGS BOOSTER' on its way up to the LHC. CERN's Booster page confirms four superimposed synchrotron rings fed by Linac4 (160 MeV in, 2 GeV out, to the Proton Synchrotron). The PS and SPS stages are my reading of the later frames and the CERN accelerator complex, not clearly labelled on screen.",
+    "links": [
+      {
+        "label": "CERN: accelerator complex",
+        "url": "https://home.cern/science/accelerators/accelerator-complex"
+      },
+      {
+        "label": "CERN: Linear accelerator 4",
+        "url": "https://home.cern/science/accelerators/linear-accelerator-4"
+      },
+      {
+        "label": "CERN: Proton Synchrotron Booster",
+        "url": "https://home.cern/science/accelerators/proton-synchrotron-booster"
+      }
+    ],
+    "image": "assets/2-lhc-proton-chase-speed.jpg",
+    "themes": [
+      "ideas-essays"
+    ]
+  },
+  {
+    "id": 290,
+    "reel": "r50",
+    "collection": "lhc-proton-chase",
+    "collection_title": "LHC proton chase (Ooblix, made in Blender)",
+    "title": "Blender",
+    "kind": "website",
+    "creator": "Blender Foundation",
+    "note": "Caption: 'Made in Blender. Follow for more edits like this.' Free and open source 3D creation software.",
+    "links": [
+      {
+        "label": "Blender",
+        "url": "https://www.blender.org/"
+      }
+    ],
+    "image": null,
+    "themes": [
+      "design-graphic"
+    ]
   }
 ]
