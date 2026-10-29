@@ -54,3 +54,4 @@ Browse by theme: [THEMES.md](THEMES.md). Per-reel pages below are the canonical 
 
 | r48 | @AkhilSharmaTech (YouTube) | "PayPal Isn't a Payments Company. It's a Risk Engine." - breakdown from adjacent sources (video itself inaccessible) | 272-275 | [reels/48-paypal-risk-engine-video.md](reels/48-paypal-risk-engine-video.md) |
 | r49 | @misteramazingyt | Signs and things: philosophy video with an 11-work reading list (Augustine, Tao Te Ching, Dionysius, Bonaventure, Boehme, Wittgenstein, Godel, Derrida and more) | 276-286 | [reels/49-signs-and-things-reading-list.md](reels/49-signs-and-things-reading-list.md) |
+| r50 | @ooblixtv (Ooblix) | LHC proton chase: Blender animation ending on a real CMS Higgs candidate collision | 287-290 | [reels/50-lhc-proton-chase.md](reels/50-lhc-proton-chase.md) |
