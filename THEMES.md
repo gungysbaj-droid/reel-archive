@@ -9,11 +9,11 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 50 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47 |
 | [AI & dev tools](#ai-dev-tools) | 30 | r13, r17, r20, r37, r43, r44, r45 |
-| [Graphic design & motion](#graphic-design-motion) | 34 | r10, r12, r18, r25, r41 |
+| [Graphic design & motion](#graphic-design-motion) | 35 | r10, r12, r18, r25, r41, r50 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 10 | r36, r39, r42 |
 | [Games](#games) | 7 | r01, r36 |
-| [Ideas & essays](#ideas-essays) | 46 | r08, r11, r21, r23, r32, r35, r48, r49 |
+| [Ideas & essays](#ideas-essays) | 49 | r08, r11, r21, r23, r32, r35, r48, r49, r50 |
 | [Places](#places) | 34 | r26, r33 |
 
 ## Film
@@ -294,7 +294,7 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 30 items.
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 34 items.
+Magazine covers, print design, motion and visual effects. 35 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -332,6 +332,7 @@ Magazine covers, print design, motion and visual effects. 34 items.
 | 143 | Design as Art (Bruno Munari) | book | [r25](reels/25-creative-taste-books.md) | Slide 1 item 06. Penguin Modern Classics edition shown. | [Penguin Random House](https://www.penguinrandomhouse.com/books/276505/design-as-art-by-bruno-munari/) |
 | 234 | DistortedFX - Povikas glitch & blob-tracking preset pack for After Effects (Povikas (@povikas_)) | website | [r41](reels/41-povikas-perfect-effect.md) | A 9-second vertical clip by Povikas (@povikas_), posted 2026-10-17 (27 likes, 3 comments at save). Phone-filmed screen recording of an Adob… | [DistortedFX pack (povikas.com, $57)](https://povikas.com/products/distortedfx) |
 | 235 | VIRAL Trace And Blob Tracking Effect - After Effects Tutorial (Povikas) (Povikas (@povikas_)) | lesson | [r41](reels/41-povikas-perfect-effect.md) | Free YouTube tutorial by Povikas (2026-04-20) teaching the viral trace & blob tracking glitch look shown in the reel: adjustment layers, dr… | [Tutorial (YouTube)](https://www.youtube.com/watch?v=PI-oxvpi-XY) |
+| 290 | Blender | website | [r50](reels/50-lhc-proton-chase.md) | Caption: 'Made in Blender. Follow for more edits like this.' Free and open source 3D creation software. | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [Blender](https://www.blender.org/) |
 
 ## Fashion & style
 
@@ -413,7 +414,7 @@ Games and game-related finds. 7 items.
 
 ## Ideas & essays
 
-Essays, lessons and big-picture topics. 46 items.
+Essays, lessons and big-picture topics. 49 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -459,6 +460,9 @@ Essays, lessons and big-picture topics. 46 items.
 | 284 | Ludwig Wittgenstein, Tractatus Logico-Philosophicus | book | [r49](reels/49-signs-and-things-reading-list.md) | On screen: proposition 6.522 (trans. Pears & McGuinness), 'There are, indeed, things that cannot be put into words. They make themselves man… | [Original post](https://www.instagram.com/p/DfAzbT-SpDe/) · [Amazon Japan: Tractatus Logico-Philosophicus (Routledge Classics, Pears & McGuinness translation shown on screen)](https://www.amazon.co.jp/dp/0415255627) · [Project Gutenberg #5740 (free, but the older Ogden translation, wording differs)](https://www.gutenberg.org/ebooks/5740) |
 | 285 | Kurt Godel, On Formally Undecidable Propositions of Principia Mathematica and Related Systems | book | [r49](reels/49-signs-and-things-reading-list.md) | On screen: p. 38 (trans. Meltzer, 1962), the passage on simple problems in the theory of whole numbers that cannot be decided from the axiom… | [Original post](https://www.instagram.com/p/DfAzbT-SpDe/) · [Amazon Japan: On Formally Undecidable Propositions (Dover, trans. B. Meltzer, 1962)](https://www.amazon.co.jp/dp/0486669807) · [Dover store page](https://store.doverpublications.com/products/9780486669809) |
 | 286 | Jacques Derrida, Structure, Sign and Play in the Discourse of the Human Sciences (Writing and Difference) | book | [r49](reels/49-signs-and-things-reading-list.md) | On screen: p. 280 (1966), the transcendental signified never absolutely present outside a system of differences, so the 'play of significati… | [Original post](https://www.instagram.com/p/DfAzbT-SpDe/) · [Amazon Japan: Writing and Difference (Routledge Classics)](https://www.amazon.co.jp/dp/0415255376) · [University of Chicago Press page (trans. Alan Bass)](https://press.uchicago.edu/ucp/books/book/chicago/W/bo27619783.html) |
+| 287 | CMS Higgs boson candidate event, ZZ to 2 electrons + 2 muons (8 TeV, 2012 data) | archive-item | [r50](reels/50-lhc-proton-chase.md) | The collision at the end of the reel. The caption says CMS caught it in May 2012: a Higgs boson candidate that decayed to 2 electrons and 2… | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [CMS: contributions to the discovery of a Higgs boson (collision images incl. 8 TeV ZZ to 2e2mu candidate)](https://cmsexperiment.web.cern.ch/content/cms-higgs-resources) · [CERN Open Data: Higgs candidate events for education and outreach](https://opendata.cern.ch/record/cms-300) |
+| 288 | Large Hadron Collider (CERN) | website | [r50](reels/50-lhc-proton-chase.md) | The whole reel follows one proton through CERN's collider. On screen: '26.7 KM' for the ring, 'OPPOSITE WAYS' for the two beams, and a runn… | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [CERN: Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider/) |
+| 289 | CERN accelerator chain shown in the reel: Linac4, Proton Synchrotron Booster, Proton Synchrotron, SPS | website | [r50](reels/50-lhc-proton-chase.md) | The reel labels 'LINAC4' (at 52% of light speed) and '4 RINGS BOOSTER' on its way up to the LHC. CERN's Booster page confirms four superimp… | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [CERN: accelerator complex](https://home.cern/science/accelerators/accelerator-complex) · [CERN: Linear accelerator 4](https://home.cern/science/accelerators/linear-accelerator-4) · [CERN: Proton Synchrotron Booster](https://home.cern/science/accelerators/proton-synchrotron-booster) |
 
 ## Places
 
