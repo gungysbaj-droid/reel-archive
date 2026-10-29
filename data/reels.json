@@ -1026,5 +1026,25 @@
       "books-reading",
       "ideas-essays"
     ]
+  },
+  {
+    "id": "r50",
+    "slug": "50-lhc-proton-chase",
+    "url": "https://www.instagram.com/reel/DfCPNjROIEi/",
+    "creator": "@ooblixtv (Ooblix)",
+    "title": "LHC proton chase: Blender animation ending on a real CMS Higgs candidate collision",
+    "summary": "Video by Ooblix (@ooblixtv), about 37 s, posted 2026-10-28 (about 72,000 likes at save). Caption: 'Made in Blender. Follow for more edits like this. The collision at the end is real. CMS caught it in May 2012, a Higgs boson candidate that broke into 2 electrons and 2 muons. Every track you see is where a real particle went, and the blue one the camera rides in on is a real muon, all the way back to the point where two protons hit. Naoya, Maki, speed is life, faster faster... same chase, but the hero is a proton in CERN's Large Hadron Collider.' Tags: naoya, speedislife, motivation, lhc, physics. Visuals (checked from sampled frames): a first-person ride along a proton through the LHC injector chain with a light-speed percent counter, then the collision. The audio was not transcribed. 'Naoya, Maki' reads as a reference to another edit; I could not identify it. Four items.",
+    "saved": "2026-10-29",
+    "item_ids": [
+      287,
+      288,
+      289,
+      290
+    ],
+    "file": "reels/50-lhc-proton-chase.md",
+    "themes": [
+      "ideas-essays",
+      "design-graphic"
+    ]
   }
 ]
