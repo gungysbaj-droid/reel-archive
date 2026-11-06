@@ -21,7 +21,7 @@ Investing at 0 likes, expecting a lot
 
 **What it is.** A short cinematic edit, not a tutorial. It opens on a technical schematic of a "realistic pocket radio" (dimensions, tuning dial, band selector, wrist strap), then cuts to glowing yellow floating figures, black silhouettes on white, orange-sunset silhouettes with "HIGHS AND LOWS" as giant title text, a crescent moon, and a "[fade to black]" over fireworks. Corner credit: "SAM.JOHN.CREATES, AUG 2026". Closing text: "HIGHS AND LOWS EDIT. PREDICTING 100K LIKES." No resource is named. About 175,000 likes at save (from page data, not independently checked).
 
-![radio schematic frame](../assets/1-51-highs-and-lows-radio-schematic.jpg)
+![early frame: two running silhouettes on white](../assets/1-51-highs-and-lows-radio-schematic.jpg)
 
 ![glowing figures frame](../assets/2-51-highs-and-lows-glowing-figures.jpg)
 
