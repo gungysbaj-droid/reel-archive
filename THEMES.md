@@ -9,12 +9,12 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 50 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47 |
 | [AI & dev tools](#ai-dev-tools) | 30 | r13, r17, r20, r37, r43, r44, r45 |
-| [Graphic design & motion](#graphic-design-motion) | 36 | r10, r12, r18, r25, r41, r50, r51 |
+| [Graphic design & motion](#graphic-design-motion) | 42 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
-| [Music](#music) | 11 | r36, r39, r42, r51 |
+| [Music](#music) | 17 | r36, r39, r42, r51, r54 |
 | [Games](#games) | 7 | r01, r36 |
 | [Ideas & essays](#ideas-essays) | 49 | r08, r11, r21, r23, r32, r35, r48, r49, r50 |
-| [Places](#places) | 34 | r26, r33 |
+| [Places](#places) | 35 | r26, r33, r54 |
 
 ## Film
 
@@ -294,7 +294,7 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 30 items.
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 36 items.
+Magazine covers, print design, motion and visual effects. 42 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -334,6 +334,12 @@ Magazine covers, print design, motion and visual effects. 36 items.
 | 235 | VIRAL Trace And Blob Tracking Effect - After Effects Tutorial (Povikas) (Povikas (@povikas_)) | lesson | [r41](reels/41-povikas-perfect-effect.md) | Free YouTube tutorial by Povikas (2026-04-20) teaching the viral trace & blob tracking glitch look shown in the reel: adjustment layers, dr… | [Tutorial (YouTube)](https://www.youtube.com/watch?v=PI-oxvpi-XY) |
 | 290 | Blender | website | [r50](reels/50-lhc-proton-chase.md) | Caption: 'Made in Blender. Follow for more edits like this.' Free and open source 3D creation software. | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [Blender](https://www.blender.org/) |
 | 292 | @sam.john.creates (creator of the edit) (Sam John) | website | [r51](reels/51-highs-and-lows-edit.md) | Instagram account behind the cinematic edit: pocket-radio schematic, glowing figures, orange-sunset silhouettes, fade to black. | [Instagram](https://www.instagram.com/sam.john.creates/) |
+| 293 | @byimraaan (creator of the edit) (Imran Bhatti) | website | [r52](reels/52-time-feels-fast-edit.md) | Instagram account behind the viral 'Time feels this fast' edit: silhouettes on white, golden-ratio hurricane, Interstellar-style black hole, 'THE END' card. | [Instagram](https://www.instagram.com/byimraaan/) |
+| 294 | Adobe After Effects | website | [r52](reels/52-time-feels-fast-edit.md) | Named in the caption tags (#aftereffects) as the edit tool. Paid (Creative Cloud subscription, free trial). | [Site](https://www.adobe.com/products/aftereffects.html) |
+| 295 | @sayantan_visuals (creator of the edit) (Sayantan Saha) | website | [r53](reels/53-time-feels-fast-sayantan-edit.md) | Instagram account behind the second 'Time feels this fast' take: galaxy, dividing cell, DNA, figure falling toward Earth. | [Instagram](https://www.instagram.com/sayantan_visuals/) |
+| 296 | @kerolosmechail (SFX artist) | website | [r53](reels/53-time-feels-fast-sayantan-edit.md) | Sound designer credited in the r53 caption; not otherwise verified. | [Instagram](https://www.instagram.com/kerolosmechail/) |
+| 297 | DaVinci Resolve | website | [r53](reels/53-time-feels-fast-sayantan-edit.md) | Named in the caption tags (#davinciresolve) as the edit tool. Free base version; Studio is a paid upgrade. | [Site](https://www.blackmagicdesign.com/products/davinciresolve) |
+| 305 | CRIS WAR (@criswvr) - Synthetic Urban series | website | [r55](reels/55-synthetic-urban-11.md) | Artist behind the 'Synthetic Urban' digital-surveillance animation series; reel is installment 11 (point-cloud figures, binary strings, detection box). | [criswvr.com](https://criswvr.com/) |
 
 ## Fashion & style
 
@@ -384,7 +390,7 @@ Menswear, tailoring and shopping guides. 40 items.
 
 ## Music
 
-Albums, songs and music finds. 11 items.
+Albums, songs and music finds. 17 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -399,6 +405,12 @@ Albums, songs and music finds. 11 items.
 | 242 | Nu Genea (Massimo Di Lena & Lucio Aquilina) (Nu Genea) | website | [r42](reels/42-nu-genea-marechia.md) | Naples-formed duo, formerly Nu Guinea, renamed Nu Genea (reel ties the name to Napoli's Greek roots); run their own label NG Records. Sun-d… | [Nu Genea (Bandcamp)](https://nugenea.bandcamp.com/) |
 | 243 | machi7k - 'Discovering Music From Around The World' (Machi (@machi7k)) | website | [r42](reels/42-nu-genea-marechia.md) | The creator's daily music-discovery series; this reel is Day 184. One track from a different country/scene each day with cover art, flags a… | [machi7k on Instagram](https://www.instagram.com/machi7k/) |
 | 291 | HIGHS AND LOWS (Ye, from BULLY) (Ye (Kanye West)) | song | [r51](reels/51-highs-and-lows-edit.md) | Reel is titled 'Highs and Lows edit' and tags @ye; audio not transcribed, so the match to Ye's track is likely, not verified. | [YouTube](https://www.youtube.com/watch?v=kt_0b4RwerY) |
+| 298 | 2N1T3 CASUAL HALLOWEEN #06 (event, 2026-10-29, High Tide DTLA) (2N1T3) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Halloween party the reel promotes; ALESSIO with Casual Affairs, French For Drugs, WRCLW and Glitter Beach. Past as of save. | [2N1T3 event page](https://www.2n1t3.com/e/2n1t3-casual-halloween-06) |
+| 299 | Casual Affairs (@casualafffairs) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Artist on the bill, tagged in the caption. | [Spotify](https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W) |
+| 300 | French For Drugs (@frenchfordrugs) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Artist on the bill, tagged in the caption. | [Spotify](https://open.spotify.com/artist/6VI38wBrLiN4t3QD8MuGyg) |
+| 301 | @wrclw_ (WRCLW) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Artist on the bill, tagged in the caption; no verified music page found, Instagram only. | [Instagram](https://www.instagram.com/wrclw_/) |
+| 302 | Glitter Beach (@thisisglitterbeach) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Artist on the bill, tagged in the caption; no verified music page found, Instagram only. | [Instagram](https://www.instagram.com/thisisglitterbeach/) |
+| 304 | ALESSIO (@alessowiththei) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Creator of the reel; played the event and teased unveiling unreleased work there. | [Instagram](https://www.instagram.com/alessowiththei/) |
 
 ## Games
 
@@ -465,10 +477,14 @@ Essays, lessons and big-picture topics. 49 items.
 | 287 | CMS Higgs boson candidate event, ZZ to 2 electrons + 2 muons (8 TeV, 2012 data) | archive-item | [r50](reels/50-lhc-proton-chase.md) | The collision at the end of the reel. The caption says CMS caught it in May 2012: a Higgs boson candidate that decayed to 2 electrons and 2… | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [CMS: contributions to the discovery of a Higgs boson (collision images incl. 8 TeV ZZ to 2e2mu candidate)](https://cmsexperiment.web.cern.ch/content/cms-higgs-resources) · [CERN Open Data: Higgs candidate events for education and outreach](https://opendata.cern.ch/record/cms-300) |
 | 288 | Large Hadron Collider (CERN) | website | [r50](reels/50-lhc-proton-chase.md) | The whole reel follows one proton through CERN's collider. On screen: '26.7 KM' for the ring, 'OPPOSITE WAYS' for the two beams, and a runn… | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [CERN: Large Hadron Collider](https://home.cern/science/accelerators/large-hadron-collider/) |
 | 289 | CERN accelerator chain shown in the reel: Linac4, Proton Synchrotron Booster, Proton Synchrotron, SPS | website | [r50](reels/50-lhc-proton-chase.md) | The reel labels 'LINAC4' (at 52% of light speed) and '4 RINGS BOOSTER' on its way up to the LHC. CERN's Booster page confirms four superimp… | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [CERN: accelerator complex](https://home.cern/science/accelerators/accelerator-complex) · [CERN: Linear accelerator 4](https://home.cern/science/accelerators/linear-accelerator-4) · [CERN: Proton Synchrotron Booster](https://home.cern/science/accelerators/proton-synchrotron-booster) |
+| 272 | "PayPal Isn't a Payments Company. It's a Risk Engine." (Akhil Sharma video, 50:27) | video | [r48](reels/48-paypal-risk-engine-video.md) | The video sent 2026-10-25; no captions and audio not retrievable, so the archive entry is built from adjacent sources (author's chapter + PayPal's own blog), clearly labeled. | [YouTube](https://www.youtube.com/watch?v=zfx317kPOJM) |
+| 273 | Fraud, Risk & Disputes - Money & Ledger Systems (Algoroq chapter) | article | [r48](reels/48-paypal-risk-engine-video.md) | The video author's own fraud-engineering playbook: decision SLOs, decline economics, rules vs models, velocity/graph signals, chargebacks, card testing. Adjacent material, not the video. | [Algoroq](https://algoroq.io/specializations/money-and-ledgers/fraud-and-disputes/) |
+| 274 | Algoroq Engineering Resource Library - YouTube Companion Diagrams | website | [r48](reels/48-paypal-risk-engine-video.md) | Author's interactive diagram decks, one per video; no PayPal deck found as of 2026-10-25 (listed decks cover older videos, so it may not be added yet). | [algoroq.io/resources](https://algoroq.io/resources) |
+| 275 | How PayPal Uses Real-time Graph Database and Graph Analysis to Fight Fraud (PayPal Tech, 2021) | article | [r48](reels/48-paypal-risk-engine-video.md) | PayPal's own write-up of its real-time fraud graph platform: three stacks, Gremlin, ~10 ms two-hop lookups, million-QPS targets. Independent of the video. | [PayPal Tech (Medium)](https://medium.com/paypal-tech/how-paypal-uses-real-time-graph-database-and-graph-analysis-to-fight-fraud-96a2b918619a) |
 
 ## Places
 
-Physical places worth visiting. 34 items.
+Physical places worth visiting. 35 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -506,8 +522,4 @@ Physical places worth visiting. 34 items.
 | 215 | Chelsea Flea | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 1. Secondhand Stores; neighborhood on sc… | [Chelsea Flea](https://www.brooklynflea.com/chelseaflea) |
 | 216 | Ven. Space | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ven.space/) |
 | 217 | Atelier New York | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ateliernewyork.com/) |
-
-| 272 | "PayPal Isn't a Payments Company. It's a Risk Engine." (Akhil Sharma video, 50:27) | video | [r48](reels/48-paypal-risk-engine-video.md) | The video sent 2026-10-25; no captions and audio not retrievable, so the archive entry is built from adjacent sources (author's chapter + PayPal's own blog), clearly labeled. | [YouTube](https://www.youtube.com/watch?v=zfx317kPOJM) |
-| 273 | Fraud, Risk & Disputes - Money & Ledger Systems (Algoroq chapter) | article | [r48](reels/48-paypal-risk-engine-video.md) | The video author's own fraud-engineering playbook: decision SLOs, decline economics, rules vs models, velocity/graph signals, chargebacks, card testing. Adjacent material, not the video. | [Algoroq](https://algoroq.io/specializations/money-and-ledgers/fraud-and-disputes/) |
-| 274 | Algoroq Engineering Resource Library - YouTube Companion Diagrams | website | [r48](reels/48-paypal-risk-engine-video.md) | Author's interactive diagram decks, one per video; no PayPal deck found as of 2026-10-25 (listed decks cover older videos, so it may not be added yet). | [algoroq.io/resources](https://algoroq.io/resources) |
-| 275 | How PayPal Uses Real-time Graph Database and Graph Analysis to Fight Fraud (PayPal Tech, 2021) | article | [r48](reels/48-paypal-risk-engine-video.md) | PayPal's own write-up of its real-time fraud graph platform: three stacks, Gremlin, ~10 ms two-hop lookups, million-QPS targets. Independent of the video. | [PayPal Tech (Medium)](https://medium.com/paypal-tech/how-paypal-uses-real-time-graph-database-and-graph-analysis-to-fight-fraud-96a2b918619a) |
+| 303 | High Tide (DTLA venue) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Los Angeles venue hosting the event (kind set to website because the archive vocabulary has no place kind). | [hightidedtla.com](https://hightidedtla.com/) |
