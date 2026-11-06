@@ -9,9 +9,9 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 50 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47 |
 | [AI & dev tools](#ai-dev-tools) | 30 | r13, r17, r20, r37, r43, r44, r45 |
-| [Graphic design & motion](#graphic-design-motion) | 35 | r10, r12, r18, r25, r41, r50 |
+| [Graphic design & motion](#graphic-design-motion) | 36 | r10, r12, r18, r25, r41, r50, r51 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
-| [Music](#music) | 10 | r36, r39, r42 |
+| [Music](#music) | 11 | r36, r39, r42, r51 |
 | [Games](#games) | 7 | r01, r36 |
 | [Ideas & essays](#ideas-essays) | 49 | r08, r11, r21, r23, r32, r35, r48, r49, r50 |
 | [Places](#places) | 34 | r26, r33 |
@@ -294,7 +294,7 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 30 items.
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 35 items.
+Magazine covers, print design, motion and visual effects. 36 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -333,6 +333,7 @@ Magazine covers, print design, motion and visual effects. 35 items.
 | 234 | DistortedFX - Povikas glitch & blob-tracking preset pack for After Effects (Povikas (@povikas_)) | website | [r41](reels/41-povikas-perfect-effect.md) | A 9-second vertical clip by Povikas (@povikas_), posted 2026-10-17 (27 likes, 3 comments at save). Phone-filmed screen recording of an Adob… | [DistortedFX pack (povikas.com, $57)](https://povikas.com/products/distortedfx) |
 | 235 | VIRAL Trace And Blob Tracking Effect - After Effects Tutorial (Povikas) (Povikas (@povikas_)) | lesson | [r41](reels/41-povikas-perfect-effect.md) | Free YouTube tutorial by Povikas (2026-04-20) teaching the viral trace & blob tracking glitch look shown in the reel: adjustment layers, dr… | [Tutorial (YouTube)](https://www.youtube.com/watch?v=PI-oxvpi-XY) |
 | 290 | Blender | website | [r50](reels/50-lhc-proton-chase.md) | Caption: 'Made in Blender. Follow for more edits like this.' Free and open source 3D creation software. | [Original reel](https://www.instagram.com/reel/DfCPNjROIEi/) · [Blender](https://www.blender.org/) |
+| 292 | @sam.john.creates (creator of the edit) (Sam John) | website | [r51](reels/51-highs-and-lows-edit.md) | Instagram account behind the cinematic edit: pocket-radio schematic, glowing figures, orange-sunset silhouettes, fade to black. | [Instagram](https://www.instagram.com/sam.john.creates/) |
 
 ## Fashion & style
 
@@ -383,7 +384,7 @@ Menswear, tailoring and shopping guides. 40 items.
 
 ## Music
 
-Albums, songs and music finds. 10 items.
+Albums, songs and music finds. 11 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -397,6 +398,7 @@ Albums, songs and music finds. 10 items.
 | 241 | Napoli Segreta vol.1 & vol.2 (compilations) (Various Artists) | archive-item | [r42](reels/42-nu-genea-marechia.md) | Compilations of obscure 1970s-80s Neapolitan recordings the reel says the duo helped curate (both covers shown). Vol.1 on Early Sounds Reco… | [Napoli Segreta vol.1 (Early Sounds Bandcamp)](https://earlysounds.bandcamp.com/album/napoli-segreta-vol-1) |
 | 242 | Nu Genea (Massimo Di Lena & Lucio Aquilina) (Nu Genea) | website | [r42](reels/42-nu-genea-marechia.md) | Naples-formed duo, formerly Nu Guinea, renamed Nu Genea (reel ties the name to Napoli's Greek roots); run their own label NG Records. Sun-d… | [Nu Genea (Bandcamp)](https://nugenea.bandcamp.com/) |
 | 243 | machi7k - 'Discovering Music From Around The World' (Machi (@machi7k)) | website | [r42](reels/42-nu-genea-marechia.md) | The creator's daily music-discovery series; this reel is Day 184. One track from a different country/scene each day with cover art, flags a… | [machi7k on Instagram](https://www.instagram.com/machi7k/) |
+| 291 | HIGHS AND LOWS (Ye, from BULLY) (Ye (Kanye West)) | song | [r51](reels/51-highs-and-lows-edit.md) | Reel is titled 'Highs and Lows edit' and tags @ye; audio not transcribed, so the match to Ye's track is likely, not verified. | [YouTube](https://www.youtube.com/watch?v=kt_0b4RwerY) |
 
 ## Games
 
@@ -509,4 +511,3 @@ Physical places worth visiting. 34 items.
 | 273 | Fraud, Risk & Disputes - Money & Ledger Systems (Algoroq chapter) | article | [r48](reels/48-paypal-risk-engine-video.md) | The video author's own fraud-engineering playbook: decision SLOs, decline economics, rules vs models, velocity/graph signals, chargebacks, card testing. Adjacent material, not the video. | [Algoroq](https://algoroq.io/specializations/money-and-ledgers/fraud-and-disputes/) |
 | 274 | Algoroq Engineering Resource Library - YouTube Companion Diagrams | website | [r48](reels/48-paypal-risk-engine-video.md) | Author's interactive diagram decks, one per video; no PayPal deck found as of 2026-10-25 (listed decks cover older videos, so it may not be added yet). | [algoroq.io/resources](https://algoroq.io/resources) |
 | 275 | How PayPal Uses Real-time Graph Database and Graph Analysis to Fight Fraud (PayPal Tech, 2021) | article | [r48](reels/48-paypal-risk-engine-video.md) | PayPal's own write-up of its real-time fraud graph platform: three stacks, Gremlin, ~10 ms two-hop lookups, million-QPS targets. Independent of the video. | [PayPal Tech (Medium)](https://medium.com/paypal-tech/how-paypal-uses-real-time-graph-database-and-graph-analysis-to-fight-fraud-96a2b918619a) |
-
