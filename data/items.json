@@ -7616,5 +7616,329 @@
     "themes": [
       "design-graphic"
     ]
-  },{"id":291,"reel":"r51","collection":"highs-and-lows-edit","collection_title":"Highs and Lows edit (sam.john.creates)","title":"HIGHS AND LOWS (Ye, from BULLY)","kind":"song","creator":"Ye (Kanye West)","note":"The reel is titled 'Highs and Lows edit' on screen, and Ye released a track called HIGHS AND LOWS on BULLY (2026-03-28). The creator also tags @ye in the caption. I could not transcribe the reel's audio, so I did not confirm that this track is what plays. Treat the match as likely, not verified.","links":[{"label":"Ye - HIGHS AND LOWS (official video, YouTube, 1:51)","url":"https://www.youtube.com/watch?v=kt_0b4RwerY"},{"label":"HIGHS AND LOWS on Spotify (BULLY - Deluxe)","url":"https://open.spotify.com/track/2rp6ug2Gm49BG2UdTNVzWW"}],"image":"assets/3-51-highs-and-lows-title.jpg","themes":["music"]},{"id":292,"reel":"r51","collection":"highs-and-lows-edit","collection_title":"Highs and Lows edit (sam.john.creates)","title":"@sam.john.creates (creator of the edit)","kind":"website","creator":"Sam John","note":"Instagram account behind the reel. The edit mixes a technical-schematic opening (a realistic pocket radio), glowing floating figures, silhouettes against orange skies and a 'fade to black' ending. The on-screen credit reads 'SAM.JOHN.CREATES, AUG 2026' and the closing text reads 'HIGHS AND LOWS EDIT. PREDICTING 100K LIKES.'","links":[{"label":"sam.john.creates on Instagram","url":"https://www.instagram.com/sam.john.creates/"}],"image":"assets/2-51-highs-and-lows-glowing-figures.jpg","themes":["design-graphic"]}
+  },
+  {
+    "id": 291,
+    "reel": "r51",
+    "collection": "highs-and-lows-edit",
+    "collection_title": "Highs and Lows edit (sam.john.creates)",
+    "title": "HIGHS AND LOWS (Ye, from BULLY)",
+    "kind": "song",
+    "creator": "Ye (Kanye West)",
+    "note": "The reel is titled 'Highs and Lows edit' on screen, and Ye released a track called HIGHS AND LOWS on BULLY (2026-03-28). The creator also tags @ye in the caption. I could not transcribe the reel's audio, so I did not confirm that this track is what plays. Treat the match as likely, not verified.",
+    "links": [
+      {
+        "label": "Ye - HIGHS AND LOWS (official video, YouTube, 1:51)",
+        "url": "https://www.youtube.com/watch?v=kt_0b4RwerY"
+      },
+      {
+        "label": "HIGHS AND LOWS on Spotify (BULLY - Deluxe)",
+        "url": "https://open.spotify.com/track/2rp6ug2Gm49BG2UdTNVzWW"
+      }
+    ],
+    "image": "assets/3-51-highs-and-lows-title.jpg",
+    "themes": [
+      "music"
+    ]
+  },
+  {
+    "id": 292,
+    "reel": "r51",
+    "collection": "highs-and-lows-edit",
+    "collection_title": "Highs and Lows edit (sam.john.creates)",
+    "title": "@sam.john.creates (creator of the edit)",
+    "kind": "website",
+    "creator": "Sam John",
+    "note": "Instagram account behind the reel. The edit mixes a technical-schematic opening (a realistic pocket radio), glowing floating figures, silhouettes against orange skies and a 'fade to black' ending. The on-screen credit reads 'SAM.JOHN.CREATES, AUG 2026' and the closing text reads 'HIGHS AND LOWS EDIT. PREDICTING 100K LIKES.'",
+    "links": [
+      {
+        "label": "sam.john.creates on Instagram",
+        "url": "https://www.instagram.com/sam.john.creates/"
+      }
+    ],
+    "image": "assets/2-51-highs-and-lows-glowing-figures.jpg",
+    "themes": [
+      "design-graphic"
+    ]
+  },
+  {
+    "id": 293,
+    "reel": "r52",
+    "collection": "time-feels-fast-edit",
+    "collection_title": "Time feels this fast edit (byimraaan)",
+    "title": "@byimraaan (creator of the edit)",
+    "kind": "website",
+    "creator": "Imran Bhatti",
+    "note": "Instagram account behind the viral 'Time feels this fast' edit: walking silhouettes on white, hurricane with a golden-ratio spiral, schematic-annotated glowing figure, Interstellar-style black hole, close-up of a human eye, and a vintage 'THE END' card.",
+    "links": [
+      {
+        "label": "byimraaan on Instagram",
+        "url": "https://www.instagram.com/byimraaan/"
+      }
+    ],
+    "image": "assets/1-52-time-feels-fast-hurricane-spiral.jpg",
+    "themes": [
+      "design-graphic"
+    ]
+  },
+  {
+    "id": 294,
+    "reel": "r52",
+    "collection": "time-feels-fast-edit",
+    "collection_title": "Time feels this fast edit (byimraaan)",
+    "title": "Adobe After Effects",
+    "kind": "website",
+    "creator": "Adobe",
+    "note": "Named in the caption tags (#aftereffects) as the tool the edit was made with. Paid (Creative Cloud subscription, free trial).",
+    "links": [
+      {
+        "label": "Adobe After Effects",
+        "url": "https://www.adobe.com/products/aftereffects.html"
+      }
+    ],
+    "image": "assets/2-52-time-feels-fast-black-hole.jpg",
+    "themes": [
+      "design-graphic"
+    ]
+  },
+  {
+    "id": 295,
+    "reel": "r53",
+    "collection": "time-feels-fast-sayantan-edit",
+    "collection_title": "Time feels this fast edit (sayantan_visuals)",
+    "title": "@sayantan_visuals (creator of the edit)",
+    "kind": "website",
+    "creator": "Sayantan Saha",
+    "note": "Instagram account behind this take on the 'Time feels this fast' concept: spiral galaxy, dividing cell, DNA helix, glowing figure, fall toward Earth in an orange vortex.",
+    "links": [
+      {
+        "label": "sayantan_visuals on Instagram",
+        "url": "https://www.instagram.com/sayantan_visuals/"
+      }
+    ],
+    "image": "assets/1-53-time-feels-fast-galaxy.jpg",
+    "themes": [
+      "design-graphic"
+    ]
+  },
+  {
+    "id": 296,
+    "reel": "r53",
+    "collection": "time-feels-fast-sayantan-edit",
+    "collection_title": "Time feels this fast edit (sayantan_visuals)",
+    "title": "@kerolosmechail (SFX artist)",
+    "kind": "website",
+    "creator": "kerolosmechail",
+    "note": "Sound designer credited in the r53 caption ('SFX : @kerolosmechail'); not otherwise verified.",
+    "links": [
+      {
+        "label": "kerolosmechail on Instagram",
+        "url": "https://www.instagram.com/kerolosmechail/"
+      }
+    ],
+    "image": "assets/4-53-time-feels-fast-earth-vortex.jpg",
+    "themes": [
+      "design-graphic"
+    ]
+  },
+  {
+    "id": 297,
+    "reel": "r53",
+    "collection": "time-feels-fast-sayantan-edit",
+    "collection_title": "Time feels this fast edit (sayantan_visuals)",
+    "title": "DaVinci Resolve",
+    "kind": "website",
+    "creator": "Blackmagic Design",
+    "note": "Named in the caption tags (#davinciresolve) as the tool the edit was made with. Free base version; DaVinci Resolve Studio is a paid upgrade.",
+    "links": [
+      {
+        "label": "DaVinci Resolve",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve"
+      }
+    ],
+    "image": "assets/3-53-time-feels-fast-dna.jpg",
+    "themes": [
+      "design-graphic"
+    ]
+  },
+  {
+    "id": 298,
+    "reel": "r54",
+    "collection": "casual-halloween-2n1t3",
+    "collection_title": "2N1T3 Casual Halloween promo (alessowiththei)",
+    "title": "2N1T3 CASUAL HALLOWEEN #06 (event, 2026-10-29)",
+    "kind": "website",
+    "creator": "2N1T3",
+    "note": "Halloween party the reel promotes: Thu 2026-10-29 at High Tide, downtown Los Angeles, with ALESSIO, Casual Affairs, French For Drugs, WRCLW and Glitter Beach. Past as of save.",
+    "links": [
+      {
+        "label": "2N1T3 event page",
+        "url": "https://www.2n1t3.com/e/2n1t3-casual-halloween-06"
+      },
+      {
+        "label": "DICE ticket listing",
+        "url": "https://dice.fm/event/53kkkw-2n1t3-casual-halloween-06-29th-oct-high-tide-los-angeles-tickets"
+      }
+    ],
+    "image": "assets/1-54-casual-halloween-angel-windows.jpg",
+    "themes": [
+      "music"
+    ]
+  },
+  {
+    "id": 299,
+    "reel": "r54",
+    "collection": "casual-halloween-2n1t3",
+    "collection_title": "2N1T3 Casual Halloween promo (alessowiththei)",
+    "title": "Casual Affairs (@casualafffairs)",
+    "kind": "website",
+    "creator": "Casual Affairs",
+    "note": "Artist on the event bill, tagged in the caption.",
+    "links": [
+      {
+        "label": "Casual Affairs on Spotify",
+        "url": "https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W"
+      },
+      {
+        "label": "casualafffairs on Instagram",
+        "url": "https://www.instagram.com/casualafffairs/"
+      }
+    ],
+    "image": "assets/2-54-casual-halloween-xray-angel.jpg",
+    "themes": [
+      "music"
+    ]
+  },
+  {
+    "id": 300,
+    "reel": "r54",
+    "collection": "casual-halloween-2n1t3",
+    "collection_title": "2N1T3 Casual Halloween promo (alessowiththei)",
+    "title": "French For Drugs (@frenchfordrugs)",
+    "kind": "website",
+    "creator": "French For Drugs",
+    "note": "Artist on the event bill, tagged in the caption.",
+    "links": [
+      {
+        "label": "French For Drugs on Spotify",
+        "url": "https://open.spotify.com/artist/6VI38wBrLiN4t3QD8MuGyg"
+      },
+      {
+        "label": "frenchfordrugs on Instagram",
+        "url": "https://www.instagram.com/frenchfordrugs/"
+      }
+    ],
+    "image": "assets/3-54-casual-halloween-mesh-cascade.jpg",
+    "themes": [
+      "music"
+    ]
+  },
+  {
+    "id": 301,
+    "reel": "r54",
+    "collection": "casual-halloween-2n1t3",
+    "collection_title": "2N1T3 Casual Halloween promo (alessowiththei)",
+    "title": "@wrclw_ (WRCLW)",
+    "kind": "website",
+    "creator": "WRCLW",
+    "note": "Artist on the event bill, tagged in the caption. No verified music page found; Instagram only.",
+    "links": [
+      {
+        "label": "wrclw_ on Instagram",
+        "url": "https://www.instagram.com/wrclw_/"
+      }
+    ],
+    "image": "assets/1-54-casual-halloween-angel-windows.jpg",
+    "themes": [
+      "music"
+    ]
+  },
+  {
+    "id": 302,
+    "reel": "r54",
+    "collection": "casual-halloween-2n1t3",
+    "collection_title": "2N1T3 Casual Halloween promo (alessowiththei)",
+    "title": "Glitter Beach (@thisisglitterbeach)",
+    "kind": "website",
+    "creator": "Glitter Beach",
+    "note": "Artist on the event bill, tagged in the caption. No verified music page found; Instagram only.",
+    "links": [
+      {
+        "label": "thisisglitterbeach on Instagram",
+        "url": "https://www.instagram.com/thisisglitterbeach/"
+      }
+    ],
+    "image": "assets/2-54-casual-halloween-xray-angel.jpg",
+    "themes": [
+      "music"
+    ]
+  },
+  {
+    "id": 303,
+    "reel": "r54",
+    "collection": "casual-halloween-2n1t3",
+    "collection_title": "2N1T3 Casual Halloween promo (alessowiththei)",
+    "title": "High Tide (DTLA venue)",
+    "kind": "website",
+    "creator": "High Tide",
+    "note": "The downtown Los Angeles venue hosting the event (kind set to website because the archive vocabulary has no place kind).",
+    "links": [
+      {
+        "label": "hightidedtla.com",
+        "url": "https://hightidedtla.com/"
+      }
+    ],
+    "image": "assets/3-54-casual-halloween-mesh-cascade.jpg",
+    "themes": [
+      "places"
+    ]
+  },
+  {
+    "id": 304,
+    "reel": "r54",
+    "collection": "casual-halloween-2n1t3",
+    "collection_title": "2N1T3 Casual Halloween promo (alessowiththei)",
+    "title": "ALESSIO (@alessowiththei)",
+    "kind": "website",
+    "creator": "ALESSIO",
+    "note": "Creator of the reel; played the event and teased unveiling unreleased work there. No verified music page found; Instagram only.",
+    "links": [
+      {
+        "label": "alessowiththei on Instagram",
+        "url": "https://www.instagram.com/alessowiththei/"
+      }
+    ],
+    "image": "assets/1-54-casual-halloween-angel-windows.jpg",
+    "themes": [
+      "music"
+    ]
+  },
+  {
+    "id": 305,
+    "reel": "r55",
+    "collection": "synthetic-urban-11",
+    "collection_title": "Synthetic Urban 11 (criswvr)",
+    "title": "CRIS WAR (@criswvr) - Synthetic Urban series",
+    "kind": "website",
+    "creator": "CRIS WAR",
+    "note": "Artist behind the 'Synthetic Urban' digital-surveillance animation series; this reel is installment 11 (wireframe point-cloud figures, binary strings, object-detection box). A making-of write-up of the look exists on alici.ai.",
+    "links": [
+      {
+        "label": "criswvr.com",
+        "url": "https://criswvr.com/"
+      },
+      {
+        "label": "criswvr on Instagram",
+        "url": "https://www.instagram.com/criswvr/"
+      },
+      {
+        "label": "Making-of (alici.ai)",
+        "url": "https://alici.ai/formulas/media/criswvr/e13be832-919c-532f-aa30-0ab1cf3c2191-synthetic-urban-digital-surveillance-point-cloud-animation"
+      }
+    ],
+    "image": "assets/1-55-synthetic-urban-wireframe.jpg",
+    "themes": [
+      "design-graphic"
+    ]
+  }
 ]
