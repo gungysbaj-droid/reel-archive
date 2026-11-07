@@ -8405,5 +8405,174 @@
   "themes": [
    "places"
   ]
- }
+ },
+ {
+ "id": 313,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "fonderie.download - experimental type foundry",
+ "kind": "website",
+ "creator": "fonderie.download",
+ "note": "The site the reel points to (comment-bait; fully public). French experimental type foundry: seven display fonts, all free under the WTFPL (commercial use OK), a \"fonts in use\" gallery, a newsletter and a one-click zip of every font. Says it collects no data and stays off social media by choice. Checked 2026-11-07.",
+ "links": [
+  {
+   "label": "fonderie.download",
+   "url": "https://fonderie.download/"
+  },
+  {
+   "label": "Fonts in use gallery",
+   "url": "https://fonderie.download/fontsinuse.html"
+  },
+  {
+   "label": "Download all the fonts (zip)",
+   "url": "https://fonderie.download/downloads/FD_allthefonts.zip"
+  }
+ ],
+ "image": "assets/57-fonderie-fonts-in-use-gallery.jpg",
+ "themes": [
+  "design-graphic",
+  "web-ui-design"
+ ]
+},
+ {
+ "id": 314,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "Beast",
+ "kind": "archive-item",
+ "creator": "fonderie.download",
+ "note": "Serif pixel font with a 5-pixel cap height, rebooted from lettering in a forgotten nineties Mega Drive game; compact letters, clogged apertures, makeshift ligatures. Version 2.0, published November 2024. Free (WTFPL). Its page is shown in the reel.",
+ "links": [
+  {
+   "label": "Beast font page",
+   "url": "https://fonderie.download/beast.html"
+  }
+ ],
+ "image": "assets/57-fonderie-beast-font-page.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+ {
+ "id": 315,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "Crédible",
+ "kind": "archive-item",
+ "creator": "fonderie.download",
+ "note": "Tall condensed display face: \"For the streets, by the streets. Three different stylistic sets and several stunning ligatures.\" Free (WTFPL). Its page is shown in the reel (\"(Hmmm?)\" and \"CRÉDIBLE\" specimens).",
+ "links": [
+  {
+   "label": "Crédible font page",
+   "url": "https://fonderie.download/credible.html"
+  }
+ ],
+ "image": "assets/57-fonderie-download-cover.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+ {
+ "id": 316,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "Tribalium Neue",
+ "kind": "archive-item",
+ "creator": "fonderie.download",
+ "note": "Capitals-only tribal/tattoo face \"designed to torture your eyes\", in Regular and Poster styles. Designed 2018, published January 2020. Free (WTFPL). Both styles shown in the reel.",
+ "links": [
+  {
+   "label": "Tribalium Neue font page",
+   "url": "https://fonderie.download/tribaliumneue.html"
+  }
+ ],
+ "image": "assets/57-fonderie-download-cover.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+ {
+ "id": 317,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "4 Fromages",
+ "kind": "archive-item",
+ "creator": "Francois Elain, lazy dog and fonderie.download",
+ "note": "Display typeface created \"with 8 hands\" at the first Saturday Type Fever type-marathon (NoFoundry, Karlsruhe, 2018). Free (WTFPL). Part of the foundry catalog; not clearly identifiable in the reel frames.",
+ "links": [
+  {
+   "label": "4 Fromages font page",
+   "url": "https://fonderie.download/4fromages.html"
+  }
+ ],
+ "image": "assets/57-fonderie-download-cover.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+ {
+ "id": 318,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "Garamon(d/t)",
+ "kind": "archive-item",
+ "creator": "Paul Tubert (fonderie.download)",
+ "note": "\"A hardcore revival of a revival\": Paul Tubert scanned and smashed the 1926 Deberny et Peignot Garamond into regular and italic versions. Free (WTFPL). Part of the foundry catalog; not clearly identifiable in the reel frames.",
+ "links": [
+  {
+   "label": "Garamon(d/t) font page",
+   "url": "https://fonderie.download/garamondt.html"
+  }
+ ],
+ "image": "assets/57-fonderie-download-cover.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+ {
+ "id": 319,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "Quarantype",
+ "kind": "archive-item",
+ "creator": "fonderie.download and contributors",
+ "note": "Collaborative font designed during the Covid-19 lockdown by dozens of credited contributors. Free (WTFPL). Its stacked name is visible on the reel's homepage scroll.",
+ "links": [
+  {
+   "label": "Quarantype font page",
+   "url": "https://fonderie.download/quarantype.html"
+  }
+ ],
+ "image": "assets/57-fonderie-download-cover.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+ {
+ "id": 320,
+ "reel": "r57",
+ "collection": "fonderie-download-fonts",
+ "collection_title": "Free fonts pt 4: fonderie.download (mightbemaxi)",
+ "title": "Zara",
+ "kind": "archive-item",
+ "creator": "fonderie.download",
+ "note": "\"a font designed during a trip\", with an interactive try-it tester on its page. Free (WTFPL). Its specimen is visible on the reel's homepage scroll.",
+ "links": [
+  {
+   "label": "Zara font page",
+   "url": "https://fonderie.download/zara.html"
+  }
+ ],
+ "image": "assets/57-fonderie-download-cover.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+}
 ]
