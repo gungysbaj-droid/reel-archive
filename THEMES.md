@@ -7,8 +7,8 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Film](#film) | 58 | r02, r05, r14, r16, r28, r31, r38, r40 |
 | [Books & reading](#books-reading) | 70 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49, r56 |
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
-| [Web & UI design](#web-ui-design) | 51 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57 |
-| [AI & dev tools](#ai-dev-tools) | 30 | r13, r17, r20, r37, r43, r44, r45 |
+| [Web & UI design](#web-ui-design) | 53 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58 |
+| [AI & dev tools](#ai-dev-tools) | 32 | r13, r17, r20, r37, r43, r44, r45, r58 |
 | [Graphic design & motion](#graphic-design-motion) | 50 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 17 | r36, r39, r42, r51, r54 |
@@ -206,7 +206,7 @@ Internet Archive finds, zines, maps, manuals and niche archives. 39 items.
 
 ## Web & UI design
 
-Websites, portfolios, UI libraries, shaders and aesthetic software. 51 items.
+Websites, portfolios, UI libraries, shaders and aesthetic software. 53 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -261,10 +261,12 @@ Websites, portfolios, UI libraries, shaders and aesthetic software. 51 items.
 | 270 | Ancient Artifacts - Readymag exhibition template (Endless Tools) (Readymag / Endless Tools) | website | [r47](reels/47-sites-with-personality.md) | Exhibition landing page with a rotating interactive 3D stone artifact over huge orange 'ANCIENT ARTIFACTS' type, Exhibition / Artist / Gall… | [Readymag template](https://readymag.com/designs/ancientartifacts/) |
 | 271 | yaara i. - Yaara Israeli portfolio (probable) (Yaara Israeli) | website | [r47](reels/47-sites-with-personality.md) | Last site, blurred in the reel: a white page with a vertical 'yaara i.' title and floating image cards. Probably Yaara Israeli's graphic de… | [Site](https://www.yaaraisraeli.com/) |
 | 313 | fonderie.download - experimental type foundry (fonderie.download) | website | [r57](reels/57-fonderie-download-fonts.md) | The reel's "niche site for design inspo": playful font-specimen pages, a fonts-in-use gallery and a… | [Site](https://fonderie.download/) |
+| 321 | Impeccable - design fluency skill pack (pbakaus) | website | [r58](reels/58-claude-frontend-design-tools.md) | Claude Code skill pack: commands that put designer language (vertical rhythm, type colour) into prompts… | [GitHub](https://github.com/pbakaus/impeccable) |
+| 322 | img2threejs - reference image to Three.js model (img2threejs) | website | [r58](reels/58-claude-frontend-design-tools.md) | Apache-2.0 tool that rebuilds an object from a reference image as a code-only, procedural Three.js model; the reel… | [GitHub](https://github.com/img2threejs/img2threejs) |
 
 ## AI & dev tools
 
-GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 30 items.
+GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 32 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -298,6 +300,8 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 30 items.
 | 258 | Unlumen UI - ui.unlumen.com (Unlumen) | website | [r45](reels/45-top-3-ui-libraries.md) | Free, open-source React component library ('Beautifully Designed React Components'), Awwwards Honorable Mention, also on 21st.dev. Dark awa… | [Site](https://ui.unlumen.com/) |
 | 259 | SmoothUI - smoothui.dev (Eduardo (educlopez)) | website | [r45](reels/45-top-3-ui-libraries.md) | Free, open-source animated React components built on shadcn/ui, Motion and Tailwind; copy-paste install with live-preview docs. Second pick… | [Site](https://smoothui.dev/) |
 | 260 | Animmaster Lib - animmasterlib.dev (PAID) (Animmaster (@animmaster_studio)) | website | [r45](reels/45-top-3-ui-libraries.md) | The reel creator's own product (the comment-bait funnel 'Comment LIB' leads here): '300 PRO-level animated components' rebuilt from Awwward… | [Site](https://animmasterlib.dev/) |
+| 321 | Impeccable - design fluency skill pack (pbakaus) | website | [r58](reels/58-claude-frontend-design-tools.md) | Claude Code skill pack: commands that put designer language (vertical rhythm, type colour) into prompts… | [GitHub](https://github.com/pbakaus/impeccable) |
+| 322 | img2threejs - reference image to Three.js model (img2threejs) | website | [r58](reels/58-claude-frontend-design-tools.md) | Apache-2.0 tool that rebuilds an object from a reference image as a code-only, procedural Three.js model; the reel… | [GitHub](https://github.com/img2threejs/img2threejs) |
 
 ## Graphic design & motion
 
