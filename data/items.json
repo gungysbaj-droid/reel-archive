@@ -7963,7 +7963,63 @@
   "image": "assets/2-56-ornament-and-crime.jpg",
   "themes": [
    "books-reading"
-  ]
+  ],
+  "knowledge": {
+   "scope": "Original summary of the essay's actual argument, not full text. The short text is public; the archive stores a summary, not a copy.",
+   "checked": "2026-11-07",
+   "depth": "Primary English translation of the full essay read (source L1), plus secondary context (L2).",
+   "limits": "Summary compresses a ~10-page polemic; the essay's shock rhetoric (Papuan/tattoo comparisons) is reported, not endorsed.",
+   "sections": [
+    {
+     "section": "Core thesis: culture advances by shedding ornament",
+     "evidence": "Primary text plus reference summary",
+     "source_ids": [
+      "L1",
+      "L2"
+     ],
+     "summary": "Loos's central claim: 'the evolution of culture is synonymous with the removal of ornament from utilitarian objects.' Ornament dates an object, forcing early obsolescence, so the labour and material spent on it are wasted - that waste is the 'crime'. He urges craftsmen and clients to accept plain, well-made things: the greatness of the age is its inability to produce new ornament, and freedom from ornament is 'a sign of spiritual strength'."
+    },
+    {
+     "section": "The Papuan and tattoo argument",
+     "evidence": "Primary text; flagged rhetoric",
+     "source_ids": [
+      "L1",
+      "L2"
+     ],
+     "summary": "Loos argues by analogy: a child scribbling or a 'Papuan' tattooing everything in reach is natural, but a modern adult doing the same is 'a criminal or a degenerate' - tattooing correlates, for him, with criminality. This evolutionary ranking of cultures is the essay's most criticized move: colonial-era anthropology used as a moral ladder. It is the framing the essay is famous and infamous for."
+    },
+    {
+     "section": "Ornament, fashion and waste",
+     "evidence": "Primary text",
+     "source_ids": [
+      "L1"
+     ],
+     "summary": "Objects covered in fashionable decoration go out of style quickly, so owners discard serviceable goods and workers pour skill into what is deliberately ephemeral. Loos contrasts this with durable plain forms - his example economy: a plain object used for decades beats a decorated one replaced every season. He also mocks the grief that 'our age has no style', answering that the style of the age is precisely the conquest of ornament."
+    },
+    {
+     "section": "What Loos did not argue",
+     "evidence": "Secondary context",
+     "source_ids": [
+      "L2"
+     ],
+     "summary": "He never demanded the total absence of ornament - only that it be appropriate to material and purpose. The essay's stated date of 1908 is itself contested: the lecture was first given in 1910, published in French in 1913 and in German in 1929; the 1908 date was retrofitted with Loos's approval. Its moralizing, inherited from Arts and Crafts, fed directly into Bauhaus and modernist ideology."
+    }
+   ],
+   "sources": [
+    {
+     "id": "L1",
+     "title": "Ornament and Crime, full English text (University of Washington)",
+     "url": "https://depts.washington.edu/vienna/documents/Loos/Loos_Ornament.htm",
+     "type": "primary-text"
+    },
+    {
+     "id": "L2",
+     "title": "Ornament and Crime (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Ornament_and_Crime",
+     "type": "reference"
+    }
+   ]
+  }
  },
  {
   "id": 307,
@@ -7983,7 +8039,61 @@
   "image": "assets/3-56-ways-of-seeing.jpg",
   "themes": [
    "books-reading"
-  ]
+  ],
+  "knowledge": {
+   "scope": "Substance of the seven essays from documented structure and established commentary; not a substitute for reading it. The book is deliberately image-led.",
+   "checked": "2026-11-07",
+   "depth": "Essay-by-essay argument structure from reference documentation of the book and its BBC source series (B1); publisher scope (B2). No page-level reading.",
+   "limits": "Book has 7 essays, 3 image-only; summaries here cover the 4 written essays' arguments. No direct quotes verified against the printed page.",
+   "sections": [
+    {
+     "section": "Essay 1: reproduction changes meaning",
+     "evidence": "Reference-documented argument",
+     "source_ids": [
+      "B1"
+     ],
+     "summary": "Drawing on Walter Benjamin's 'The Work of Art in the Age of Mechanical Reproduction': the camera detaches a painting from its original context, so what was unique and site-bound becomes reproducible, portable information whose meaning shifts with each new use - captioned, cropped, sold. Seeing is no longer tied to place; images need language and narrative to pin them down."
+    },
+    {
+     "section": "Essay 2: the nude and the male gaze",
+     "evidence": "Reference-documented argument",
+     "source_ids": [
+      "B1"
+     ],
+     "summary": "In the European oil tradition, women are painted as sights: a woman surveys herself being surveyed, and the nude is staged for a male spectator-owner. Berger counts only twenty or thirty nudes in the whole tradition that show a woman as herself rather than as idealized object. This analysis introduced what became the concept of the male gaze, taken up by Laura Mulvey and feminist criticism."
+    },
+    {
+     "section": "Essay 3: oil paint as property portrait",
+     "evidence": "Reference-documented argument",
+     "source_ids": [
+      "B1"
+     ],
+     "summary": "Oil painting's material richness - its ability to render texture, sheen, solidity - made it a technology for depicting ownership: the status and possessions of whoever commissioned the work. The genre's real subject, Berger argues, is the relationship between owner and owned."
+    },
+    {
+     "section": "Essay 4: publicity inherits oil painting",
+     "evidence": "Reference-documented argument",
+     "source_ids": [
+      "B1"
+     ],
+     "summary": "Advertising (colour photography) takes over oil paint's visual language with the direction reversed: instead of celebrating what the viewer-owner already has, publicity sells an idealized future self obtainable through consumption, making the present feel inadequate. Glamour is manufactured social envy."
+    }
+   ],
+   "sources": [
+    {
+     "id": "B1",
+     "title": "Ways of Seeing (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/Ways_of_Seeing",
+     "type": "reference"
+    },
+    {
+     "id": "B2",
+     "title": "Ways of Seeing (Penguin)",
+     "url": "https://www.penguin.co.uk/books/56465/ways-of-seeing-by-berger-john/9780141035796",
+     "type": "publisher"
+    }
+   ]
+  }
  },
  {
   "id": 308,
@@ -8007,7 +8117,61 @@
   "image": "assets/1-56-architecture-theory-books-grid.jpg",
   "themes": [
    "books-reading"
-  ]
+  ],
+  "knowledge": {
+   "scope": "Substance of the essay's 16 sections from documented structure; the archive stores a summary, not the text.",
+   "checked": "2026-11-07",
+   "depth": "Section structure and themes from reference documentation of the 1933 essay and its translations (T1); edition (T2).",
+   "limits": "No direct page-level reading; section themes are as translated in the 2017 English edition. Nuance of individual passages not captured.",
+   "sections": [
+    {
+     "section": "Light versus shadow as cultural contrast",
+     "evidence": "Reference-documented theme",
+     "source_ids": [
+      "T1"
+     ],
+     "summary": "The essay's spine: the West, striving for progress, chases ever more light and clarity, while traditional Japanese aesthetics dwell in shadow, dimness and subdued tones, close to the concept of sabi. Tanizaki weighs gleam against shine, and the layered tones of darkness that flatter gold embroidery, patina and cloudy crystal."
+    },
+    {
+     "section": "Architecture and interiors",
+     "evidence": "Reference-documented theme",
+     "source_ids": [
+      "T1"
+     ],
+     "summary": "On construction: the Japanese room as a composition of shade - alcoves, deep eaves, paper screens - where beauty is made by shadow rather than by the object. Includes the celebrated passage on the monastery toilet as a place of texture and repose (he cites novelist Natsume Soseki on this), and the unease modern wiring, tile and white porcelain introduce into that world."
+    },
+    {
+     "section": "Materials, craft and food",
+     "evidence": "Reference-documented theme",
+     "source_ids": [
+      "T1"
+     ],
+     "summary": "Lacquerware comes alive by candlelight; bowls of broth are judged in dim light; paper, tin and dirt, jade and cloudy crystal each carry a specific quality of muted reflection. Craft finishes are valued for how they age and absorb darkness rather than repel it."
+    },
+    {
+     "section": "People, performance and impermanence",
+     "evidence": "Reference-documented theme",
+     "source_ids": [
+      "T1"
+     ],
+     "summary": "Shadows on the NÅ and Kabuki stage, women seen in the dark of old houses, moon-viewing customs, and mono no aware - beauty tied to impermanence. The essay closes as 'final grumblings': a melancholy record of traditional Japanese interiors colliding with the dazzling light of the modern age. The 1977 English translation carries a foreword by architect Charles Moore praising its insight into 'the traditional Japanese inhabitation' of the world."
+    }
+   ],
+   "sources": [
+    {
+     "id": "T1",
+     "title": "In Praise of Shadows (Wikipedia)",
+     "url": "https://en.wikipedia.org/wiki/In_Praise_of_Shadows",
+     "type": "reference"
+    },
+    {
+     "id": "T2",
+     "title": "In Praise of Shadows (Tuttle edition)",
+     "url": "https://www.tuttle.co.jp/products/show/isbn:9784805318041/language:en",
+     "type": "publisher"
+    }
+   ]
+  }
  },
  {
   "id": 309,
@@ -8027,7 +8191,47 @@
   "image": "assets/1-56-architecture-theory-books-grid.jpg",
   "themes": [
    "books-reading"
-  ]
+  ],
+  "knowledge": {
+   "scope": "What the book covers, from the publisher's description. Chapter-level structure not verified.",
+   "checked": "2026-11-07",
+   "depth": "Publisher description of the updated centennial edition (D1), made with the Bauhaus-Archiv Berlin.",
+   "limits": "No chapter list verified; contents summarized from the publisher's account only.",
+   "sections": [
+    {
+     "section": "Scope: the school, 1919-1933",
+     "evidence": "Publisher description",
+     "source_ids": [
+      "D1"
+     ],
+     "summary": "A reference history of the Bauhaus across its 14 years and three homes - Weimar, Dessau, Berlin - produced with the Bauhaus-Archiv/Museum fur Gestaltung in Berlin, the largest collection on the school's history. Roughly 550 illustrations over 400 pages: architectural plans, studies, photographs, sketches and models, plus biographies of key figures including Walter Gropius, Paul Klee, Josef Albers, Marianne Brandt, Ludwig Mies van der Rohe, Lilly Reich and Gertrud Grunow."
+    },
+    {
+     "section": "The school's idea",
+     "evidence": "Publisher description",
+     "source_ids": [
+      "D1"
+     ],
+     "summary": "The book records the Bauhaus fusion of fine art, craftsmanship and technology, applied across media from film and theatre to ceramics and industrial objects, under utopian ideas about reshaping modern life. It documents both realized works and the community's daily life - from group gymnastics snapshots to Klee's teaching drawings to Brandt's ashtray - as the pursuit of a 'total' work of art where functional and beautiful coincide."
+    },
+    {
+     "section": "Why it matters for students",
+     "evidence": "Publisher description plus reel context",
+     "source_ids": [
+      "D1"
+     ],
+     "summary": "Framed as a paradigm of art education: an idealistic school whose 14 years defined modernist teaching. The reel recommends it as history rather than theory - how the school balanced individuality with standardisation and function, useful for students who want individuality but need designs that are realistic to build."
+    }
+   ],
+   "sources": [
+    {
+     "id": "D1",
+     "title": "Bauhaus. Updated Edition (Taschen)",
+     "url": "https://www.taschen.com/en/books/architecture-design/43440/bauhaus-updated-edition/",
+     "type": "publisher"
+    }
+   ]
+  }
  },
  {
   "id": 310,
@@ -8051,7 +8255,69 @@
   "image": "assets/1-56-architecture-theory-books-grid.jpg",
   "themes": [
    "books-reading"
-  ]
+  ],
+  "knowledge": {
+   "scope": "What the book argues, from the author's summary, the publisher and an independent review. Not a chapter-by-chapter account.",
+   "checked": "2026-11-07",
+   "depth": "Author and publisher descriptions (S1, S2) plus an independent Urban Design Group review describing the book's arc (S3).",
+   "limits": "Chapter titles are deliberately oblique (per the review); structure described, not enumerated. No direct reading of chapters.",
+   "sections": [
+    {
+     "section": "What is a city",
+     "evidence": "Author, publisher and review",
+     "source_ids": [
+      "S1",
+      "S2",
+      "S3"
+     ],
+     "summary": "Sudjic opens by trying to define the city and finding every metric incomplete - size, administration, statistics, origins, geography, complexity. His range runs from Mumbai, Oxford and Dubai to Silicon Valley, treated as a kind of city; the book asks what makes urban identity (Londoner, Muscovite, Mumbaikar) often stronger than national identity."
+    },
+    {
+     "section": "How to make a city",
+     "evidence": "Review-documented content",
+     "source_ids": [
+      "S3"
+     ],
+     "summary": "Covers the symbolic instruments of city-making: naming and renaming, building and demolishing monuments, branding and advertising a city - then the practical ones: how to populate and develop, with permeability and legibility (navigation) discussed in original terms. Grozny, Istanbul, Moscow, Berlin, Brasilia and Milton Keynes appear as cases."
+    },
+    {
+     "section": "Power, money and ego",
+     "evidence": "Review-documented content; reel's emphasis",
+     "source_ids": [
+      "S3"
+     ],
+     "summary": "Whole sections track specific places and schemes in their political context - Canary Wharf's development and impact, Shanghai's growth from 1990, Moscow under the oligarchs - showing how individual personalities shape their cities, often for the worse. This is the reel's takeaway: cities are shaped more by power, money and ego than by planning."
+    },
+    {
+     "section": "Frame and register",
+     "evidence": "Review-documented context",
+     "source_ids": [
+      "S3"
+     ],
+     "summary": "Written near Siena under the influence of Lorenzetti's Allegory of Good and Bad Government fresco. The reviewer stresses what it is not: not an urban-design handbook with immediate professional application, but a series of reflections - part history, part journalism, part philosophical speculation."
+    }
+   ],
+   "sources": [
+    {
+     "id": "S1",
+     "title": "The Language of Cities (author's site)",
+     "url": "https://www.deyansudjic.com/books/the-language-of-cities",
+     "type": "author-site"
+    },
+    {
+     "id": "S2",
+     "title": "The Language of Cities (Penguin)",
+     "url": "https://www.penguin.co.uk/books/280291/the-language-of-cities-by-sudjic-deyan/9780141980591",
+     "type": "publisher"
+    },
+    {
+     "id": "S3",
+     "title": "The Language of Cities review (Urban Design Group)",
+     "url": "https://www.udg.org.uk/publications/book/language-cities",
+     "type": "review"
+    }
+   ]
+  }
  },
  {
   "id": 311,
@@ -8071,7 +8337,54 @@
   "image": "assets/1-56-architecture-theory-books-grid.jpg",
   "themes": [
    "books-reading"
-  ]
+  ],
+  "knowledge": {
+   "scope": "What the book contains and argues, from the publisher and a detailed reader review quoting the text. Not a complete essay list.",
+   "checked": "2026-11-07",
+   "depth": "Publisher description (M1) plus a reader review quoting passages from the English edition (M2).",
+   "limits": "Individual essay titles not exhaustively verified; the book is a collection, so 'sections' here are its documented themes.",
+   "sections": [
+    {
+     "section": "Form: essays, not a system",
+     "evidence": "Publisher plus reader review",
+     "source_ids": [
+      "M1",
+      "M2"
+     ],
+     "summary": "A collection of short, witty pieces rather than a single argument - the original Italian title Arte come mestiere (1966) is closer to 'art as trade/craft'. Munari moves across lamps, road signs, typography, posters, children's books, advertising, cars and chairs, treating design as an everyday public language."
+    },
+    {
+     "section": "The designer's job",
+     "evidence": "Publisher",
+     "source_ids": [
+      "M1"
+     ],
+     "summary": "Munari - described by Picasso as 'the new Leonardo' - insists design be beautiful, functional and accessible. The designer works for the public: visual, graphic and industrial design shape the objects people use daily, so the job is communication and use, not artistic self-expression. This is the reel's takeaway: design as an everyday way of communicating culture through material."
+    },
+    {
+     "section": "'Fancy Goods': against novelty for its own sake",
+     "evidence": "Reader review quoting the essay",
+     "source_ids": [
+      "M2"
+     ],
+     "summary": "The book's best-known satire tours gift-shop absurdities - a brass boot for umbrellas, a frying-pan clock, scissors like a flamingo, a tureen shaped like soup - form wholly divorced from function. Munari's punchline is a plea for honest objects: 'let's buy a pipe that is really a pipe... a cuplike cup on a table-table near our chairlike chair.' Reference without context is the failure mode he warns against."
+    }
+   ],
+   "sources": [
+    {
+     "id": "M1",
+     "title": "Design as Art (Penguin Modern Classics)",
+     "url": "https://www.penguin.co.uk/books/19371/design-as-art-by-bruno-munari/9780141035819",
+     "type": "publisher"
+    },
+    {
+     "id": "M2",
+     "title": "Design As Art review with quoted passages (atharvaraykar.com)",
+     "url": "https://atharvaraykar.com/design-as-art/",
+     "type": "review"
+    }
+   ]
+  }
  },
  {
   "id": 312,
