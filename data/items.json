@@ -8574,5 +8574,47 @@
  "themes": [
   "design-graphic"
  ]
-}
+},
+ {
+  "id": 321,
+  "reel": "r58",
+  "collection": "claude-frontend-design-tools",
+  "collection_title": "Five free tools that turn Claude into a frontend designer (nateherkai)",
+  "title": "Impeccable - design fluency skill pack for AI harnesses",
+  "kind": "website",
+  "creator": "pbakaus",
+  "note": "Claude Code plugin/skill pack: 'Design fluency for AI harnesses. Great design prompts require design vocabulary... Impeccable gives you commands that put designer language in your hands.' One-command install, 'every provider'. Free and open source. Shown second in the reel; genuinely new to the archive (the reel's other named tools repeat r13 items 94, 96 and 98).",
+  "links": [
+   {
+    "label": "GitHub",
+    "url": "https://github.com/pbakaus/impeccable"
+   }
+  ],
+  "image": "assets/58-claude-frontend-design-tools-recap.jpg",
+  "themes": [
+   "ai-dev-tools",
+   "web-ui-design"
+  ]
+ },
+ {
+  "id": 322,
+  "reel": "r58",
+  "collection": "claude-frontend-design-tools",
+  "collection_title": "Five free tools that turn Claude into a frontend designer (nateherkai)",
+  "title": "img2threejs - reference image to procedural Three.js model",
+  "kind": "website",
+  "creator": "img2threejs",
+  "note": "Rebuilds the object in a reference image as a code-only, procedural Three.js model: 'animation-ready, and deliberately token-efficient - reconstruction-by-code, not photogrammetry, mesh extraction, or downloaded art packs.' Apache-2.0, runtime Three.js, tooling Python 3.10+ stdlib, v1.4.4 at save, sponsored by Atlas Cloud. The reel's recap card styles it 'Image 23.js'; the segment shows the img2threejs GitHub repo. Free and open source.",
+  "links": [
+   {
+    "label": "GitHub",
+    "url": "https://github.com/img2threejs/img2threejs"
+   }
+  ],
+  "image": "assets/58-claude-frontend-design-tools-recap.jpg",
+  "themes": [
+   "ai-dev-tools",
+   "web-ui-design"
+  ]
+ }
 ]
