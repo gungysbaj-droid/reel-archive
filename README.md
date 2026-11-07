@@ -38,5 +38,5 @@ Reels 10-16 were added to this repository only; the hosted gallery was not chang
 
 ## Substantive book notes
 
-Items 38-43 have optional `knowledge` objects mirrored in the menswear markdown: scope, checked date, depth, limits, sections (section, evidence, source_ids, summary) and sources (id, title, url, type). Direct book excerpts, established reviews, lower-confidence reader notes and author-site companion guides remain distinct. Missing chapters are marked. No full text or preview images are stored, and no percentage of knowledge recovered is claimed. `contents` remains the table-of-contents field.
+Items 38-43 and 306-311 have optional `knowledge` objects mirrored in the reel markdown pages: scope, checked date, depth, limits, sections (section, evidence, source_ids, summary) and sources (id, title, url, type). Direct book excerpts, established reviews, lower-confidence reader notes and author-site companion guides remain distinct. Missing chapters are marked. No full text or preview images are stored, and no percentage of knowledge recovered is claimed. `contents` remains the table-of-contents field.
 
