@@ -7,9 +7,9 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Film](#film) | 58 | r02, r05, r14, r16, r28, r31, r38, r40 |
 | [Books & reading](#books-reading) | 70 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49, r56 |
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
-| [Web & UI design](#web-ui-design) | 50 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47 |
+| [Web & UI design](#web-ui-design) | 51 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57 |
 | [AI & dev tools](#ai-dev-tools) | 30 | r13, r17, r20, r37, r43, r44, r45 |
-| [Graphic design & motion](#graphic-design-motion) | 42 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55 |
+| [Graphic design & motion](#graphic-design-motion) | 50 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 17 | r36, r39, r42, r51, r54 |
 | [Games](#games) | 7 | r01, r36 |
@@ -206,7 +206,7 @@ Internet Archive finds, zines, maps, manuals and niche archives. 39 items.
 
 ## Web & UI design
 
-Websites, portfolios, UI libraries, shaders and aesthetic software. 50 items.
+Websites, portfolios, UI libraries, shaders and aesthetic software. 51 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -260,6 +260,7 @@ Websites, portfolios, UI libraries, shaders and aesthetic software. 50 items.
 | 269 | Oddly Made - oddlymade.webflow.io (Webflow template/demo) | website | [r47](reels/47-sites-with-personality.md) | 'A Creative Studio Shaping Distinct Brands And Digital Experiences.' Serif headline with a handwritten 'made' script over a red video panel… | [Site](https://oddlymade.webflow.io/) |
 | 270 | Ancient Artifacts - Readymag exhibition template (Endless Tools) (Readymag / Endless Tools) | website | [r47](reels/47-sites-with-personality.md) | Exhibition landing page with a rotating interactive 3D stone artifact over huge orange 'ANCIENT ARTIFACTS' type, Exhibition / Artist / Gall… | [Readymag template](https://readymag.com/designs/ancientartifacts/) |
 | 271 | yaara i. - Yaara Israeli portfolio (probable) (Yaara Israeli) | website | [r47](reels/47-sites-with-personality.md) | Last site, blurred in the reel: a white page with a vertical 'yaara i.' title and floating image cards. Probably Yaara Israeli's graphic de… | [Site](https://www.yaaraisraeli.com/) |
+| 313 | fonderie.download - experimental type foundry (fonderie.download) | website | [r57](reels/57-fonderie-download-fonts.md) | The reel's "niche site for design inspo": playful font-specimen pages, a fonts-in-use gallery and a… | [Site](https://fonderie.download/) |
 
 ## AI & dev tools
 
@@ -300,7 +301,7 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 30 items.
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 42 items.
+Magazine covers, print design, motion and visual effects. 50 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -346,6 +347,14 @@ Magazine covers, print design, motion and visual effects. 42 items.
 | 296 | @kerolosmechail (SFX artist) | website | [r53](reels/53-time-feels-fast-sayantan-edit.md) | Sound designer credited in the r53 caption; not otherwise verified. | [Instagram](https://www.instagram.com/kerolosmechail/) |
 | 297 | DaVinci Resolve | website | [r53](reels/53-time-feels-fast-sayantan-edit.md) | Named in the caption tags (#davinciresolve) as the edit tool. Free base version; Studio is a paid upgrade. | [Site](https://www.blackmagicdesign.com/products/davinciresolve) |
 | 305 | CRIS WAR (@criswvr) - Synthetic Urban series | website | [r55](reels/55-synthetic-urban-11.md) | Artist behind the 'Synthetic Urban' digital-surveillance animation series; reel is installment 11 (point-cloud figures, binary strings, detection box). | [criswvr.com](https://criswvr.com/) |
+| 313 | fonderie.download - experimental type foundry (fonderie.download) | website | [r57](reels/57-fonderie-download-fonts.md) | French experimental type foundry; all seven fonts free under the WTFPL (commercial use OK),… | [Site](https://fonderie.download/) |
+| 314 | Beast (fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | Serif pixel font with a 5-pixel cap height, rebooted from a forgotten nineties Mega Drive gam… | [Font page](https://fonderie.download/beast.html) |
+| 315 | Crédible (fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | Tall condensed display face with three stylistic sets and ligatures; "for the streets, by the… | [Font page](https://fonderie.download/credible.html) |
+| 316 | Tribalium Neue (fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | Capitals-only tribal/tattoo face "designed to torture your eyes", in Regular and Poster style… | [Font page](https://fonderie.download/tribaliumneue.html) |
+| 317 | 4 Fromages (Francois Elain, lazy dog, fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | Display face made "with 8 hands" at the first Saturday Type Fever marathon (NoFoundry, Karlsr… | [Font page](https://fonderie.download/4fromages.html) |
+| 318 | Garamon(d/t) (Paul Tubert) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | "Hardcore revival of a revival": the 1926 Deberny et Peignot Garamond scanned and smashed int… | [Font page](https://fonderie.download/garamondt.html) |
+| 319 | Quarantype (fonderie.download and contributors) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | Collaborative font designed during the Covid-19 lockdown by dozens of credited contributors; … | [Font page](https://fonderie.download/quarantype.html) |
+| 320 | Zara (fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | "a font designed during a trip", with an interactive try-it tester; visible on the reel's ho… | [Font page](https://fonderie.download/zara.html) |
 
 ## Fashion & style
 
