@@ -1184,5 +1184,23 @@
   "design-graphic",
   "web-ui-design"
  ]
+},
+ {
+ "id": "r58",
+ "slug": "58-claude-frontend-design-tools",
+ "url": "https://www.instagram.com/reel/DdT_OwyFeoj/",
+ "creator": "@nateherkai (Nate Herk)",
+ "title": "Five free tools that turn Claude into a frontend designer",
+ "summary": "Video by Nate Herk (@nateherkai), about 38.6 s, posted 2026-09-15 (18,425 likes at save, from video metadata). Caption: 'Comment 'FRONTEND' and I'll send it over.' Comment-bait format, but no DM needed: all five tools are public, free and open source. The recap card lists Taste, Impeccable, Playwright CLI, Awesome Design and 'Image 23.js' (img2threejs). Three repeat r13 (items 94, 96, 98: taste-skill, Awesome DESIGN.md, Playwright CLI); the two new tools are item 321 (Impeccable, pbakaus/impeccable, design-vocabulary skill pack) and item 322 (img2threejs, img2threejs/img2threejs, Apache-2.0, rebuilds a reference image's object as a procedural Three.js model). On-screen demos: florist and hotel sites, in-browser pick-and-accept review, and a Ducati rebuilt as a 3D model. Two items.",
+ "saved": "2026-11-07",
+ "item_ids": [
+  321,
+  322
+ ],
+ "file": "reels/58-claude-frontend-design-tools.md",
+ "themes": [
+  "ai-dev-tools",
+  "web-ui-design"
+ ]
 }
 ]
