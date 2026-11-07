@@ -5,7 +5,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | Theme | Items | Reels |
 | --- | --- | --- |
 | [Film](#film) | 58 | r02, r05, r14, r16, r28, r31, r38, r40 |
-| [Books & reading](#books-reading) | 64 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49 |
+| [Books & reading](#books-reading) | 70 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49, r56 |
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 50 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47 |
 | [AI & dev tools](#ai-dev-tools) | 30 | r13, r17, r20, r37, r43, r44, r45 |
@@ -14,7 +14,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Music](#music) | 17 | r36, r39, r42, r51, r54 |
 | [Games](#games) | 7 | r01, r36 |
 | [Ideas & essays](#ideas-essays) | 49 | r08, r11, r21, r23, r32, r35, r48, r49, r50 |
-| [Places](#places) | 35 | r26, r33, r54 |
+| [Places](#places) | 36 | r26, r33, r54, r56 |
 
 ## Film
 
@@ -83,7 +83,7 @@ Films and film analysis saved from reels. 58 items.
 
 ## Books & reading
 
-Books, reading lists and curricula. 64 items.
+Books, reading lists and curricula. 70 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -151,6 +151,12 @@ Books, reading lists and curricula. 64 items.
 | 284 | Ludwig Wittgenstein, Tractatus Logico-Philosophicus | book | [r49](reels/49-signs-and-things-reading-list.md) | On screen: proposition 6.522 (trans. Pears & McGuinness), 'There are, indeed, things that cannot be put into words. They make themselves man… | [Original post](https://www.instagram.com/p/DfAzbT-SpDe/) · [Amazon Japan: Tractatus Logico-Philosophicus (Routledge Classics, Pears & McGuinness translation shown on screen)](https://www.amazon.co.jp/dp/0415255627) · [Project Gutenberg #5740 (free, but the older Ogden translation, wording differs)](https://www.gutenberg.org/ebooks/5740) |
 | 285 | Kurt Godel, On Formally Undecidable Propositions of Principia Mathematica and Related Systems | book | [r49](reels/49-signs-and-things-reading-list.md) | On screen: p. 38 (trans. Meltzer, 1962), the passage on simple problems in the theory of whole numbers that cannot be decided from the axiom… | [Original post](https://www.instagram.com/p/DfAzbT-SpDe/) · [Amazon Japan: On Formally Undecidable Propositions (Dover, trans. B. Meltzer, 1962)](https://www.amazon.co.jp/dp/0486669807) · [Dover store page](https://store.doverpublications.com/products/9780486669809) |
 | 286 | Jacques Derrida, Structure, Sign and Play in the Discourse of the Human Sciences (Writing and Difference) | book | [r49](reels/49-signs-and-things-reading-list.md) | On screen: p. 280 (1966), the transcendental signified never absolutely present outside a system of differences, so the 'play of significati… | [Original post](https://www.instagram.com/p/DfAzbT-SpDe/) · [Amazon Japan: Writing and Difference (Routledge Classics)](https://www.amazon.co.jp/dp/0415255376) · [University of Chicago Press page (trans. Alan Bass)](https://press.uchicago.edu/ucp/books/book/chicago/W/bo27619783.html) |
+| 306 | Ornament and Crime (1908) (Adolf Loos) | book | [r56](reels/56-architecture-theory-books.md) | Book 1 of 6 in the reel. Loos argues that decoration wastes labour and marks a culture as behind its time; short, and explains modernism in a grounded way. | [Wikipedia](https://en.wikipedia.org/wiki/Ornament_and_Crime) |
+| 307 | Ways of Seeing (1972) (John Berger) | book | [r56](reels/56-architecture-theory-books.md) | Book 2 of 6. Based on the BBC series; how framing, reproduction, status and social power change what a design or image appears to say. | [Penguin](https://www.penguin.co.uk/books/56465/ways-of-seeing-by-berger-john/9780141035796) |
+| 308 | In Praise of Shadows (1933) (Jun'ichiro Tanizaki) | book | [r56](reels/56-architecture-theory-books.md) | Book 3 of 6. Traditional Japanese aesthetics (light, shade, material) as a lens on designers' own inhibitions. Also item 63 (r10). | [Wikipedia](https://en.wikipedia.org/wiki/In_Praise_of_Shadows) |
+| 309 | Bauhaus (1990) (Magdalena Droste) | book | [r56](reels/56-architecture-theory-books.md) | Book 4 of 6. Taschen's Bauhaus history; how the school balanced individuality with standardisation and function. | [Taschen](https://www.taschen.com/en/books/architecture-design/43440/bauhaus-updated-edition/) |
+| 310 | The Language of Cities (2016) (Deyan Sudjic) | book | [r56](reels/56-architecture-theory-books.md) | Book 5 of 6. Cities shaped more by power, money and ego than by planning; useful for master planning. | [Penguin](https://www.penguin.co.uk/books/280291/the-language-of-cities-by-sudjic-deyan/9780141980591) |
+| 311 | Design as Art (1966) (Bruno Munari) | book | [r56](reels/56-architecture-theory-books.md) | Book 6 of 6. Design from the art world: an everyday way of communicating culture through material. | [Penguin](https://www.penguin.co.uk/books/19371/design-as-art-by-bruno-munari/9780141035819) |
 
 ## Archives & collections
 
@@ -484,7 +490,7 @@ Essays, lessons and big-picture topics. 49 items.
 
 ## Places
 
-Physical places worth visiting. 35 items.
+Physical places worth visiting. 36 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -523,3 +529,4 @@ Physical places worth visiting. 35 items.
 | 216 | Ven. Space | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ven.space/) |
 | 217 | Atelier New York | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ateliernewyork.com/) |
 | 303 | High Tide (DTLA venue) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Los Angeles venue hosting the event (kind set to website because the archive vocabulary has no place kind). | [hightidedtla.com](https://hightidedtla.com/) |
+| 312 | Metropolis Bookshop (Melbourne) (Metropolis Bookshop) | website | [r56](reels/56-architecture-theory-books.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). The reel's caption says most, if not all, of the six books came from this architecture/design bookshop (Curtin House, Melbourne). | [Metropolis Bookshop](https://metropolisbookshop.com.au/pages/1354-aboutus) |
