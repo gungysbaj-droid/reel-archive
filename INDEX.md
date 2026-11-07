@@ -60,3 +60,4 @@ Browse by theme: [THEMES.md](THEMES.md). Per-reel pages below are the canonical 
 | r53 | @sayantan_visuals | Time feels this fast edit (second take on the same concept; SFX by @kerolosmechail, made in DaVinci Resolve) | 295-297 | [reels/53-time-feels-fast-sayantan-edit.md](reels/53-time-feels-fast-sayantan-edit.md) |
 | r54 | @alessowiththei | 2N1T3 Casual Halloween promo (ALESSIO gig at High Tide DTLA with Casual Affairs, French For Drugs, WRCLW, Glitter Beach) | 298-304 | [reels/54-casual-halloween-2n1t3.md](reels/54-casual-halloween-2n1t3.md) |
 | r55 | @criswvr | Synthetic Urban 11 (digital-surveillance point-cloud animation series) | 305 | [reels/55-synthetic-urban-11.md](reels/55-synthetic-urban-11.md) |
+| r56 | @matthewarchitect | Ungatekeeping: six architectural theory books, Part 1 (Loos, Berger, Tanizaki, Droste, Sudjic, Munari) + Metropolis Bookshop Melbourne | 306-312 | [reels/56-architecture-theory-books.md](reels/56-architecture-theory-books.md) |
