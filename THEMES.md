@@ -9,7 +9,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 53 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58 |
 | [AI & dev tools](#ai-dev-tools) | 32 | r13, r17, r20, r37, r43, r44, r45, r58 |
-| [Graphic design & motion](#graphic-design-motion) | 50 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57 |
+| [Graphic design & motion](#graphic-design-motion) | 53 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 17 | r36, r39, r42, r51, r54 |
 | [Games](#games) | 7 | r01, r36 |
@@ -305,7 +305,7 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 32 items.
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 50 items.
+Magazine covers, print design, motion and visual effects. 53 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -358,7 +358,10 @@ Magazine covers, print design, motion and visual effects. 50 items.
 | 317 | 4 Fromages (Francois Elain, lazy dog, fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | Display face made "with 8 hands" at the first Saturday Type Fever marathon (NoFoundry, Karlsr… | [Font page](https://fonderie.download/4fromages.html) |
 | 318 | Garamon(d/t) (Paul Tubert) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | "Hardcore revival of a revival": the 1926 Deberny et Peignot Garamond scanned and smashed int… | [Font page](https://fonderie.download/garamondt.html) |
 | 319 | Quarantype (fonderie.download and contributors) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | Collaborative font designed during the Covid-19 lockdown by dozens of credited contributors; … | [Font page](https://fonderie.download/quarantype.html) |
-| 320 | Zara (fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | "a font designed during a trip", with an interactive try-it tester; visible on the reel's ho… | [Font page](https://fonderie.download/zara.html) |
+| 320 | Zara (fonderie.download) | archive-item | [r57](reels/57-fonderie-download-fonts.md) | "a font designed during a trip", with an interactive try-it tester; visible on the reel's ho… | [Font](https://fonderie.download/zara.html) |
+| 323 | Steal Like An Editor Ep 3 - five-layer "real print" recipe (@thebrandonc_ (Brandon Carpenter)) | lesson | [r59](reels/59-steal-like-an-editor-ep3.md) | Magazine/newspaper pages for depth, grain + scratches, subtle chromatic aberration, hand-drawn red circles/underlines, lowered frame rate. Standard editor tooling, no paid pack named. | [Reel](https://www.instagram.com/reel/DeFb3XytnDF/) |
+| 324 | 1967 Ford Mustang GT magazine ad ("The Original Is Still The Greatest") | archive-item | [r59](reels/59-steal-like-an-editor-ep3.md) | The reel's demo graphic: 1967 ad quoting chief tester Martyn L. Schorr after a 6-month, 5,000-mile stint in a '67 Mustang GT fastback. | [Shown in the reel](https://www.instagram.com/reel/DeFb3XytnDF/) |
+| 325 | North-Carolina Gazette 1841 "O.K." poem clipping | archive-item | [r59](reels/59-steal-like-an-editor-ep3.md) | Opening collage image: the March 16, 1841 poem ending "Oll Korrect ... Oll Kaput!", an early printed use of "O.K."; with Daily Picayune and Free Trader clippings. | [Shown in the reel](https://www.instagram.com/reel/DeFb3XytnDF/) |ml) |
 
 ## Fashion & style
 
