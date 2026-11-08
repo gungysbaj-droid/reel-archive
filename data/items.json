@@ -8617,4 +8617,65 @@
    "web-ui-design"
   ]
  }
+,
+{
+ "id": 323,
+ "reel": "r59",
+ "collection": "steal-like-an-editor-ep3",
+ "collection_title": "Steal Like An Editor Ep 3: five techniques to make graphics feel real (thebrandonc_)",
+ "title": "Steal Like An Editor Ep 3 - five-layer 'real print' recipe",
+ "kind": "lesson",
+ "creator": "@thebrandonc_ (Brandon Carpenter)",
+ "note": "Episode 3 of the 'Steal Like An Editor' whiteboard series. Five layers that make digital graphics read as physical print: (1) real magazine/newspaper pages for depth, (2) grain + scratches texture, (3) subtle chromatic aberration (Quick Chromatic Aberration 3 effect panel shown), (4) hand-drawn red circles/underlines, (5) lowered, imperfect frame rate. Standard editor tooling (After Effects on screen); no paid pack named.",
+ "links": [
+  {
+   "label": "Instagram reel",
+   "url": "https://www.instagram.com/reel/DeFb3XytnDF/"
+  }
+ ],
+ "image": "assets/2-59-steal-like-an-editor-ep3-1-add-depth.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+{
+ "id": 324,
+ "reel": "r59",
+ "collection": "steal-like-an-editor-ep3",
+ "collection_title": "Steal Like An Editor Ep 3: five techniques to make graphics feel real (thebrandonc_)",
+ "title": "1967 Ford Mustang GT magazine ad ('The Original Is Still The Greatest')",
+ "kind": "archive-item",
+ "creator": "Ford (ad quoting chief tester Martyn L. Schorr)",
+ "note": "The reel's demo material: a 1967 magazine ad quoting chief tester Martyn L. Schorr after a 6-month, 5,000-mile stint in a '67 Mustang GT fastback. Receives all five treatments on screen.",
+ "links": [
+  {
+   "label": "Shown in the reel",
+   "url": "https://www.instagram.com/reel/DeFb3XytnDF/"
+  }
+ ],
+ "image": "assets/3-59-steal-like-an-editor-ep3-2-texture.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+},
+{
+ "id": 325,
+ "reel": "r59",
+ "collection": "steal-like-an-editor-ep3",
+ "collection_title": "Steal Like An Editor Ep 3: five techniques to make graphics feel real (thebrandonc_)",
+ "title": "North-Carolina Gazette 1841 'O.K.' poem clipping",
+ "kind": "archive-item",
+ "creator": "North-Carolina Gazette (March 16, 1841)",
+ "note": "The opening collage image: the March 16, 1841 North-Carolina Gazette poem ending 'The one it seems meant Oll Korrect, The other, Oll Kaput!' - one of the earliest printed uses of 'O.K.' Shown with Daily Picayune and Free Trader clippings as the 'real print' texture reference.",
+ "links": [
+  {
+   "label": "Shown in the reel",
+   "url": "https://www.instagram.com/reel/DeFb3XytnDF/"
+  }
+ ],
+ "image": "assets/1-59-steal-like-an-editor-ep3-cover.jpg",
+ "themes": [
+  "design-graphic"
+ ]
+}
 ]
