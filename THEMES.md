@@ -7,9 +7,9 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Film](#film) | 58 | r02, r05, r14, r16, r28, r31, r38, r40 |
 | [Books & reading](#books-reading) | 70 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49, r56 |
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
-| [Web & UI design](#web-ui-design) | 54 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58, r60 |
+| [Web & UI design](#web-ui-design) | 55 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58, r60, r61 |
 | [AI & dev tools](#ai-dev-tools) | 32 | r13, r17, r20, r37, r43, r44, r45, r58 |
-| [Graphic design & motion](#graphic-design-motion) | 54 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60 |
+| [Graphic design & motion](#graphic-design-motion) | 55 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 17 | r36, r39, r42, r51, r54 |
 | [Games](#games) | 7 | r01, r36 |
@@ -206,7 +206,7 @@ Internet Archive finds, zines, maps, manuals and niche archives. 39 items.
 
 ## Web & UI design
 
-Websites, portfolios, UI libraries, shaders and aesthetic software. 54 items.
+Websites, portfolios, UI libraries, shaders and aesthetic software. 55 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -303,10 +303,11 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 32 items.
 | 321 | Impeccable - design fluency skill pack (pbakaus) | website | [r58](reels/58-claude-frontend-design-tools.md) | Claude Code skill pack: commands that put designer language (vertical rhythm, type colour) into prompts… | [GitHub](https://github.com/pbakaus/impeccable) |
 | 322 | img2threejs - reference image to Three.js model (img2threejs) | website | [r58](reels/58-claude-frontend-design-tools.md) | Apache-2.0 tool that rebuilds an object from a reference image as a code-only, procedural Three.js model; the reel… | [GitHub](https://github.com/img2threejs/img2threejs) |
 | 326 | Ten textures that keep design from feeling flat - checklist (@lnunesdesigns) | lesson | [r60](reels/60-design-feel-less-flat.md) | Ten-second countdown of ten surface treatments: thermal gradients, blueprint grids, water ripples, speckled graphite, fluted glass, contour lines, grainy gradients, single-hued landscapes, grass texture, soft shadows. Unattributed example shots; no paid pack named. | [Instagram](https://www.instagram.com/reel/DfiPWcGRFfc/) |
+| 327 | ASCII Magic - free in-browser shader editor for images and videos (@timhosqo) | website | [r61](reels/61-ascii-magic-shader-editor.md) | ascii-magic.com: upload an image or video, apply animated ASCII/pixel/glitch shaders, tune per-shader settings, export. Free per site and reel. | [ASCII Magic](https://ascii-magic.com) |
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 54 items.
+Magazine covers, print design, motion and visual effects. 55 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -364,6 +365,7 @@ Magazine covers, print design, motion and visual effects. 54 items.
 | 324 | 1967 Ford Mustang GT magazine ad ("The Original Is Still The Greatest") | archive-item | [r59](reels/59-steal-like-an-editor-ep3.md) | The reel's demo graphic: 1967 ad quoting chief tester Martyn L. Schorr after a 6-month, 5,000-mile stint in a '67 Mustang GT fastback. | [Shown in the reel](https://www.instagram.com/reel/DeFb3XytnDF/) |
 | 325 | North-Carolina Gazette 1841 "O.K." poem clipping | archive-item | [r59](reels/59-steal-like-an-editor-ep3.md) | Opening collage image: the March 16, 1841 poem ending "Oll Korrect ... Oll Kaput!", an early printed use of "O.K."; with Daily Picayune and Free Trader clippings. | [Shown in the reel](https://www.instagram.com/reel/DeFb3XytnDF/) |ml) |
 | 326 | Ten textures that keep design from feeling flat - checklist (@lnunesdesigns) | lesson | [r60](reels/60-design-feel-less-flat.md) | Ten-second countdown of ten surface treatments: thermal gradients, blueprint grids, water ripples, speckled graphite, fluted glass, contour lines, grainy gradients, single-hued landscapes, grass texture, soft shadows. Unattributed example shots; no paid pack named. | [Instagram](https://www.instagram.com/reel/DfiPWcGRFfc/) |
+| 327 | ASCII Magic - free in-browser shader editor for images and videos (@timhosqo) | website | [r61](reels/61-ascii-magic-shader-editor.md) | ascii-magic.com: upload an image or video, apply animated ASCII/pixel/glitch shaders, tune per-shader settings, export. Free per site and reel. | [ASCII Magic](https://ascii-magic.com) |
 
 ## Fashion & style
 
