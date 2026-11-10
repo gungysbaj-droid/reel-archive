@@ -45,7 +45,7 @@
   "url": "https://www.instagram.com/reel/Dd5SSEfPRUT/",
   "creator": "Max | Cinema (@_maxonfilm)",
   "title": "Three films to watch alone late at night",
-  "summary": "Fallen Angels, Le Samouraï, Blow Out. Years, directors, actors, plots checked against Criterion. Links are reference pages, not streaming availability in Japan.",
+  "summary": "Fallen Angels, Le Samoura\u00ef, Blow Out. Years, directors, actors, plots checked against Criterion. Links are reference pages, not streaming availability in Japan.",
   "saved": "2026-10-11",
   "item_ids": [
    25,
@@ -133,7 +133,7 @@
   "id": "r06",
   "slug": "06-suit-shoulders",
   "url": "https://www.instagram.com/reel/Dc_ibD6x6aw/",
-  "creator": "@classic_nonchalance (Cléa C.)",
+  "creator": "@classic_nonchalance (Cl\u00e9a C.)",
   "title": "How to tell suit shoulders apart",
   "summary": "2:24 explainer, Episode 9 of a 48-lesson tailoring series.",
   "saved": "2026-10-11",
@@ -150,7 +150,7 @@
   "slug": "07-french-lit-celine",
   "url": "https://www.instagram.com/reel/DdnbeoaqKwF/",
   "creator": "@chrystalcanread (Chrystal)",
-  "title": "Two books by Louis-Ferdinand Céline",
+  "title": "Two books by Louis-Ferdinand C\u00e9line",
   "summary": "\"Beautiful books written by disgusting authors\". Reel calls it 19th century French lit, but both books are 1930s. Quote \"I'm not a man of ideas, I'm a man of style\" is from reel captions, unchecked.",
   "saved": "2026-10-11",
   "item_ids": [
@@ -304,7 +304,7 @@
   "url": "https://www.instagram.com/reel/Ddh1mq-qeDp/",
   "creator": "Film School Dropouts (@filmschool.dropouts)",
   "title": "Persona's two-faces shot and its echoes",
-  "summary": "Film School Dropouts asks \"What's the best use of this shot?\" about Bergman's Persona (1966) and its two-faces composition: Bibi Andersson and Liv Ullmann overlapped into a single face. The caption (posted 2026-09-20) says the shot has been echoed from La Pointe Courte to Ghost in the Shell, and that David Lynch (Mulholland Drive) and Céline Sciamma (Portrait of a Lady on Fire) cite the film. The reel names no resources, so the archive adds the films with verified pages, plus Criterion's essay on Persona. Film-influence claims are the creator's; links checked 2026-10-11.",
+  "summary": "Film School Dropouts asks \"What's the best use of this shot?\" about Bergman's Persona (1966) and its two-faces composition: Bibi Andersson and Liv Ullmann overlapped into a single face. The caption (posted 2026-09-20) says the shot has been echoed from La Pointe Courte to Ghost in the Shell, and that David Lynch (Mulholland Drive) and C\u00e9line Sciamma (Portrait of a Lady on Fire) cite the film. The reel names no resources, so the archive adds the films with verified pages, plus Criterion's essay on Persona. Film-influence claims are the creator's; links checked 2026-10-11.",
   "saved": "2026-10-11",
   "item_ids": [
    99,
@@ -401,7 +401,7 @@
   "url": "https://www.instagram.com/reel/Dd9914kS7dF/",
   "creator": "@kinsekyeong",
   "title": "Disco Elysium-style digital painting process",
-  "summary": "@kinsekyeong demonstrates a digital portrait-painting process. On-screen title: \"Kind of Disco Elysium Technique\"; Korean caption: \"55분 디지털페인팅\" (55-minute digital painting). The approximately 30-second time-lapse shows loose sketch lines, bright colour blocks, broken textured strokes and a finished grey-haired, moustached portrait. No named brushes, tutorial, book or downloadable resource appears. Process observations are recorded without inventing resource items.",
+  "summary": "@kinsekyeong demonstrates a digital portrait-painting process. On-screen title: \"Kind of Disco Elysium Technique\"; Korean caption: \"55\ubd84 \ub514\uc9c0\ud138\ud398\uc778\ud305\" (55-minute digital painting). The approximately 30-second time-lapse shows loose sketch lines, bright colour blocks, broken textured strokes and a finished grey-haired, moustached portrait. No named brushes, tutorial, book or downloadable resource appears. Process observations are recorded without inventing resource items.",
   "saved": "2026-10-11",
   "item_ids": [],
   "file": "reels/19-disco-elysium-painting.md",
@@ -1162,81 +1162,97 @@
   ]
  },
  {
- "id": "r57",
- "slug": "57-fonderie-download-fonts",
- "url": "https://www.instagram.com/reel/DfAHXhZRW5O/",
- "creator": "@mightbemaxi (Maxine)",
- "title": "Free fonts pt 4: an experimental foundry where everything is free (fonderie.download)",
- "summary": "Video by Maxine (@mightbemaxi), about 16 s, posted 2026-10-27 (4,187 likes at save). Caption: 'tbh their site is so cool u should check it out even if u dont need a font rn. comment \"fonts\" & ill send it to u!' Comment-bait format, but no DM needed: the resource is the public site fonderie.download, a French experimental type foundry. All seven fonts (Beast, Crédible, Tribalium Neue, 4 Fromages, Garamon(d/t), Quarantype, Zara) are free under the WTFPL, commercial use included. On screen she scrolls the homepage specimens, the Crédible and Beast font pages, both Tribalium styles and the 'fonts in use' gallery. Part 4 of her 'free fonts' series; parts 1-3 not extracted. Word-by-word on-screen captions only; voiceover not fully transcribed. Eight items.",
- "saved": "2026-11-07",
- "item_ids": [
-  313,
-  314,
-  315,
-  316,
-  317,
-  318,
-  319,
-  320
- ],
- "file": "reels/57-fonderie-download-fonts.md",
- "themes": [
-  "design-graphic",
-  "web-ui-design"
- ]
-},
+  "id": "r57",
+  "slug": "57-fonderie-download-fonts",
+  "url": "https://www.instagram.com/reel/DfAHXhZRW5O/",
+  "creator": "@mightbemaxi (Maxine)",
+  "title": "Free fonts pt 4: an experimental foundry where everything is free (fonderie.download)",
+  "summary": "Video by Maxine (@mightbemaxi), about 16 s, posted 2026-10-27 (4,187 likes at save). Caption: 'tbh their site is so cool u should check it out even if u dont need a font rn. comment \"fonts\" & ill send it to u!' Comment-bait format, but no DM needed: the resource is the public site fonderie.download, a French experimental type foundry. All seven fonts (Beast, Cr\u00e9dible, Tribalium Neue, 4 Fromages, Garamon(d/t), Quarantype, Zara) are free under the WTFPL, commercial use included. On screen she scrolls the homepage specimens, the Cr\u00e9dible and Beast font pages, both Tribalium styles and the 'fonts in use' gallery. Part 4 of her 'free fonts' series; parts 1-3 not extracted. Word-by-word on-screen captions only; voiceover not fully transcribed. Eight items.",
+  "saved": "2026-11-07",
+  "item_ids": [
+   313,
+   314,
+   315,
+   316,
+   317,
+   318,
+   319,
+   320
+  ],
+  "file": "reels/57-fonderie-download-fonts.md",
+  "themes": [
+   "design-graphic",
+   "web-ui-design"
+  ]
+ },
  {
- "id": "r58",
- "slug": "58-claude-frontend-design-tools",
- "url": "https://www.instagram.com/reel/DdT_OwyFeoj/",
- "creator": "@nateherkai (Nate Herk)",
- "title": "Five free tools that turn Claude into a frontend designer",
- "summary": "Video by Nate Herk (@nateherkai), about 38.6 s, posted 2026-09-15 (18,425 likes at save, from video metadata). Caption: 'Comment 'FRONTEND' and I'll send it over.' Comment-bait format, but no DM needed: all five tools are public, free and open source. The recap card lists Taste, Impeccable, Playwright CLI, Awesome Design and 'Image 23.js' (img2threejs). Three repeat r13 (items 94, 96, 98: taste-skill, Awesome DESIGN.md, Playwright CLI); the two new tools are item 321 (Impeccable, pbakaus/impeccable, design-vocabulary skill pack) and item 322 (img2threejs, img2threejs/img2threejs, Apache-2.0, rebuilds a reference image's object as a procedural Three.js model). On-screen demos: florist and hotel sites, in-browser pick-and-accept review, and a Ducati rebuilt as a 3D model. Two items.",
- "saved": "2026-11-07",
- "item_ids": [
-  321,
-  322
- ],
- "file": "reels/58-claude-frontend-design-tools.md",
- "themes": [
-  "ai-dev-tools",
-  "web-ui-design"
- ]
-}
-,
-{
- "id": "r59",
- "slug": "59-steal-like-an-editor-ep3",
- "url": "https://www.instagram.com/reel/DeFb3XytnDF/",
- "creator": "@thebrandonc_ (Brandon Carpenter)",
- "title": "Steal Like An Editor Ep 3: five techniques to make graphics feel real",
- "summary": "Video by Brandon Carpenter (@thebrandonc_), about 66 s, posted 2026-10-04 (2,669 likes at save). Caption: 'steal this from your favorite creators👀 #videoeditor #contentcreator'. Episode 3 of his whiteboard series 'Steal Like An Editor' ('MAKE GRAPHICS FEEL REAL'), demoing on a 1967 Mustang GT magazine ad with collaged 1841 newspaper clippings (North-Carolina Gazette 'O.K.' poem, Daily Picayune, Free Trader). Five techniques: 1. Add depth (magazine pages), 2. Texture (grain, scratches, aberration), 3. Chromatic Aberration, 4. Shapes (hand-drawn red circles/underlines), 5. Frame Rate (lowered, imperfect). Word-by-word on-screen captions only; voiceover not fully transcribed. Three items.",
- "saved": "2026-11-08",
- "item_ids": [
-  323,
-  324,
-  325
- ],
- "file": "reels/59-steal-like-an-editor-ep3.md",
- "themes": [
-  "design-graphic"
- ]
-},
-{
- "id": "r60",
- "slug": "60-design-feel-less-flat",
- "url": "https://www.instagram.com/reel/DfiPWcGRFfc/",
- "creator": "@lnunesdesigns (Nunes)",
- "title": "How to make your design feel less flat in under 10 seconds: ten texture techniques",
- "summary": "Video by Nunes (@lnunesdesigns), exactly 10 s, posted 2026-11-09 (120 likes at save). Caption: 'Use these to make your project feel less flat #business #agency #design #entrepreneur'. A countdown list of ten textures/treatments that keep web and brand design from reading flat: 1. Thermal Gradients, 2. Blueprint Grids, 3. Water Ripples, 4. Speckled Graphite, 5. Fluted Glass, 6. Contour Lines, 7. Grainy Gradient, 8. Single-Hued Landscapes, 9. Grass Texture, 10. Soft Shadow - each with unattributed example design shots. Voiceover fully transcribed. One item.",
- "saved": "2026-11-10",
- "item_ids": [
-  326
- ],
- "file": "reels/60-design-feel-less-flat.md",
- "themes": [
-  "web-ui-design",
-  "design-graphic"
- ]
-}
+  "id": "r58",
+  "slug": "58-claude-frontend-design-tools",
+  "url": "https://www.instagram.com/reel/DdT_OwyFeoj/",
+  "creator": "@nateherkai (Nate Herk)",
+  "title": "Five free tools that turn Claude into a frontend designer",
+  "summary": "Video by Nate Herk (@nateherkai), about 38.6 s, posted 2026-09-15 (18,425 likes at save, from video metadata). Caption: 'Comment 'FRONTEND' and I'll send it over.' Comment-bait format, but no DM needed: all five tools are public, free and open source. The recap card lists Taste, Impeccable, Playwright CLI, Awesome Design and 'Image 23.js' (img2threejs). Three repeat r13 (items 94, 96, 98: taste-skill, Awesome DESIGN.md, Playwright CLI); the two new tools are item 321 (Impeccable, pbakaus/impeccable, design-vocabulary skill pack) and item 322 (img2threejs, img2threejs/img2threejs, Apache-2.0, rebuilds a reference image's object as a procedural Three.js model). On-screen demos: florist and hotel sites, in-browser pick-and-accept review, and a Ducati rebuilt as a 3D model. Two items.",
+  "saved": "2026-11-07",
+  "item_ids": [
+   321,
+   322
+  ],
+  "file": "reels/58-claude-frontend-design-tools.md",
+  "themes": [
+   "ai-dev-tools",
+   "web-ui-design"
+  ]
+ },
+ {
+  "id": "r59",
+  "slug": "59-steal-like-an-editor-ep3",
+  "url": "https://www.instagram.com/reel/DeFb3XytnDF/",
+  "creator": "@thebrandonc_ (Brandon Carpenter)",
+  "title": "Steal Like An Editor Ep 3: five techniques to make graphics feel real",
+  "summary": "Video by Brandon Carpenter (@thebrandonc_), about 66 s, posted 2026-10-04 (2,669 likes at save). Caption: 'steal this from your favorite creators\ud83d\udc40 #videoeditor #contentcreator'. Episode 3 of his whiteboard series 'Steal Like An Editor' ('MAKE GRAPHICS FEEL REAL'), demoing on a 1967 Mustang GT magazine ad with collaged 1841 newspaper clippings (North-Carolina Gazette 'O.K.' poem, Daily Picayune, Free Trader). Five techniques: 1. Add depth (magazine pages), 2. Texture (grain, scratches, aberration), 3. Chromatic Aberration, 4. Shapes (hand-drawn red circles/underlines), 5. Frame Rate (lowered, imperfect). Word-by-word on-screen captions only; voiceover not fully transcribed. Three items.",
+  "saved": "2026-11-08",
+  "item_ids": [
+   323,
+   324,
+   325
+  ],
+  "file": "reels/59-steal-like-an-editor-ep3.md",
+  "themes": [
+   "design-graphic"
+  ]
+ },
+ {
+  "id": "r60",
+  "slug": "60-design-feel-less-flat",
+  "url": "https://www.instagram.com/reel/DfiPWcGRFfc/",
+  "creator": "@lnunesdesigns (Nunes)",
+  "title": "How to make your design feel less flat in under 10 seconds: ten texture techniques",
+  "summary": "Video by Nunes (@lnunesdesigns), exactly 10 s, posted 2026-11-09 (120 likes at save). Caption: 'Use these to make your project feel less flat #business #agency #design #entrepreneur'. A countdown list of ten textures/treatments that keep web and brand design from reading flat: 1. Thermal Gradients, 2. Blueprint Grids, 3. Water Ripples, 4. Speckled Graphite, 5. Fluted Glass, 6. Contour Lines, 7. Grainy Gradient, 8. Single-Hued Landscapes, 9. Grass Texture, 10. Soft Shadow - each with unattributed example design shots. Voiceover fully transcribed. One item.",
+  "saved": "2026-11-10",
+  "item_ids": [
+   326
+  ],
+  "file": "reels/60-design-feel-less-flat.md",
+  "themes": [
+   "web-ui-design",
+   "design-graphic"
+  ]
+ },
+ {
+  "id": "r61",
+  "slug": "61-ascii-magic-shader-editor",
+  "url": "https://www.instagram.com/reel/Dfj6-Q0zGf3/",
+  "creator": "@timhosqo (Tim Wingert)",
+  "title": "ASCII Magic: a free shader editor for images and videos",
+  "summary": "Video by Tim Wingert (@timhosqo), 22.5 s, posted 2026-11-10 (339 likes at save). Caption: 'I found my favorite shader editor for my images and videos! You can customize and animate them! #graphicdesign #designtools #uiuxdesigner #graphicdesigner #designtips'. Demo of ascii-magic.com (ASCII Magic - Free ASCII Art Generator, Image & Video to ASCII): upload an image or video, apply animated shaders (ASCII grid, hexagonal glass, RGB-glitch fragments), fine-tune per-shader settings, export. Toolbar shown: Upload, Inspire, Restyle, Shuffle, Library, Visualize, Export. Free per site and reel. Voiceover fully transcribed. One item.",
+  "saved": "2026-11-11",
+  "item_ids": [
+   327
+  ],
+  "file": "reels/61-ascii-magic-shader-editor.md",
+  "themes": [
+   "web-ui-design",
+   "design-graphic"
+  ]
+ }
 ]
