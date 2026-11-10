@@ -8698,5 +8698,11 @@
   "web-ui-design",
   "design-graphic"
  ]
-}
+},
+  {
+     "id": 327,
+     "reel": "r61",
+     "collection": "ascii-magic-shader-editor",
+     "collection_title": "ASCII Magic, a free shader editor for images and videos (timhosqo)",
+     "title": "ASCII Magic - free in-browser shader editor for images and videos", "kind": "website", "creator": "@timhosqo (Tim Wingert)", "note": "ascii-magic.com: upload an image or video, apply animated ASCII/pixel/hexagon/glitch shaders, tune per-shader settings, export the result. Toolbar: Upload, Inspire, Restyle, Shuffle, Library, Visualize, Export. Free per the site and the reel; runs in the browser on your own uploads, no code or plugin.", "links": [ {"label": "ASCII Magic", "url": "https://ascii-magic.com"}, {"label": "Instagram reel", "url": "https://www.instagram.com/reel/Dfj6-Q0zGf3/"} ], "image": "assets/2-2-61-ascii-magic-toolbar.jpg", "themes": [ "web-ui-design", "design-graphic" ] }
 ]
