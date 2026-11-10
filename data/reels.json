@@ -1221,5 +1221,22 @@
  "themes": [
   "design-graphic"
  ]
+},
+{
+ "id": "r60",
+ "slug": "60-design-feel-less-flat",
+ "url": "https://www.instagram.com/reel/DfiPWcGRFfc/",
+ "creator": "@lnunesdesigns (Nunes)",
+ "title": "How to make your design feel less flat in under 10 seconds: ten texture techniques",
+ "summary": "Video by Nunes (@lnunesdesigns), exactly 10 s, posted 2026-11-09 (120 likes at save). Caption: 'Use these to make your project feel less flat #business #agency #design #entrepreneur'. A countdown list of ten textures/treatments that keep web and brand design from reading flat: 1. Thermal Gradients, 2. Blueprint Grids, 3. Water Ripples, 4. Speckled Graphite, 5. Fluted Glass, 6. Contour Lines, 7. Grainy Gradient, 8. Single-Hued Landscapes, 9. Grass Texture, 10. Soft Shadow - each with unattributed example design shots. Voiceover fully transcribed. One item.",
+ "saved": "2026-11-10",
+ "item_ids": [
+  326
+ ],
+ "file": "reels/60-design-feel-less-flat.md",
+ "themes": [
+  "web-ui-design",
+  "design-graphic"
+ ]
 }
 ]
