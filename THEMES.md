@@ -5,15 +5,15 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | Theme | Items | Reels |
 | --- | --- | --- |
 | [Film](#film) | 58 | r02, r05, r14, r16, r28, r31, r38, r40 |
-| [Books & reading](#books-reading) | 70 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49, r56 |
+| [Books & reading](#books-reading) | 71 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49, r56, r62 |
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 55 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58, r60, r61 |
 | [AI & dev tools](#ai-dev-tools) | 32 | r13, r17, r20, r37, r43, r44, r45, r58 |
-| [Graphic design & motion](#graphic-design-motion) | 55 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61 |
+| [Graphic design & motion](#graphic-design-motion) | 56 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61, r62 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
-| [Music](#music) | 17 | r36, r39, r42, r51, r54 |
+| [Music](#music) | 18 | r36, r39, r42, r51, r54, r62 |
 | [Games](#games) | 7 | r01, r36 |
-| [Ideas & essays](#ideas-essays) | 49 | r08, r11, r21, r23, r32, r35, r48, r49, r50 |
+| [Ideas & essays](#ideas-essays) | 50 | r08, r11, r21, r23, r32, r35, r48, r49, r50, r62 |
 | [Places](#places) | 36 | r26, r33, r54, r56 |
 
 ## Film
@@ -157,6 +157,7 @@ Books, reading lists and curricula. 70 items.
 | 309 | Bauhaus (1990) (Magdalena Droste) | book | [r56](reels/56-architecture-theory-books.md) | Book 4 of 6. Taschen's Bauhaus history; how the school balanced individuality with standardisation and function. | [Taschen](https://www.taschen.com/en/books/architecture-design/43440/bauhaus-updated-edition/) |
 | 310 | The Language of Cities (2016) (Deyan Sudjic) | book | [r56](reels/56-architecture-theory-books.md) | Book 5 of 6. Cities shaped more by power, money and ego than by planning; useful for master planning. | [Penguin](https://www.penguin.co.uk/books/280291/the-language-of-cities-by-sudjic-deyan/9780141980591) |
 | 311 | Design as Art (1966) (Bruno Munari) | book | [r56](reels/56-architecture-theory-books.md) | Book 6 of 6. Design from the art world: an everyday way of communicating culture through material. | [Penguin](https://www.penguin.co.uk/books/19371/design-as-art-by-bruno-munari/9780141035819) |
+| 328 | The Book: On the Taboo Against Knowing Who You Are (1966) (Alan Watts) | book | [r62](reels/62-something-real-alan-watts-edit.md) | Source of the reel's narration: "you are something the whole universe is doing in the same way that a wave is something the whole ocean is doing." Spoken form circulates as "The Real You". | [Penguin Random House](https://www.penguinrandomhouse.com/books/187467/the-book-by-alan-watts/) |
 
 ## Archives & collections
 
@@ -307,7 +308,7 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 32 items.
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 55 items.
+Magazine covers, print design, motion and visual effects. 56 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -366,6 +367,7 @@ Magazine covers, print design, motion and visual effects. 55 items.
 | 325 | North-Carolina Gazette 1841 "O.K." poem clipping | archive-item | [r59](reels/59-steal-like-an-editor-ep3.md) | Opening collage image: the March 16, 1841 poem ending "Oll Korrect ... Oll Kaput!", an early printed use of "O.K."; with Daily Picayune and Free Trader clippings. | [Shown in the reel](https://www.instagram.com/reel/DeFb3XytnDF/) |ml) |
 | 326 | Ten textures that keep design from feeling flat - checklist (@lnunesdesigns) | lesson | [r60](reels/60-design-feel-less-flat.md) | Ten-second countdown of ten surface treatments: thermal gradients, blueprint grids, water ripples, speckled graphite, fluted glass, contour lines, grainy gradients, single-hued landscapes, grass texture, soft shadows. Unattributed example shots; no paid pack named. | [Instagram](https://www.instagram.com/reel/DfiPWcGRFfc/) |
 | 327 | ASCII Magic - free in-browser shader editor for images and videos (@timhosqo) | website | [r61](reels/61-ascii-magic-shader-editor.md) | ascii-magic.com: upload an image or video, apply animated ASCII/pixel/glitch shaders, tune per-shader settings, export. Free per site and reel. | [ASCII Magic](https://ascii-magic.com) |
+| 330 | SOMETHING REAL edit production stack: CapCut + invideo.io AI + Ocular Sounds/Artlist/CapCut SFX (@sam.john.creates (Sam John)) | lesson | [r62](reels/62-something-real-alan-watts-edit.md) | Kinetic glitch-typography edit over AI space/ocean footage. CapCut editing + SFX library free; invideo.io AI credit-based paid plans (Starter $20/seat/mo billed annually); Ocular Sounds and Artlist are paid SFX sources (Artlist from $9.99/mo billed annually). Look is achievable free in CapCut; the AI footage and two SFX sources are paid. | [Reel](https://www.instagram.com/reel/DfphPQ0BPTS/) |
 
 ## Fashion & style
 
@@ -416,7 +418,7 @@ Menswear, tailoring and shopping guides. 40 items.
 
 ## Music
 
-Albums, songs and music finds. 17 items.
+Albums, songs and music finds. 18 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -437,6 +439,7 @@ Albums, songs and music finds. 17 items.
 | 301 | @wrclw_ (WRCLW) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Artist on the bill, tagged in the caption; no verified music page found, Instagram only. | [Instagram](https://www.instagram.com/wrclw_/) |
 | 302 | Glitter Beach (@thisisglitterbeach) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Artist on the bill, tagged in the caption; no verified music page found, Instagram only. | [Instagram](https://www.instagram.com/thisisglitterbeach/) |
 | 304 | ALESSIO (@alessowiththei) | website | [r54](reels/54-casual-halloween-2n1t3.md) | Creator of the reel; played the event and teased unveiling unreleased work there. | [Instagram](https://www.instagram.com/alessowiththei/) |
+| 329 | ONE (from IDENTITY CRISIS!) (Rumari) | song | [r62](reels/62-something-real-alan-watts-edit.md) | The track the edit is cut to, credited in the caption as "ONE by @rumari___". Match from the caption, not the audio. | [Spotify](https://open.spotify.com/track/1Anw7doq5i8nmDCNQaupoV) |
 
 ## Games
 
@@ -454,7 +457,7 @@ Games and game-related finds. 7 items.
 
 ## Ideas & essays
 
-Essays, lessons and big-picture topics. 49 items.
+Essays, lessons and big-picture topics. 50 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -507,6 +510,7 @@ Essays, lessons and big-picture topics. 49 items.
 | 273 | Fraud, Risk & Disputes - Money & Ledger Systems (Algoroq chapter) | article | [r48](reels/48-paypal-risk-engine-video.md) | The video author's own fraud-engineering playbook: decision SLOs, decline economics, rules vs models, velocity/graph signals, chargebacks, card testing. Adjacent material, not the video. | [Algoroq](https://algoroq.io/specializations/money-and-ledgers/fraud-and-disputes/) |
 | 274 | Algoroq Engineering Resource Library - YouTube Companion Diagrams | website | [r48](reels/48-paypal-risk-engine-video.md) | Author's interactive diagram decks, one per video; no PayPal deck found as of 2026-10-25 (listed decks cover older videos, so it may not be added yet). | [algoroq.io/resources](https://algoroq.io/resources) |
 | 275 | How PayPal Uses Real-time Graph Database and Graph Analysis to Fight Fraud (PayPal Tech, 2021) | article | [r48](reels/48-paypal-risk-engine-video.md) | PayPal's own write-up of its real-time fraud graph platform: three stacks, Gremlin, ~10 ms two-hop lookups, million-QPS targets. Independent of the video. | [PayPal Tech (Medium)](https://medium.com/paypal-tech/how-paypal-uses-real-time-graph-database-and-graph-analysis-to-fight-fraud-96a2b918619a) |
+| 328 | The Book: On the Taboo Against Knowing Who You Are (1966) (Alan Watts) | book | [r62](reels/62-something-real-alan-watts-edit.md) | The reel's narration: the self as something the whole universe is doing, the way a wave is something the whole ocean is doing. Also under Books & reading. | [Internet Archive (free to borrow)](https://archive.org/details/bookontabooagain0000watt) |
 
 ## Places
 
