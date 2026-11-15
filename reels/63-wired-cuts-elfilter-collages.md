@@ -20,9 +20,9 @@ Source: [original post](https://www.instagram.com/p/DfuqPDrjItX/) (Instagram ima
 - **Slide 1** (image below): a silhouette head on a blue ground - deep teal-black skin, glowing red eyes, a crown of red spikes like a sun flare. A road map of northeastern North America (New England and Atlantic Canada) is collaged over the lower face. A header strip of C code panels runs along the top: "/* sys_map.c */" with a tile-cache renderer ("void render_tile(int x, int y, int z)"), node counts ("n = 8712, m = 1938, z = 12"), a node loop with "// route path_len = dijkstra(src, dst)". Lower right: an eye stamp with "/* graph */ struct node { float lat; float lon; uint32_t id; };".
 - **Slide 2** (image below): a woman's face, pale with red lips, the top of the head replaced by a black-and-blue breaking ocean wave with a single superimposed eye over it. Red crop and grid lines with frame-corner marks ("60"), a strip of small square artwork thumbnails down the right edge, a red rose bottom right - a film-frame border aesthetic.
 
-![slide 1: silhouette head with red spikes and eyes, New England road map over the face, C code panels](../assets/2-1-63-wired-cuts-slide-1.jpg)
+![slide 1: silhouette head with red spikes and eyes, New England road map over the face, C code panels](../assets/1-63-wired-cuts-slide-1.jpg)
 
-![slide 2: woman's face with an ocean wave for hair, superimposed eye, red crop marks and film-frame border](../assets/3-2-63-wired-cuts-slide-2.jpg)
+![slide 2: woman's face with an ocean wave for hair, superimposed eye, red crop marks and film-frame border](../assets/2-63-wired-cuts-slide-2.jpg)
 
 ## Items
 
@@ -40,14 +40,14 @@ The creator. Behance lists him in the Russian Federation under Digital Art, Grap
 First of the two artworks in the post, archived as an image: silhouette head with red spikes and eyes, northeastern North America road map across the face, C code header strip (tile renderer + Dijkstra route) and an eye stamp with a graph struct. Untitled beyond the post caption.
 
 - [Original post](https://www.instagram.com/p/DfuqPDrjItX/)
-- [Slide 1 (archived image)](../assets/2-1-63-wired-cuts-slide-1.jpg)
+- [Slide 1 (archived image)](../assets/1-63-wired-cuts-slide-1.jpg)
 
 #### 333. "wired cuts", slide 2 - wave-head collage
 
 Second artwork, archived as an image: woman's face with a breaking ocean wave for the top of the head, superimposed eye, red crop marks and a film-frame border with a thumbnail strip and red rose. Untitled beyond the post caption.
 
 - [Original post](https://www.instagram.com/p/DfuqPDrjItX/)
-- [Slide 2 (archived image)](../assets/3-2-63-wired-cuts-slide-2.jpg)
+- [Slide 2 (archived image)](../assets/2-63-wired-cuts-slide-2.jpg)
 
 #### 334. Press features on Anton Elfilter's collages
 
