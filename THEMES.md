@@ -9,7 +9,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 55 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58, r60, r61 |
 | [AI & dev tools](#ai-dev-tools) | 32 | r13, r17, r20, r37, r43, r44, r45, r58 |
-| [Graphic design & motion](#graphic-design-motion) | 56 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61, r62 |
+| [Graphic design & motion](#graphic-design-motion) | 60 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61, r62, r63 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 18 | r36, r39, r42, r51, r54, r62 |
 | [Games](#games) | 7 | r01, r36 |
@@ -308,7 +308,7 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 32 items.
 
 ## Graphic design & motion
 
-Magazine covers, print design, motion and visual effects. 56 items.
+Magazine covers, print design, motion and visual effects. 60 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -368,6 +368,10 @@ Magazine covers, print design, motion and visual effects. 56 items.
 | 326 | Ten textures that keep design from feeling flat - checklist (@lnunesdesigns) | lesson | [r60](reels/60-design-feel-less-flat.md) | Ten-second countdown of ten surface treatments: thermal gradients, blueprint grids, water ripples, speckled graphite, fluted glass, contour lines, grainy gradients, single-hued landscapes, grass texture, soft shadows. Unattributed example shots; no paid pack named. | [Instagram](https://www.instagram.com/reel/DfiPWcGRFfc/) |
 | 327 | ASCII Magic - free in-browser shader editor for images and videos (@timhosqo) | website | [r61](reels/61-ascii-magic-shader-editor.md) | ascii-magic.com: upload an image or video, apply animated ASCII/pixel/glitch shaders, tune per-shader settings, export. Free per site and reel. | [ASCII Magic](https://ascii-magic.com) |
 | 330 | SOMETHING REAL edit production stack: CapCut + invideo.io AI + Ocular Sounds/Artlist/CapCut SFX (@sam.john.creates (Sam John)) | lesson | [r62](reels/62-something-real-alan-watts-edit.md) | Kinetic glitch-typography edit over AI space/ocean footage. CapCut editing + SFX library free; invideo.io AI credit-based paid plans (Starter $20/seat/mo billed annually); Ocular Sounds and Artlist are paid SFX sources (Artlist from $9.99/mo billed annually). Look is achievable free in CapCut; the AI footage and two SFX sources are paid. | [Reel](https://www.instagram.com/reel/DfphPQ0BPTS/) |
+| 331 | Anton Elfilter (@elfilter_a) - glitch collage artist | website | [r63](reels/63-wired-cuts-elfilter-collages.md) | Russia-based digital collage artist blending collage, print texture, code, maps and AI imagery ('DATAMOSH art'). | [Instagram](https://www.instagram.com/elfilter_a) |
+| 332 | "wired cuts", slide 1 - map-head collage (Anton Elfilter) | archive-item | [r63](reels/63-wired-cuts-elfilter-collages.md) | Silhouette head with red spikes and eyes, northeastern North America road map over the face, C code header strip. Archived image. | [Original post](https://www.instagram.com/p/DfuqPDrjItX/) |
+| 333 | "wired cuts", slide 2 - wave-head collage (Anton Elfilter) | archive-item | [r63](reels/63-wired-cuts-elfilter-collages.md) | Woman's face with a breaking ocean wave for hair, superimposed eye, red crop marks, film-frame border. Archived image. | [Original post](https://www.instagram.com/p/DfuqPDrjItX/) |
+| 334 | Press features on Anton Elfilter's collages (Moss & Fog, Design You Trust) | article | [r63](reels/63-wired-cuts-elfilter-collages.md) | Two March 2026 design-blog features with big galleries of his glitch collages. | [Moss & Fog](https://mossandfog.com/designing-in-the-glitch-collages-by-anton-elfilter/) |
 
 ## Fashion & style
 
