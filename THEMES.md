@@ -8,7 +8,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Books & reading](#books-reading) | 71 | r04, r07, r10, r11, r18, r21, r25, r32, r35, r49, r56, r62 |
 | [Archives & collections](#archives-collections) | 39 | r01, r03, r12 |
 | [Web & UI design](#web-ui-design) | 55 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58, r60, r61 |
-| [AI & dev tools](#ai-dev-tools) | 53 | r13, r17, r20, r37, r43, r44, r45, r58, r64 |
+| [AI & dev tools](#ai-dev-tools) | 57 | r13, r17, r20, r37, r43, r44, r45, r58, r64, r65 |
 | [Graphic design & motion](#graphic-design-motion) | 60 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61, r62, r63 |
 | [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
 | [Music](#music) | 18 | r36, r39, r42, r51, r54, r62 |
@@ -267,7 +267,7 @@ Websites, portfolios, UI libraries, shaders and aesthetic software. 55 items.
 
 ## AI & dev tools
 
-GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 53 items.
+GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 57 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -326,6 +326,10 @@ GitHub repos, Claude Code plugins, MCP servers and AI coding tools. 53 items.
 | 353 | Attack 18: XXE (XML external entity injection) | article | [r64](reels/64-pen-test-20-attacks-patch.md) | XML from users (SVG, office files, RSS, SAML) can read files. Disable external entities, DTDs and XInclude. | [Guide section](https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app) |
 | 354 | Attack 19: Cross-site WebSocket hijacking | article | [r64](reels/64-pen-test-20-attacks-patch.md) | Cookie-session WebSockets need an Origin check and CSRF token on the handshake. | [Guide section](https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app) |
 | 355 | Attack 20: Unicode username normalization (Spotify 2013) | article | [r64](reels/64-pen-test-20-attacks-patch.md) | Unicode lookalike usernames hijacked accounts. Normalize once at sign-up, compare only that form. | [Spotify Engineering: Creative usernames and Spotif](https://engineering.atspotify.com/2013/06/creative-usernames) |
+| 356 | Craft Anything - study any software, then have AI build your own version (storytold / ArtCraft community) | website | [r65](reels/65-craft-anything-reverse-engineering.md) | The repo behind the 'comment CRAFT' reel: free, open source (Apache 2.0), no DM needed. Pure-Rust clean-room reverse-engineering engine (320 tools): Study a website/app/game, a coding agent Builds your own version, Check compares, Ready refines. Deep mode reads compiled code (own decompiler + Ghidra). Claude Code first builder; Codex/Copilot/Grok too. 38.7k stars at save. | [GitHub](https://github.com/storytold/craft-anything) |
+| 357 | Craft App Suite (PhotoCraft, FilmCraft, WordCraft, DeckCraft, GridCraft and 10 more) (storytold / ArtCraft community) | website | [r65](reels/65-craft-anything-reverse-engineering.md) | The open-source app suite behind the reel's 'team that rebuilt Adobe and Microsoft' line: 15 creative/office apps (Photoshop, Illustrator, Premiere, Lightroom, Acrobat, After Effects, InDesign, Word, PowerPoint, Excel analogues and more), plus community SolidCraft. Claim is the creator's framing; the apps are independent rebuilds. | [Suite table in the Craft Anything README](https://github.com/storytold/craft-anything) |
+| 358 | Ghidra (NSA's software reverse-engineering framework) (National Security Agency) | website | [r65](reels/65-craft-anything-reverse-engineering.md) | Named on screen ('created by the NSA'). Free, open-source (Apache 2.0) SRE framework, public since March 2019, 100k stars at save. Craft Anything's Deep mode uses it when installed. | [GitHub](https://github.com/NationalSecurityAgency/ghidra) |
+| 359 | Claude Code (Anthropic's terminal coding agent) (Anthropic) | website | [r65](reels/65-craft-anything-reverse-engineering.md) | The reel's builder step ('Connect your Claude Code'). Craft Anything runs your own signed-in claude program unmodified. Recurring tool across the archive (r13, r58), first time logged as an item. | [Official site](https://claude.com/claude-code) |
 
 ## Graphic design & motion
 
