@@ -1329,5 +1329,24 @@
   "themes": [
    "ai-dev-tools"
   ]
+ },
+ {
+  "id": "r65",
+  "slug": "65-craft-anything-reverse-engineering",
+  "url": "https://www.instagram.com/reel/DfkSVaZgSNW/",
+  "creator": "@ariacodez (AriaCodez)",
+  "title": "Craft Anything: open-source engine that studies any app, site or game and has Claude Code rebuild it",
+  "summary": "Instagram reel by @ariacodez (AriaCodez), posted 2026-11-10 (3,809 likes, 1,279 comments at save). Comment-bait ('comment CRAFT and I'll send you the repo'), but the resource is free and public: storytold/craft-anything, an Apache-2.0 pure-Rust clean-room reverse-engineering engine (38.7k stars, created 2026-10-31). Study any website/app/game, a coding agent (Claude Code first; Codex, Copilot, Grok and other ACP agents also wired) builds your own version, then it checks the copy against the original and refines. Deep mode reads compiled code with its own disassembler/decompiler plus Ghidra when installed. Video watched: pixel-art pig engineer animation; on screen: Claude Code/Codex as the builder, Ghidra 'created by the NSA', 30-second scan, 'FOR EDUCATIONAL PURPOSES'. The caption's 'team that rebuilt Adobe and Microsoft' maps to the team's Craft App Suite (PhotoCraft, FilmCraft, WordCraft, DeckCraft, GridCraft etc.); that framing is the creator's marketing. Four items: the repo, the app suite, Ghidra, Claude Code.",
+  "saved": "2026-11-20",
+  "item_ids": [
+   356,
+   357,
+   358,
+   359
+  ],
+  "file": "reels/65-craft-anything-reverse-engineering.md",
+  "themes": [
+   "ai-dev-tools"
+  ]
  }
 ]
