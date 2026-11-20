@@ -9346,5 +9346,89 @@
   "themes": [
    "ai-dev-tools"
   ]
+ },
+ {
+  "id": 356,
+  "title": "Craft Anything - study any software, then have AI build your own version (storytold/craft-anything)",
+  "kind": "website",
+  "creator": "storytold / ArtCraft community",
+  "note": "The repo behind the 'comment CRAFT' reel: free, open source (Apache 2.0), public, no DM needed. Pure-Rust clean-room reverse-engineering engine (320 tools): Study a website/app/game, a coding agent Builds your own version, Check compares against the original, Ready refines. Clean-room mode sees only what a visitor can; Deep mode reads compiled code with its own disassembler/decompiler plus Ghidra. Claude Code is the first supported builder; Codex/Copilot/Grok/ACP agents also wired. Desktop app (egui), CLI, MCP server, parts as WebAssembly. Requires Rust 1.97+. 38.7k stars at save; repo created 2026-10-31.",
+  "links": [
+   {
+    "label": "GitHub",
+    "url": "https://github.com/storytold/craft-anything"
+   }
+  ],
+  "reel": "r65",
+  "collection": "craft-anything-reverse-engineering",
+  "collection_title": "AriaCodez: Craft Anything, the open-source 'study and rebuild any app' engine",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 357,
+  "title": "Craft App Suite (PhotoCraft, FilmCraft, WordCraft, DeckCraft, GridCraft and 10 more)",
+  "kind": "website",
+  "creator": "storytold / ArtCraft community",
+  "note": "The open-source app suite behind the reel's 'the team that rebuilt Adobe and Microsoft' line: PhotoCraft, VectorCraft, FilmCraft, LightCraft, PdfCraft, EffectCraft, DesignCraft, FigCraft, WordCraft, SoundCraft, DeckCraft, CADCraft, GridCraft, TextureCraft, MaterialCraft, plus community SolidCraft (Tangency Labs). Adobe-side analogues: Photoshop, Illustrator, Premiere, Lightroom, Acrobat, After Effects, InDesign; Microsoft-side: Word, PowerPoint, Excel. The claim is the reel creator's framing; the apps are independent rebuilds, not official products.",
+  "links": [
+   {
+    "label": "Suite table in the Craft Anything README",
+    "url": "https://github.com/storytold/craft-anything"
+   }
+  ],
+  "reel": "r65",
+  "collection": "craft-anything-reverse-engineering",
+  "collection_title": "AriaCodez: Craft Anything, the open-source 'study and rebuild any app' engine",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 358,
+  "title": "Ghidra (NSA's software reverse-engineering framework)",
+  "kind": "website",
+  "creator": "National Security Agency",
+  "note": "Named on screen in the reel ('created by the NSA'). Free, open-source (Apache 2.0) SRE framework, public since March 2019, 100k stars at save. Craft Anything's Deep mode uses it when installed.",
+  "links": [
+   {
+    "label": "GitHub",
+    "url": "https://github.com/NationalSecurityAgency/ghidra"
+   },
+   {
+    "label": "Official site",
+    "url": "https://ghidra-sre.org/"
+   }
+  ],
+  "reel": "r65",
+  "collection": "craft-anything-reverse-engineering",
+  "collection_title": "AriaCodez: Craft Anything, the open-source 'study and rebuild any app' engine",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 359,
+  "title": "Claude Code (Anthropic's terminal coding agent)",
+  "kind": "website",
+  "creator": "Anthropic",
+  "note": "The reel's builder step ('Connect your Claude Code'). Craft Anything runs your own signed-in claude program unmodified, under your own Anthropic agreement. Recurring tool across the archive (r13, r58) but first time logged as its own item.",
+  "links": [
+   {
+    "label": "Official site",
+    "url": "https://claude.com/claude-code"
+   },
+   {
+    "label": "Docs",
+    "url": "https://docs.claude.com/en/docs/claude-code"
+   }
+  ],
+  "reel": "r65",
+  "collection": "craft-anything-reverse-engineering",
+  "collection_title": "AriaCodez: Craft Anything, the open-source 'study and rebuild any app' engine",
+  "themes": [
+   "ai-dev-tools"
+  ]
  }
 ]
