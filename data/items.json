@@ -8919,5 +8919,432 @@
   "themes": [
    "design-graphic"
   ]
+ },
+ {
+  "id": 335,
+  "title": "20 pen-test-level attacks your vibecoded app was never checked for (free PATCH guide + Claude Code audit prompt)",
+  "kind": "article",
+  "creator": "Murphmaxxing",
+  "note": "The resource behind the 'comment PATCH' reel. Free, no sign-up needed to read: all 20 attacks, how to tell if each applies, the fix, and a paste-into-Claude-Code prompt that audits your app against all 20 and reports before changing anything.",
+  "links": [
+   {
+    "label": "The guide and prompt",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   },
+   {
+    "label": "Vault index",
+    "url": "https://www.murphmaxxing.com/vault"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 336,
+  "title": "Attack 1: HTTP/2 Rapid Reset (CVE-2023-44487)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Open and instantly cancel HTTP/2 requests to exhaust a server. Google Cloud stopped one peaking above 398M requests/sec. Applies only if you run your own HTTP/2 server or proxy: patch it.",
+  "links": [
+   {
+    "label": "Google Cloud: largest DDoS attack, peaking above 398M rps",
+    "url": "https://cloud.google.com/blog/products/identity-security/google-cloud-mitigated-largest-ddos-attack-peaking-above-398-million-rps"
+   },
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 337,
+  "title": "Attack 2: bcrypt 72-byte limit (Okta 52-character username bug)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "bcrypt ignores input past 72 bytes. Okta hashed userId+username+password, so long usernames pushed the password out of the hash (fixed Oct 2024). Hash the password alone, cap at 72 bytes.",
+  "links": [
+   {
+    "label": "Okta security advisory, Nov 1 2024",
+    "url": "https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/"
+   },
+   {
+    "label": "The Verge coverage",
+    "url": "https://www.theverge.com/2024/11/1/24285874/okta-52-character-login-password-authentication-bypass"
+   },
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 338,
+  "title": "Attack 3: SAML signature bypass (CVE-2024-45409, GitLab)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "ruby-saml flaw let anyone holding a signed SAML document forge a login as any user. Fix: ruby-saml 1.17.0+, omniauth-saml 2.2.1+.",
+  "links": [
+   {
+    "label": "GitLab advisory CVE-2024-45409",
+    "url": "https://advisories.gitlab.com/pkg/gem/ruby-saml/CVE-2024-45409/"
+   },
+   {
+    "label": "GitLab 17.3.3 critical patch release",
+    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-17-3-3-released/"
+   },
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 339,
+  "title": "Attack 4: nOAuth (Microsoft login email spoofing)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Azure AD's email claim is mutable and unverified, so matching users by it allows account takeover. Match on oid+tid or sub instead.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 340,
+  "title": "Attack 5: GraphQL alias batching",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "One request can carry many aliased copies of a login, 2FA or coupon check and dodge rate limits. Limit per operation and per account.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 341,
+  "title": "Attack 6: TOTP replay (RFC 6238 section 5.2)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "An authenticator code must be refused once accepted. Store the last accepted time step per user.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 342,
+  "title": "Attack 7: ReDoS (regex denial of service)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Nested-repetition regexes on user input can freeze a server (Stack Overflow outage, July 2016). Cap input length, rewrite the regex.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 343,
+  "title": "Attack 8: JWT algorithm confusion",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Attacker switches RS256 to HS256 and signs with the public key. Pin the allowed algorithm in verify.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 344,
+  "title": "Attack 9: HTTP request smuggling",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Ambiguous Content-Length / Transfer-Encoding requests slip past a front proxy. Use HTTP/2 end to end, reject ambiguous requests.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 345,
+  "title": "Attack 10: Web cache poisoning",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Responses built from unkeyed headers like X-Forwarded-Host get cached and served to everyone.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 346,
+  "title": "Attack 11: Spoofed X-Forwarded-For",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Per-IP rate limits can be dodged if trust proxy is set to true. Set the real proxy count and also limit per account.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 347,
+  "title": "Attack 12: Postgres views bypassing RLS",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Views in an exposed schema run as their owner and skip row level security. Set security_invoker = true (Postgres 15+).",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 348,
+  "title": "Attack 13: Math.random() tokens",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Predictable tokens. Use crypto.getRandomValues / crypto.randomBytes for anything that guards something.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 349,
+  "title": "Attack 14: Timing attacks on secret comparison",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "=== leaks via response time. Use crypto.timingSafeEqual or a constant-time compare.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 350,
+  "title": "Attack 15: Padding oracle",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Hand-rolled CBC encryption of cookies/tokens leaks via error differences. Use AES-GCM or framework sessions.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 351,
+  "title": "Attack 16: Server-side prototype pollution",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Merging request bodies into objects lets __proto__ keys reach RCE. Validate with a schema, block those keys, use Map.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 352,
+  "title": "Attack 17: Server-side template injection",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "User input must be template data, never template source.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 353,
+  "title": "Attack 18: XXE (XML external entity injection)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "XML from users (SVG, office files, RSS, SAML) can read files. Disable external entities, DTDs and XInclude.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 354,
+  "title": "Attack 19: Cross-site WebSocket hijacking",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Cookie-session WebSockets need an Origin check and CSRF token on the handshake.",
+  "links": [
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
+ },
+ {
+  "id": 355,
+  "title": "Attack 20: Unicode username normalization (Spotify 2013)",
+  "kind": "article",
+  "creator": "Murphmaxxing guide",
+  "note": "Unicode lookalike usernames hijacked accounts. Normalize once at sign-up, compare only that form.",
+  "links": [
+   {
+    "label": "Spotify Engineering: Creative usernames and Spotify account hijacking",
+    "url": "https://engineering.atspotify.com/2013/06/creative-usernames"
+   },
+   {
+    "label": "Guide section",
+    "url": "https://www.murphmaxxing.com/vault/20-pen-test-attacks-vibecoded-app"
+   }
+  ],
+  "reel": "r64",
+  "collection": "pen-test-20-attacks-patch-guide",
+  "collection_title": "Murphmaxxing: 20 pen-test attacks your vibecoded app was never checked for",
+  "themes": [
+   "ai-dev-tools"
+  ]
  }
 ]
