@@ -1293,5 +1293,41 @@
   "themes": [
    "design-graphic"
   ]
+ },
+ {
+  "id": "r64",
+  "slug": "64-pen-test-20-attacks-patch",
+  "url": "https://www.instagram.com/reel/DfsWbkrB6vN/",
+  "creator": "@murphmaxxing",
+  "title": "20 attacks a pen tester checks for, with a free guide and Claude Code audit prompt",
+  "summary": "Instagram reel by @murphmaxxing (posted 2026-11-13, 8,339 likes at save). Comment-bait ('comment PATCH'). Video not watchable; caption and the creator's public guide page read instead. 21 items: the guide plus its 20 attacks.",
+  "saved": "2026-11-20",
+  "item_ids": [
+   335,
+   336,
+   337,
+   338,
+   339,
+   340,
+   341,
+   342,
+   343,
+   344,
+   345,
+   346,
+   347,
+   348,
+   349,
+   350,
+   351,
+   352,
+   353,
+   354,
+   355
+  ],
+  "file": "reels/64-pen-test-20-attacks-patch.md",
+  "themes": [
+   "ai-dev-tools"
+  ]
  }
 ]
