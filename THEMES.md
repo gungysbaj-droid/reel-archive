@@ -10,7 +10,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Web & UI design](#web-ui-design) | 55 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58, r60, r61 |
 | [AI & dev tools](#ai-dev-tools) | 57 | r13, r17, r20, r37, r43, r44, r45, r58, r64, r65 |
 | [Graphic design & motion](#graphic-design-motion) | 60 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61, r62, r63 |
-| [Fashion & style](#fashion-style) | 45 | r04, r06, r33, r66 |
+| [Fashion & style](#fashion-style) | 57 | r04, r06, r33, r66, r67 |
 | [Music](#music) | 18 | r36, r39, r42, r51, r54, r62 |
 | [Games](#games) | 7 | r01, r36 |
 | [Ideas & essays](#ideas-essays) | 50 | r08, r11, r21, r23, r32, r35, r48, r49, r50, r62 |
@@ -400,7 +400,7 @@ Magazine covers, print design, motion and visual effects. 60 items.
 
 ## Fashion & style
 
-Menswear, tailoring, shopping guides and skincare. 45 items.
+Menswear, tailoring, shopping guides and skincare. 57 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -449,6 +449,18 @@ Menswear, tailoring, shopping guides and skincare. 45 items.
 | 362 | Arencia 'Glycolic Shot Cream' (likely Eraser Shot Glycolic Acid Booster) (Arencia) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Unresolved identity. The caption says 'Glycolic Shot Cream'; the Arencia product that fits is the Eraser Shot Glycolic Acid Booster 30 ml, … | [Arencia official](https://arenciaskincare.com/products/eraser-shot-glycolic-acid-booster-daily-clarifying-multi-acid-formula-for-smoother-clear-looking-skin-1-01-fl-oz) |
 | 363 | Anua PDRN Hyaluronic Acid 100 Moisturizing Cream (Anua) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Caption says only 'PDRN cream'; this is Anua's PDRN cream, so likely but not confirmed to be the exact product. No Amazon Japan listing ver… | [Anua official](https://anua.com/products/pdrn-hyaluronic-acid-100-moisturizing-cream) |
 | 364 | fromrier Vegan EGF Cica Water Sun Ampoule 56 ml (fromrier) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Caption: 'fromrier EGF Cica Water Sun Ampoule'. Manufacturer name confirmed on fromrier.com. An Amazon.co.jp listing titled 'Vegan EGF Deer… | [fromrier official](https://fromrier.com/product/%EB%B9%84%EA%B1%B4-egf-%EC%8B%9C%EC%B9%B4-%EC%9B%8C%ED%84%B0-%EC%84%A0%EC%95%B0%ED%94%8C-56ml/22/) |
+| 365 | Evening skincare order (Fondo) (@itsfondo_) | routine | [r67](reels/67-fondo-skincare-grooming-routine.md) | Spoken in the night reel ('speed run our evening skincare'): eye cream tapped under the eyes (not named), then tretinoin mixed into a moist… | [Night reel](https://www.instagram.com/reel/DdscGl-giAG/) |
+| 366 | Tretinoin (tube label: Tretinoin Cream USP, Rx Only) (@itsfondo_) | product | [r67](reels/67-fondo-skincare-grooming-routine.md) | The tube on screen reads Tretinoin Cream USP and Rx Only; the strength looked like 0.1% but is not legible enough to confirm. Source and pr… | [Night reel](https://www.instagram.com/reel/DdscGl-giAG/) |
+| 367 | La Roche-Posay Cicaplast Baume B5+ (thick balm) (@itsfondo_) | product | [r67](reels/67-fondo-skincare-grooming-routine.md) | Tube reads LA ROCHE-POSAY CICAPLAST BALM B5+. Audio said Cicalfate, a mishearing or slip. | [Amazon.co.jp Cicaplast Baume B5+ 40 ml](https://www.amazon.co.jp/dp/B0CSS3MC3J) |
+| 368 | Vaseline on the lips (@itsfondo_) | product | [r67](reels/67-fondo-skincare-grooming-routine.md) | The blue tub reads Vaseline; size not shown. | [Night reel](https://www.instagram.com/reel/DdscGl-giAG/) |
+| 369 | Proraso shaving cream (scent not named) (@itsfondo_) | product | [r67](reels/67-fondo-skincare-grooming-routine.md) | Spoken in the shave reels: 'This is Proraso', about three 'donuts' worth, lathered with a boar-bristle brush. Scent not said. His published… | [Shave reel](https://www.instagram.com/itsfondo_/reel/Df4yS-WRQOB/) |
+| 370 | Shave method and gear (Fondo) (@itsfondo_) | routine | [r67](reels/67-fondo-skincare-grooming-routine.md) | Trim the beard first, hot towel, lather with a boar-bristle brush, fresh double-edge blade ('Japanese steel, made in Japan', brand not name… | [Shave reel](https://www.instagram.com/itsfondo_/reel/Df4yS-WRQOB/) |
+| 371 | Aftershave (Bay Rum; maker unconfirmed) (@itsfondo_) | product | [r67](reels/67-fondo-skincare-grooming-routine.md) | One reel's transcript says 'Virgin Islands Bay Rum', the other reads 'Cella from Milano' (possibly misheard). Maker not confirmed. Bay Rum … | [Second shave reel](https://www.instagram.com/itsfondo_/reel/DboqrTPg3LD/) |
+| 372 | Mustache trim and castor oil (@itsfondo_) | routine | [r67](reels/67-fondo-skincare-grooming-routine.md) | Trimmer on setting 8, guard off to tidy the lip line, then a little castor oil on the mustache and eyebrows. Setting is specific to his tri… | [Mustache reel](https://www.instagram.com/itsfondo_/reel/DXzCavFgNkB/) |
+| 373 | Yves Saint Laurent MYSLF (@itsfondo_) | product | [r67](reels/67-fondo-skincare-grooming-routine.md) | Cologne he applies to neck and wrists (pulse points). Concentration not named. | [Fragrance reel](https://www.instagram.com/itsfondo_/reel/DfQ6P-CAu2Y/) |
+| 374 | Morning skincare video (@itsfondo_) | routine | [r67](reels/67-fondo-skincare-grooming-routine.md) | Silver bottle reads CICA x HYALON REEDLE SHOT 100, 50 mL, applied to face; separate clear mist bottle (label not visible); then white cream… | [Amazon.co.jp VT Reedle Shot](https://www.amazon.co.jp/VTCOSMETICS-Firmness-Skincare-Essence-Product/dp/B0C2TQ24VY) |
+| 375 | Rejuran eye cream (@itsfondo_) | routine | [r67](reels/67-fondo-skincare-grooming-routine.md) | Jar reads REJURAN and EYE CREAM. Full name (likely Intensive Eye Cream 20 ml) inferred, not read. | [Amazon.co.jp Rejuran Intensive Eye Cream 20 ml](https://www.amazon.co.jp/-/en/dp/B0DGL2TN7D) |
+| 376 | Dr.Althea 147 moisturizer (mixed with tretinoin) (@itsfondo_) | routine | [r67](reels/67-fondo-skincare-grooming-routine.md) | Tube reads DR. ALTHEA, 147, Pro Lab. Name 147 Barrier Cream inferred from brand page. | [Dr.Althea official](https://doctoraltheaglobal.com/products/dralthea-147_barrier_cream) |
 
 ## Music
 
