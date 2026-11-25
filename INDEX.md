@@ -70,3 +70,5 @@ Browse by theme: [THEMES.md](THEMES.md). Per-reel pages below are the canonical 
 | r63 | @elfilter_a (Anton Elfilter) | "wired cuts": two glitch collages (map-head and wave-head) by a Russian glitch-collage artist | 331-334 | [reels/63-wired-cuts-elfilter-collages.md](reels/63-wired-cuts-elfilter-collages.md) |
 | r64 | @murphmaxxing | 20 pen-test attacks your vibecoded app was never checked for: free guide + Claude Code audit prompt (comment 'PATCH') | 335-355 | [reels/64-pen-test-20-attacks-patch.md](reels/64-pen-test-20-attacks-patch.md) |
 | r65 | @ariacodez (AriaCodez) | Craft Anything: open-source engine that studies any app/site/game and has Claude Code rebuild it (comment 'CRAFT'; free and public, no DM needed) | 356-359 | [reels/65-craft-anything-reverse-engineering.md](reels/65-craft-anything-reverse-engineering.md) |
+
+| r66 | @nate.x.nate | Acne daytime skincare routine: CeraVe SA cleanser, Torriden toner, Arencia glycolic booster, Anua PDRN cream, fromrier sun ampoule (Amazon JP links for 2, rest unresolved) | 360-364 | [reels/66-acne-daytime-routine-nate.md](reels/66-acne-daytime-routine-nate.md) |
