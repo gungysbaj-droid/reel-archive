@@ -72,3 +72,4 @@ Browse by theme: [THEMES.md](THEMES.md). Per-reel pages below are the canonical 
 | r65 | @ariacodez (AriaCodez) | Craft Anything: open-source engine that studies any app/site/game and has Claude Code rebuild it (comment 'CRAFT'; free and public, no DM needed) | 356-359 | [reels/65-craft-anything-reverse-engineering.md](reels/65-craft-anything-reverse-engineering.md) |
 
 | r66 | @nate.x.nate | Acne daytime skincare routine: CeraVe SA cleanser, Torriden toner, Arencia glycolic booster, Anua PDRN cream, fromrier sun ampoule (Amazon JP links for 2, rest unresolved) | 360-364 | [reels/66-acne-daytime-routine-nate.md](reels/66-acne-daytime-routine-nate.md) |
+| r67 | @itsfondo_ (Fondo) | Skincare, shaving, mustache and fragrance routine from his own reels (spoken steps; most products read off labels) | 365-376 | [reels/67-fondo-skincare-grooming-routine.md](reels/67-fondo-skincare-grooming-routine.md) |
