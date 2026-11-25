@@ -9430,5 +9430,108 @@
   "themes": [
    "ai-dev-tools"
   ]
+ },
+ {
+  "id": 360,
+  "title": "CeraVe SA Cleanser (SA Smoothing Cleanser)",
+  "kind": "website",
+  "creator": "CeraVe",
+  "note": "Named in the caption as 'SA Cleanser'. Salicylic acid cleanser for rough, uneven skin. Amazon Japan listing title matches (473 ml); read by page fetch only, live offer not checked because Amazon pages could not be opened in the browser.",
+  "links": [
+   {
+    "label": "Amazon.co.jp (473 ml)",
+    "url": "https://www.amazon.co.jp/-/en/CeraVe-Smoothing-Cleanser-Rough-Uneven/dp/B09MMJS8ZM"
+   }
+  ],
+  "reel": "r66",
+  "collection": "acne-daytime-routine-nate",
+  "collection_title": "nate.x.nate: acne daytime skincare routine (5 products)",
+  "themes": [
+   "fashion-style"
+  ]
+ },
+ {
+  "id": 361,
+  "title": "Torriden hyaluronic acid toner (DIVE-IN Toner)",
+  "kind": "website",
+  "creator": "Torriden",
+  "note": "Caption: 'Torriden Hyaluronic Acid Toner'. Probable match: DIVE-IN is Torriden's hyaluronic acid toner; the reel names no size. Amazon Japan listing (300 ml) title read by page fetch only, live offer not checked.",
+  "links": [
+   {
+    "label": "Amazon.co.jp (300 ml)",
+    "url": "https://www.amazon.co.jp/Torriden-DIVE-IN-Toner-300ml/dp/B08TBG2T2C"
+   }
+  ],
+  "reel": "r66",
+  "collection": "acne-daytime-routine-nate",
+  "collection_title": "nate.x.nate: acne daytime skincare routine (5 products)",
+  "themes": [
+   "fashion-style"
+  ]
+ },
+ {
+  "id": 362,
+  "title": "Arencia 'Glycolic Shot Cream' (likely Eraser Shot Glycolic Acid Booster)",
+  "kind": "website",
+  "creator": "Arencia",
+  "note": "Unresolved identity. The caption says 'Glycolic Shot Cream'; the Arencia product that fits is the Eraser Shot Glycolic Acid Booster 30 ml, but that is an inference. No Amazon Japan listing verified.",
+  "links": [
+   {
+    "label": "Arencia official",
+    "url": "https://arenciaskincare.com/products/eraser-shot-glycolic-acid-booster-daily-clarifying-multi-acid-formula-for-smoother-clear-looking-skin-1-01-fl-oz"
+   },
+   {
+    "label": "Olive Young US",
+    "url": "https://us.oliveyoung.com/products/UA94948672"
+   }
+  ],
+  "reel": "r66",
+  "collection": "acne-daytime-routine-nate",
+  "collection_title": "nate.x.nate: acne daytime skincare routine (5 products)",
+  "themes": [
+   "fashion-style"
+  ]
+ },
+ {
+  "id": 363,
+  "title": "Anua PDRN Hyaluronic Acid 100 Moisturizing Cream",
+  "kind": "website",
+  "creator": "Anua",
+  "note": "Caption says only 'PDRN cream'; this is Anua's PDRN cream, so likely but not confirmed to be the exact product. No Amazon Japan listing verified.",
+  "links": [
+   {
+    "label": "Anua official",
+    "url": "https://anua.com/products/pdrn-hyaluronic-acid-100-moisturizing-cream"
+   }
+  ],
+  "reel": "r66",
+  "collection": "acne-daytime-routine-nate",
+  "collection_title": "nate.x.nate: acne daytime skincare routine (5 products)",
+  "themes": [
+   "fashion-style"
+  ]
+ },
+ {
+  "id": 364,
+  "title": "fromrier Vegan EGF Cica Water Sun Ampoule 56 ml",
+  "kind": "website",
+  "creator": "fromrier",
+  "note": "Caption: 'fromrier EGF Cica Water Sun Ampoule'. Manufacturer name confirmed on fromrier.com. An Amazon.co.jp listing titled 'Vegan EGF Deer Water Sun Ampoule 56ml' exists but the name differs, so it is unverified as the same product.",
+  "links": [
+   {
+    "label": "fromrier official",
+    "url": "https://fromrier.com/product/%EB%B9%84%EA%B1%B4-egf-%EC%8B%9C%EC%B9%B4-%EC%9B%8C%ED%84%B0-%EC%84%A0%EC%95%B0%ED%94%8C-56ml/22/"
+   },
+   {
+    "label": "Amazon.co.jp (unverified match)",
+    "url": "https://www.amazon.co.jp/-/en/fromrier-Vegan-Ampoule-Korean-Cosmetics/dp/B0D141WXVD"
+   }
+  ],
+  "reel": "r66",
+  "collection": "acne-daytime-routine-nate",
+  "collection_title": "nate.x.nate: acne daytime skincare routine (5 products)",
+  "themes": [
+   "fashion-style"
+  ]
  }
 ]
