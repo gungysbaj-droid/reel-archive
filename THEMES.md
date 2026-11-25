@@ -10,7 +10,7 @@ Every item in the archive, organised by theme. Items can appear in more than one
 | [Web & UI design](#web-ui-design) | 55 | r09, r13, r15, r17, r20, r22, r30, r34, r37, r43, r45, r46, r47, r57, r58, r60, r61 |
 | [AI & dev tools](#ai-dev-tools) | 57 | r13, r17, r20, r37, r43, r44, r45, r58, r64, r65 |
 | [Graphic design & motion](#graphic-design-motion) | 60 | r10, r12, r18, r25, r41, r50, r51, r52, r53, r55, r57, r59, r60, r61, r62, r63 |
-| [Fashion & style](#fashion-style) | 40 | r04, r06, r33 |
+| [Fashion & style](#fashion-style) | 45 | r04, r06, r33, r66 |
 | [Music](#music) | 18 | r36, r39, r42, r51, r54, r62 |
 | [Games](#games) | 7 | r01, r36 |
 | [Ideas & essays](#ideas-essays) | 50 | r08, r11, r21, r23, r32, r35, r48, r49, r50, r62 |
@@ -400,7 +400,7 @@ Magazine covers, print design, motion and visual effects. 60 items.
 
 ## Fashion & style
 
-Menswear, tailoring and shopping guides. 40 items.
+Menswear, tailoring, shopping guides and skincare. 45 items.
 
 | # | Item | Kind | Reel | Note | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -444,6 +444,11 @@ Menswear, tailoring and shopping guides. 40 items.
 | 215 | Chelsea Flea | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 1. Secondhand Stores; neighborhood on sc… | [Chelsea Flea](https://www.brooklynflea.com/chelseaflea) |
 | 216 | Ven. Space | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ven.space/) |
 | 217 | Atelier New York | website | [r33](reels/33-nyc-shopping-guide.md) | Physical shop (kind set to website because the archive vocabulary has no place kind). Reel section 2. New Multibrand Stores; neighborhood o… | [Site](https://ateliernewyork.com/) |
+| 360 | CeraVe SA Cleanser (SA Smoothing Cleanser) (CeraVe) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Named in the caption as 'SA Cleanser'. Salicylic acid cleanser for rough, uneven skin. Amazon Japan listing title matches (473 ml); read by… | [Amazon.co.jp (473 ml)](https://www.amazon.co.jp/-/en/CeraVe-Smoothing-Cleanser-Rough-Uneven/dp/B09MMJS8ZM) |
+| 361 | Torriden hyaluronic acid toner (DIVE-IN Toner) (Torriden) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Caption: 'Torriden Hyaluronic Acid Toner'. Probable match: DIVE-IN is Torriden's hyaluronic acid toner; the reel names no size. Amazon Japa… | [Amazon.co.jp (300 ml)](https://www.amazon.co.jp/Torriden-DIVE-IN-Toner-300ml/dp/B08TBG2T2C) |
+| 362 | Arencia 'Glycolic Shot Cream' (likely Eraser Shot Glycolic Acid Booster) (Arencia) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Unresolved identity. The caption says 'Glycolic Shot Cream'; the Arencia product that fits is the Eraser Shot Glycolic Acid Booster 30 ml, … | [Arencia official](https://arenciaskincare.com/products/eraser-shot-glycolic-acid-booster-daily-clarifying-multi-acid-formula-for-smoother-clear-looking-skin-1-01-fl-oz) |
+| 363 | Anua PDRN Hyaluronic Acid 100 Moisturizing Cream (Anua) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Caption says only 'PDRN cream'; this is Anua's PDRN cream, so likely but not confirmed to be the exact product. No Amazon Japan listing ver… | [Anua official](https://anua.com/products/pdrn-hyaluronic-acid-100-moisturizing-cream) |
+| 364 | fromrier Vegan EGF Cica Water Sun Ampoule 56 ml (fromrier) | website | [r66](reels/66-acne-daytime-routine-nate.md) | Caption: 'fromrier EGF Cica Water Sun Ampoule'. Manufacturer name confirmed on fromrier.com. An Amazon.co.jp listing titled 'Vegan EGF Deer… | [fromrier official](https://fromrier.com/product/%EB%B9%84%EA%B1%B4-egf-%EC%8B%9C%EC%B9%B4-%EC%9B%8C%ED%84%B0-%EC%84%A0%EC%95%B0%ED%94%8C-56ml/22/) |
 
 ## Music
 
